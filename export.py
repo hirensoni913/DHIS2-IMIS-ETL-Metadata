@@ -1,5 +1,5 @@
-from dhis2 import Api
+from dhis2 import Api, pretty_json
 
 api = Api.from_auth_file('auth.json')
 
-print(api.info)
+pretty_json(api.info)
