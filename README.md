@@ -1,6 +1,8 @@
 # SwissTPH openIMIS DHIS2 module
 
 
+Supported DHIS2 version: 2.35
+
 ## Install
 
 Requirements: Python 3
@@ -26,5 +28,9 @@ python download.py
 
 will download metadata in the `metadata` folder.
 
+
+## Import metadata
+
+* Use the DHIS2 app `Import/Export` and navigate to _Metadata import_.
 
 
