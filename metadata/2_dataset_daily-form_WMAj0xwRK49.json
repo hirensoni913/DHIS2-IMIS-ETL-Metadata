@@ -1,0 +1,182 @@
+{
+  "date": "2022-07-06T19:08:17.175",
+  "categories": [
+    {
+      "code": "default",
+      "created": "2022-07-06T11:26:52.121",
+      "lastUpdated": "2022-07-06T15:24:53.882",
+      "name": "default",
+      "id": "GLevLNI9wkl",
+      "dataDimensionType": "DISAGGREGATION",
+      "publicAccess": "rw------",
+      "dataDimension": false,
+      "userGroupAccesses": [],
+      "attributeValues": [],
+      "translations": [],
+      "userAccesses": [],
+      "categoryOptions": [
+        {
+          "id": "xYerKDKCefk"
+        }
+      ]
+    }
+  ],
+  "categoryCombos": [
+    {
+      "code": "default",
+      "created": "2022-07-06T11:26:52.124",
+      "lastUpdated": "2022-07-06T11:26:52.127",
+      "name": "default",
+      "id": "bjDvmb4bfuf",
+      "dataDimensionType": "DISAGGREGATION",
+      "publicAccess": "rw------",
+      "skipTotal": false,
+      "userGroupAccesses": [],
+      "translations": [],
+      "userAccesses": [],
+      "categories": [
+        {
+          "id": "GLevLNI9wkl"
+        }
+      ]
+    }
+  ],
+  "dataElements": [
+    {
+      "lastUpdated": "2022-07-06T14:36:32.735",
+      "id": "TOhUzIBdodh",
+      "created": "2022-07-06T14:26:23.849",
+      "name": "ENR - New Insurees",
+      "shortName": "New Insurees",
+      "aggregationType": "SUM",
+      "domainType": "AGGREGATE",
+      "publicAccess": "rw------",
+      "valueType": "INTEGER_POSITIVE",
+      "zeroIsSignificant": false,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "translations": [],
+      "userGroupAccesses": [],
+      "attributeValues": [],
+      "userAccesses": [],
+      "legendSets": [],
+      "aggregationLevels": []
+    },
+    {
+      "lastUpdated": "2022-07-06T14:36:21.297",
+      "id": "cxBAJmLgdTu",
+      "created": "2022-07-06T14:36:21.297",
+      "name": "ENR - New Families",
+      "shortName": "New Families",
+      "aggregationType": "SUM",
+      "domainType": "AGGREGATE",
+      "publicAccess": "rw------",
+      "valueType": "INTEGER_POSITIVE",
+      "zeroIsSignificant": false,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "translations": [],
+      "userGroupAccesses": [],
+      "attributeValues": [],
+      "userAccesses": [],
+      "legendSets": [],
+      "aggregationLevels": []
+    }
+  ],
+  "dataSets": [
+    {
+      "lastUpdated": "2022-07-06T14:36:54.979",
+      "id": "WMAj0xwRK49",
+      "created": "2022-07-06T14:29:41.844",
+      "name": "Daily Form",
+      "validCompleteOnly": false,
+      "dataElementDecoration": false,
+      "publicAccess": "rwrw----",
+      "notifyCompletingUser": false,
+      "noValueRequiresComment": false,
+      "skipOffline": false,
+      "compulsoryFieldsCompleteOnly": false,
+      "fieldCombinationRequired": false,
+      "renderHorizontally": false,
+      "renderAsTabs": false,
+      "mobile": false,
+      "version": 1,
+      "openPeriodsAfterCoEndDate": 0,
+      "timelyDays": 15,
+      "periodType": "Daily",
+      "openFuturePeriods": 0,
+      "expiryDays": 0,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "dataSetElements": [
+        {
+          "dataElement": {
+            "id": "TOhUzIBdodh"
+          },
+          "dataSet": {
+            "id": "WMAj0xwRK49"
+          }
+        },
+        {
+          "dataElement": {
+            "id": "cxBAJmLgdTu"
+          },
+          "dataSet": {
+            "id": "WMAj0xwRK49"
+          }
+        }
+      ],
+      "compulsoryDataElementOperands": [],
+      "translations": [],
+      "dataInputPeriods": [],
+      "organisationUnits": [
+        {
+          "id": "sKNThlMLmO4"
+        }
+      ],
+      "userGroupAccesses": [],
+      "attributeValues": [],
+      "indicators": [],
+      "userAccesses": [],
+      "legendSets": []
+    }
+  ],
+  "categoryOptions": [
+    {
+      "code": "default",
+      "created": "2022-07-06T11:26:52.117",
+      "lastUpdated": "2022-07-06T11:26:52.128",
+      "name": "default",
+      "id": "xYerKDKCefk",
+      "publicAccess": "rwrw----",
+      "userGroupAccesses": [],
+      "attributeValues": [],
+      "translations": [],
+      "userAccesses": [],
+      "organisationUnits": []
+    }
+  ],
+  "categoryOptionCombos": [
+    {
+      "lastUpdated": "2022-07-06T11:26:52.127",
+      "code": "default",
+      "created": "2022-07-06T11:26:52.126",
+      "name": "default",
+      "id": "HllvX50cXC0",
+      "ignoreApproval": false,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "categoryOptions": [
+        {
+          "id": "xYerKDKCefk"
+        }
+      ]
+    }
+  ]
+}
