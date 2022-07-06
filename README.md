@@ -1,14 +1,30 @@
-# swisstph-imis-dhis2-module
+# SwissTPH openIMIS DHIS2 module
+
 
 ## Install
 
+Requirements: Python 3
+
 * Copy file `auth.json.example` to `auth.json`
 * Update credentials in `auth.json`
-* Install dependencies
+* Install dependencies:
 
 ```
 python3 -m virtualenv .venv
 source .venv/bin/activate
-python export.py
+pip install -r requirements.txt
 ```
+
+## Run
+
+```
+# if you have not done so already above:
+source .venv/bin/activate
+
+python download.py
+```
+
+will download metadata in the `metadata` folder.
+
+
 
