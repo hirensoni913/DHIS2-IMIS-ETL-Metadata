@@ -1,5 +1,5 @@
 {
-  "date": "2022-07-08T14:18:49.070",
+  "date": "2022-07-08T15:48:46.978",
   "categoryCombos": [
     {
       "created": "2022-07-07T09:09:42.878",
@@ -144,31 +144,6 @@
   ],
   "dataElements": [
     {
-      "lastUpdated": "2022-07-07T09:10:45.470",
-      "id": "cxBAJmLgdTu",
-      "created": "2022-07-06T14:36:21.297",
-      "name": "ENR - New Families",
-      "shortName": "New Families",
-      "aggregationType": "SUM",
-      "domainType": "AGGREGATE",
-      "valueType": "INTEGER_POSITIVE",
-      "sharing": {
-        "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
-        "userGroups": {},
-        "public": "rw------"
-      },
-      "zeroIsSignificant": false,
-      "categoryCombo": {
-        "id": "nmHXktiAkpn"
-      },
-      "translations": [],
-      "attributeValues": [],
-      "legendSets": [],
-      "aggregationLevels": []
-    },
-    {
       "lastUpdated": "2022-07-06T14:36:32.735",
       "id": "TOhUzIBdodh",
       "created": "2022-07-06T14:26:23.849",
@@ -187,6 +162,31 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "legendSets": [],
+      "aggregationLevels": []
+    },
+    {
+      "lastUpdated": "2022-07-07T09:10:45.470",
+      "id": "cxBAJmLgdTu",
+      "created": "2022-07-06T14:36:21.297",
+      "name": "ENR - New Families",
+      "shortName": "New Families",
+      "aggregationType": "SUM",
+      "domainType": "AGGREGATE",
+      "valueType": "INTEGER_POSITIVE",
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rw------"
+      },
+      "zeroIsSignificant": false,
+      "categoryCombo": {
+        "id": "nmHXktiAkpn"
       },
       "translations": [],
       "attributeValues": [],
@@ -386,7 +386,7 @@
   ],
   "dataSets": [
     {
-      "lastUpdated": "2022-07-08T07:39:19.784",
+      "lastUpdated": "2022-07-08T15:13:07.460",
       "id": "WMAj0xwRK49",
       "created": "2022-07-06T14:29:41.844",
       "name": "Daily Form",
@@ -404,8 +404,17 @@
         "owner": "q4lQ3GbOpMw",
         "external": false,
         "users": {},
-        "userGroups": {},
-        "public": "rwrw----"
+        "userGroups": {
+          "Q0IbgSfTcVG": {
+            "access": "r-rw----",
+            "id": "Q0IbgSfTcVG"
+          },
+          "uw37KIPZC5Q": {
+            "access": "r-r-----",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "public": "r-------"
       },
       "version": 11,
       "openPeriodsAfterCoEndDate": 0,
@@ -419,7 +428,7 @@
       "dataSetElements": [
         {
           "dataElement": {
-            "id": "cxBAJmLgdTu"
+            "id": "TOhUzIBdodh"
           },
           "dataSet": {
             "id": "WMAj0xwRK49"
@@ -427,7 +436,7 @@
         },
         {
           "dataElement": {
-            "id": "TOhUzIBdodh"
+            "id": "cxBAJmLgdTu"
           },
           "dataSet": {
             "id": "WMAj0xwRK49"
@@ -725,6 +734,24 @@
       ]
     },
     {
+      "lastUpdated": "2022-07-06T11:26:52.127",
+      "code": "default",
+      "created": "2022-07-06T11:26:52.126",
+      "name": "default",
+      "id": "HllvX50cXC0",
+      "ignoreApproval": false,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "categoryOptions": [
+        {
+          "id": "xYerKDKCefk"
+        }
+      ]
+    },
+    {
       "lastUpdated": "2022-07-07T09:09:42.917",
       "created": "2022-07-07T09:09:42.917",
       "name": "Female, 31 - 40y",
@@ -741,24 +768,6 @@
         },
         {
           "id": "Zpety2vuDvy"
-        }
-      ]
-    },
-    {
-      "lastUpdated": "2022-07-06T11:26:52.127",
-      "code": "default",
-      "created": "2022-07-06T11:26:52.126",
-      "name": "default",
-      "id": "HllvX50cXC0",
-      "ignoreApproval": false,
-      "categoryCombo": {
-        "id": "bjDvmb4bfuf"
-      },
-      "translations": [],
-      "attributeValues": [],
-      "categoryOptions": [
-        {
-          "id": "xYerKDKCefk"
         }
       ]
     },

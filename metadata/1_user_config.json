@@ -22,7 +22,7 @@
       ]
     },
     {
-      "lastUpdated": "2022-07-07T09:51:40.801",
+      "lastUpdated": "2022-07-08T15:08:47.663",
       "created": "2022-07-07T09:51:40.801",
       "name": "Data writer (bots)",
       "id": "G6JOrJVVcnS",
@@ -37,10 +37,9 @@
       "translations": [],
       "authorities": [
         "F_DATAVALUE_DELETE",
-        "M_dhis-web-cache-cleaner",
         "F_IMPORT_DATA",
-        "M_dhis-web-dataentry",
         "F_DATAVALUE_ADD",
+        "M_dhis-web-dataentry",
         "F_EXPORT_DATA"
       ]
     },
@@ -99,9 +98,26 @@
   "userGroups": [
     {
       "created": "2022-07-07T09:55:07.929",
-      "lastUpdated": "2022-07-07T09:55:07.944",
-      "name": "Data reader",
+      "lastUpdated": "2022-07-08T15:00:56.710",
+      "name": "Data reader group",
       "id": "uw37KIPZC5Q",
+      "sharing": {
+        "owner": "PJ7pWuO2jo8",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rw------"
+      },
+      "attributeValues": [],
+      "users": [],
+      "managedGroups": [],
+      "translations": []
+    },
+    {
+      "created": "2022-07-08T15:00:37.049",
+      "lastUpdated": "2022-07-08T15:04:42.789",
+      "name": "Data writer group (bots)",
+      "id": "Q0IbgSfTcVG",
       "sharing": {
         "owner": "PJ7pWuO2jo8",
         "external": false,

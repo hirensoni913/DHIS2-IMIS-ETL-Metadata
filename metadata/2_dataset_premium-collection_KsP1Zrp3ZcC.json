@@ -1,5 +1,5 @@
 {
-  "date": "2022-07-08T14:18:49.524",
+  "date": "2022-07-08T15:48:47.580",
   "categoryCombos": [
     {
       "created": "2022-07-08T07:33:14.132",
@@ -1983,7 +1983,7 @@
   ],
   "dataSets": [
     {
-      "lastUpdated": "2022-07-08T07:57:46.402",
+      "lastUpdated": "2022-07-08T15:10:28.430",
       "id": "KsP1Zrp3ZcC",
       "created": "2022-07-08T07:43:15.679",
       "name": "Premium Collection",
@@ -2002,8 +2002,17 @@
         "owner": "q4lQ3GbOpMw",
         "external": false,
         "users": {},
-        "userGroups": {},
-        "public": "rwrw----"
+        "userGroups": {
+          "Q0IbgSfTcVG": {
+            "access": "r-rw----",
+            "id": "Q0IbgSfTcVG"
+          },
+          "uw37KIPZC5Q": {
+            "access": "r-r-----",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "public": "r-------"
       },
       "version": 0,
       "openPeriodsAfterCoEndDate": 0,
