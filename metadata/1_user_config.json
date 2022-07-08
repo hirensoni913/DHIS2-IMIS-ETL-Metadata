@@ -15,10 +15,10 @@
       },
       "translations": [],
       "authorities": [
-        "M_dhis-web-data-visualizer",
         "M_dhis-web-cache-cleaner",
-        "M_dhis-web-dashboard",
-        "M_dhis-web-pivot"
+        "M_dhis-web-pivot",
+        "M_dhis-web-data-visualizer",
+        "M_dhis-web-dashboard"
       ]
     },
     {
@@ -38,8 +38,8 @@
       "authorities": [
         "F_DATAVALUE_DELETE",
         "F_IMPORT_DATA",
-        "F_DATAVALUE_ADD",
         "M_dhis-web-dataentry",
+        "F_DATAVALUE_ADD",
         "F_EXPORT_DATA"
       ]
     },
