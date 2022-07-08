@@ -1,49 +1,8 @@
 {
-  "date": "2022-07-06T19:24:01.338",
-  "categories": [
-    {
-      "code": "default",
-      "created": "2022-07-06T11:26:52.121",
-      "lastUpdated": "2022-07-06T15:24:53.882",
-      "name": "default",
-      "id": "GLevLNI9wkl",
-      "dataDimensionType": "DISAGGREGATION",
-      "publicAccess": "rw------",
-      "dataDimension": false,
-      "userGroupAccesses": [],
-      "attributeValues": [],
-      "translations": [],
-      "userAccesses": [],
-      "categoryOptions": [
-        {
-          "id": "xYerKDKCefk"
-        }
-      ]
-    }
-  ],
-  "categoryCombos": [
-    {
-      "code": "default",
-      "created": "2022-07-06T11:26:52.124",
-      "lastUpdated": "2022-07-06T11:26:52.127",
-      "name": "default",
-      "id": "bjDvmb4bfuf",
-      "dataDimensionType": "DISAGGREGATION",
-      "publicAccess": "rw------",
-      "skipTotal": false,
-      "userGroupAccesses": [],
-      "translations": [],
-      "userAccesses": [],
-      "categories": [
-        {
-          "id": "GLevLNI9wkl"
-        }
-      ]
-    }
-  ],
+  "date": "2022-07-08T09:18:43.795",
   "dataElements": [
     {
-      "lastUpdated": "2022-07-06T14:36:21.297",
+      "lastUpdated": "2022-07-07T09:10:45.470",
       "id": "cxBAJmLgdTu",
       "created": "2022-07-06T14:36:21.297",
       "name": "ENR - New Families",
@@ -54,7 +13,7 @@
       "valueType": "INTEGER_POSITIVE",
       "zeroIsSignificant": false,
       "categoryCombo": {
-        "id": "bjDvmb4bfuf"
+        "id": "nmHXktiAkpn"
       },
       "translations": [],
       "userGroupAccesses": [],
@@ -87,7 +46,7 @@
   ],
   "dataSets": [
     {
-      "lastUpdated": "2022-07-06T14:36:54.979",
+      "lastUpdated": "2022-07-08T07:39:19.784",
       "id": "WMAj0xwRK49",
       "created": "2022-07-06T14:29:41.844",
       "name": "Daily Form",
@@ -102,11 +61,11 @@
       "renderHorizontally": false,
       "renderAsTabs": false,
       "mobile": false,
-      "version": 1,
+      "version": 11,
       "openPeriodsAfterCoEndDate": 0,
       "timelyDays": 15,
       "periodType": "Daily",
-      "openFuturePeriods": 0,
+      "openFuturePeriods": 1,
       "expiryDays": 0,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
@@ -132,11 +91,7 @@
       "compulsoryDataElementOperands": [],
       "translations": [],
       "dataInputPeriods": [],
-      "organisationUnits": [
-        {
-          "id": "sKNThlMLmO4"
-        }
-      ],
+      "organisationUnits": [],
       "userGroupAccesses": [],
       "attributeValues": [],
       "indicators": [],
@@ -144,7 +99,140 @@
       "legendSets": []
     }
   ],
+  "categories": [
+    {
+      "created": "2022-07-07T09:08:08.175",
+      "lastUpdated": "2022-07-07T09:08:08.175",
+      "name": "Age",
+      "id": "rvkG1gmEz6K",
+      "dataDimensionType": "DISAGGREGATION",
+      "publicAccess": "rw------",
+      "dataDimension": true,
+      "userGroupAccesses": [],
+      "attributeValues": [],
+      "translations": [],
+      "userAccesses": [],
+      "categoryOptions": [
+        {
+          "id": "WcRzUzIlwCX"
+        },
+        {
+          "id": "Uz5EirA59Sz"
+        },
+        {
+          "id": "NWNL2dmSuYk"
+        },
+        {
+          "id": "jDqd9xn6dt0"
+        },
+        {
+          "id": "Zpety2vuDvy"
+        },
+        {
+          "id": "K6kOGac1eV2"
+        },
+        {
+          "id": "A9nits1oBpl"
+        },
+        {
+          "id": "gGdT7wqrktB"
+        }
+      ]
+    },
+    {
+      "created": "2022-07-07T08:51:47.483",
+      "lastUpdated": "2022-07-07T09:08:16.777",
+      "name": "Gender",
+      "id": "f5OhzxrFtKy",
+      "dataDimensionType": "DISAGGREGATION",
+      "publicAccess": "rw------",
+      "dataDimension": true,
+      "userGroupAccesses": [],
+      "attributeValues": [],
+      "translations": [],
+      "userAccesses": [],
+      "categoryOptions": [
+        {
+          "id": "UTyWFvVuwFq"
+        },
+        {
+          "id": "cdOQ1PPRxjJ"
+        }
+      ]
+    },
+    {
+      "code": "default",
+      "created": "2022-07-06T11:26:52.121",
+      "lastUpdated": "2022-07-07T14:20:29.391",
+      "name": "default",
+      "id": "GLevLNI9wkl",
+      "dataDimensionType": "DISAGGREGATION",
+      "publicAccess": "rw------",
+      "dataDimension": false,
+      "userGroupAccesses": [],
+      "attributeValues": [],
+      "translations": [],
+      "userAccesses": [],
+      "categoryOptions": [
+        {
+          "id": "xYerKDKCefk"
+        }
+      ]
+    }
+  ],
   "categoryOptions": [
+    {
+      "created": "2022-07-07T09:04:51.996",
+      "lastUpdated": "2022-07-08T07:33:05.739",
+      "name": "< 1y",
+      "id": "WcRzUzIlwCX",
+      "shortName": "< 1y",
+      "publicAccess": "rwrw----",
+      "userGroupAccesses": [],
+      "attributeValues": [],
+      "translations": [],
+      "userAccesses": [],
+      "organisationUnits": []
+    },
+    {
+      "created": "2022-07-07T09:05:35.782",
+      "lastUpdated": "2022-07-08T07:33:02.475",
+      "name": "11 - 20y",
+      "id": "NWNL2dmSuYk",
+      "shortName": "11 - 20y",
+      "publicAccess": "rwrw----",
+      "userGroupAccesses": [],
+      "attributeValues": [],
+      "translations": [],
+      "userAccesses": [],
+      "organisationUnits": []
+    },
+    {
+      "created": "2022-07-07T09:07:26.788",
+      "lastUpdated": "2022-07-08T07:33:05.928",
+      "name": "> 60y",
+      "id": "gGdT7wqrktB",
+      "shortName": "> 60y",
+      "publicAccess": "rwrw----",
+      "userGroupAccesses": [],
+      "attributeValues": [],
+      "translations": [],
+      "userAccesses": [],
+      "organisationUnits": []
+    },
+    {
+      "created": "2022-07-07T09:07:03.564",
+      "lastUpdated": "2022-07-08T07:33:05.657",
+      "name": "51 - 60y",
+      "id": "A9nits1oBpl",
+      "shortName": "51 - 60y",
+      "publicAccess": "rwrw----",
+      "userGroupAccesses": [],
+      "attributeValues": [],
+      "translations": [],
+      "userAccesses": [],
+      "organisationUnits": []
+    },
     {
       "code": "default",
       "created": "2022-07-06T11:26:52.117",
@@ -157,9 +245,429 @@
       "translations": [],
       "userAccesses": [],
       "organisationUnits": []
+    },
+    {
+      "created": "2022-07-07T09:05:17.737",
+      "lastUpdated": "2022-07-08T07:33:02.432",
+      "name": "1 - 10y",
+      "id": "Uz5EirA59Sz",
+      "shortName": "1 - 10y",
+      "publicAccess": "rwrw----",
+      "userGroupAccesses": [],
+      "attributeValues": [],
+      "translations": [],
+      "userAccesses": [],
+      "organisationUnits": []
+    },
+    {
+      "code": "F",
+      "created": "2022-07-07T08:47:05.414",
+      "lastUpdated": "2022-07-07T08:47:59.994",
+      "name": "Female",
+      "id": "cdOQ1PPRxjJ",
+      "shortName": "Female",
+      "publicAccess": "rwrw----",
+      "userGroupAccesses": [],
+      "attributeValues": [],
+      "translations": [],
+      "userAccesses": [],
+      "organisationUnits": []
+    },
+    {
+      "code": "M",
+      "created": "2022-07-07T08:46:50.218",
+      "lastUpdated": "2022-07-07T08:48:10.741",
+      "name": "Male",
+      "id": "UTyWFvVuwFq",
+      "shortName": "Male",
+      "publicAccess": "rwrw----",
+      "userGroupAccesses": [],
+      "attributeValues": [],
+      "translations": [],
+      "userAccesses": [],
+      "organisationUnits": []
+    },
+    {
+      "created": "2022-07-07T09:06:47.923",
+      "lastUpdated": "2022-07-08T07:33:05.621",
+      "name": "41 - 50y",
+      "id": "K6kOGac1eV2",
+      "shortName": "41 - 50y",
+      "publicAccess": "rwrw----",
+      "userGroupAccesses": [],
+      "attributeValues": [],
+      "translations": [],
+      "userAccesses": [],
+      "organisationUnits": []
+    },
+    {
+      "created": "2022-07-07T09:06:21.809",
+      "lastUpdated": "2022-07-08T07:33:04.919",
+      "name": "31 - 40y",
+      "id": "Zpety2vuDvy",
+      "shortName": "31 - 40y",
+      "publicAccess": "rwrw----",
+      "userGroupAccesses": [],
+      "attributeValues": [],
+      "translations": [],
+      "userAccesses": [],
+      "organisationUnits": []
+    },
+    {
+      "created": "2022-07-07T09:05:53.271",
+      "lastUpdated": "2022-07-08T07:33:03.078",
+      "name": "21 - 30y",
+      "id": "jDqd9xn6dt0",
+      "shortName": "21 - 30y",
+      "publicAccess": "rwrw----",
+      "userGroupAccesses": [],
+      "attributeValues": [],
+      "translations": [],
+      "userAccesses": [],
+      "organisationUnits": []
+    }
+  ],
+  "categoryCombos": [
+    {
+      "created": "2022-07-07T09:09:42.878",
+      "lastUpdated": "2022-07-07T09:09:42.921",
+      "name": "Gender & Age",
+      "id": "nmHXktiAkpn",
+      "dataDimensionType": "DISAGGREGATION",
+      "publicAccess": "rw------",
+      "skipTotal": false,
+      "userGroupAccesses": [],
+      "translations": [],
+      "userAccesses": [],
+      "categories": [
+        {
+          "id": "f5OhzxrFtKy"
+        },
+        {
+          "id": "rvkG1gmEz6K"
+        }
+      ]
+    },
+    {
+      "code": "default",
+      "created": "2022-07-06T11:26:52.124",
+      "lastUpdated": "2022-07-06T11:26:52.127",
+      "name": "default",
+      "id": "bjDvmb4bfuf",
+      "dataDimensionType": "DISAGGREGATION",
+      "publicAccess": "rw------",
+      "skipTotal": false,
+      "userGroupAccesses": [],
+      "translations": [],
+      "userAccesses": [],
+      "categories": [
+        {
+          "id": "GLevLNI9wkl"
+        }
+      ]
     }
   ],
   "categoryOptionCombos": [
+    {
+      "lastUpdated": "2022-07-07T09:09:42.910",
+      "created": "2022-07-07T09:09:42.910",
+      "name": "Male, 51 - 60y",
+      "id": "VcVrGL5Arrj",
+      "ignoreApproval": false,
+      "categoryCombo": {
+        "id": "nmHXktiAkpn"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "categoryOptions": [
+        {
+          "id": "UTyWFvVuwFq"
+        },
+        {
+          "id": "A9nits1oBpl"
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-07T09:09:42.903",
+      "created": "2022-07-07T09:09:42.903",
+      "name": "Male, < 1y",
+      "id": "JImXfiX3417",
+      "ignoreApproval": false,
+      "categoryCombo": {
+        "id": "nmHXktiAkpn"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "categoryOptions": [
+        {
+          "id": "WcRzUzIlwCX"
+        },
+        {
+          "id": "UTyWFvVuwFq"
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-07T09:09:42.920",
+      "created": "2022-07-07T09:09:42.920",
+      "name": "Female, > 60y",
+      "id": "hc4D9jQQ5aH",
+      "ignoreApproval": false,
+      "categoryCombo": {
+        "id": "nmHXktiAkpn"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "categoryOptions": [
+        {
+          "id": "cdOQ1PPRxjJ"
+        },
+        {
+          "id": "gGdT7wqrktB"
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-07T09:09:42.904",
+      "created": "2022-07-07T09:09:42.904",
+      "name": "Male, 1 - 10y",
+      "id": "XWivMQbogJM",
+      "ignoreApproval": false,
+      "categoryCombo": {
+        "id": "nmHXktiAkpn"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "categoryOptions": [
+        {
+          "id": "UTyWFvVuwFq"
+        },
+        {
+          "id": "Uz5EirA59Sz"
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-07T09:09:42.906",
+      "created": "2022-07-07T09:09:42.906",
+      "name": "Male, 11 - 20y",
+      "id": "RjO2pJqSNyF",
+      "ignoreApproval": false,
+      "categoryCombo": {
+        "id": "nmHXktiAkpn"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "categoryOptions": [
+        {
+          "id": "NWNL2dmSuYk"
+        },
+        {
+          "id": "UTyWFvVuwFq"
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-07T09:09:42.916",
+      "created": "2022-07-07T09:09:42.916",
+      "name": "Female, 21 - 30y",
+      "id": "DfTj9lOfO4E",
+      "ignoreApproval": false,
+      "categoryCombo": {
+        "id": "nmHXktiAkpn"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "categoryOptions": [
+        {
+          "id": "cdOQ1PPRxjJ"
+        },
+        {
+          "id": "jDqd9xn6dt0"
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-07T09:09:42.918",
+      "created": "2022-07-07T09:09:42.918",
+      "name": "Female, 41 - 50y",
+      "id": "z2vDhK4R9w2",
+      "ignoreApproval": false,
+      "categoryCombo": {
+        "id": "nmHXktiAkpn"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "categoryOptions": [
+        {
+          "id": "cdOQ1PPRxjJ"
+        },
+        {
+          "id": "K6kOGac1eV2"
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-07T09:09:42.908",
+      "created": "2022-07-07T09:09:42.908",
+      "name": "Male, 31 - 40y",
+      "id": "WMHoo50RtWn",
+      "ignoreApproval": false,
+      "categoryCombo": {
+        "id": "nmHXktiAkpn"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "categoryOptions": [
+        {
+          "id": "Zpety2vuDvy"
+        },
+        {
+          "id": "UTyWFvVuwFq"
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-07T09:09:42.919",
+      "created": "2022-07-07T09:09:42.919",
+      "name": "Female, 51 - 60y",
+      "id": "i6WGfRsv0eH",
+      "ignoreApproval": false,
+      "categoryCombo": {
+        "id": "nmHXktiAkpn"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "categoryOptions": [
+        {
+          "id": "cdOQ1PPRxjJ"
+        },
+        {
+          "id": "A9nits1oBpl"
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-07T09:09:42.911",
+      "created": "2022-07-07T09:09:42.911",
+      "name": "Male, > 60y",
+      "id": "QURu6L1C4yj",
+      "ignoreApproval": false,
+      "categoryCombo": {
+        "id": "nmHXktiAkpn"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "categoryOptions": [
+        {
+          "id": "gGdT7wqrktB"
+        },
+        {
+          "id": "UTyWFvVuwFq"
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-07T09:09:42.913",
+      "created": "2022-07-07T09:09:42.913",
+      "name": "Female, < 1y",
+      "id": "N25TKL5Nviz",
+      "ignoreApproval": false,
+      "categoryCombo": {
+        "id": "nmHXktiAkpn"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "categoryOptions": [
+        {
+          "id": "cdOQ1PPRxjJ"
+        },
+        {
+          "id": "WcRzUzIlwCX"
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-07T09:09:42.915",
+      "created": "2022-07-07T09:09:42.915",
+      "name": "Female, 11 - 20y",
+      "id": "xGYZVLi3TcN",
+      "ignoreApproval": false,
+      "categoryCombo": {
+        "id": "nmHXktiAkpn"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "categoryOptions": [
+        {
+          "id": "cdOQ1PPRxjJ"
+        },
+        {
+          "id": "NWNL2dmSuYk"
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-07T09:09:42.909",
+      "created": "2022-07-07T09:09:42.909",
+      "name": "Male, 41 - 50y",
+      "id": "ITuSXcDACWo",
+      "ignoreApproval": false,
+      "categoryCombo": {
+        "id": "nmHXktiAkpn"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "categoryOptions": [
+        {
+          "id": "UTyWFvVuwFq"
+        },
+        {
+          "id": "K6kOGac1eV2"
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-07T09:09:42.907",
+      "created": "2022-07-07T09:09:42.907",
+      "name": "Male, 21 - 30y",
+      "id": "MD5erPl1Xr1",
+      "ignoreApproval": false,
+      "categoryCombo": {
+        "id": "nmHXktiAkpn"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "categoryOptions": [
+        {
+          "id": "UTyWFvVuwFq"
+        },
+        {
+          "id": "jDqd9xn6dt0"
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-07T09:09:42.917",
+      "created": "2022-07-07T09:09:42.917",
+      "name": "Female, 31 - 40y",
+      "id": "C4l1efjuZ7z",
+      "ignoreApproval": false,
+      "categoryCombo": {
+        "id": "nmHXktiAkpn"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "categoryOptions": [
+        {
+          "id": "cdOQ1PPRxjJ"
+        },
+        {
+          "id": "Zpety2vuDvy"
+        }
+      ]
+    },
     {
       "lastUpdated": "2022-07-06T11:26:52.127",
       "code": "default",
@@ -175,6 +683,26 @@
       "categoryOptions": [
         {
           "id": "xYerKDKCefk"
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-07T09:09:42.914",
+      "created": "2022-07-07T09:09:42.914",
+      "name": "Female, 1 - 10y",
+      "id": "RN3dfJ6lomx",
+      "ignoreApproval": false,
+      "categoryCombo": {
+        "id": "nmHXktiAkpn"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "categoryOptions": [
+        {
+          "id": "cdOQ1PPRxjJ"
+        },
+        {
+          "id": "Uz5EirA59Sz"
         }
       ]
     }

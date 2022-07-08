@@ -29,34 +29,51 @@ def save_json(data, filename, remove_keys=default_remove_keys):
         logger.info(f"Saved file: {file_path}")
     
 
-def export_orgunits():
-    data = api.get_paged('organisationUnits', params={'fields': ':owner'}, page_size=1000, merge=True)
+def download_orgunits():
+    data = {}
+    data['organisationUnits'] = api.get_paged('organisationUnits', params={'fields': ':owner'}, page_size=1000, merge=True)['organisationUnits']
+    data['organisationUnitLevels'] = api.get('organisationUnitLevels', params={'fields': ':owner'}).json()['organisationUnitLevels']
     save_json(data, '1_organisation_units')
 
-def export_data_sets():
+def download_data_sets():
     data_sets = {d['id']: d['name'] for d in api.get('dataSets', params={'fields': 'id,name'}).json().get('dataSets')}
     logger.info(f"Found {len(data_sets)} datasets")
     for uid, name in data_sets.items():
         logger.info(f" - {name} ({uid})")
         data = api.get(f'dataSets/{uid}/metadata').json()
+        # remove org unit association
+        data['dataSets'][0]['organisationUnits'] = []
         slug_name = f"2_dataset_{slugify(name)}_{uid}"
         save_json(data, slug_name)
 
-def export_dashboards():
+def download_dashboards():
     dashboards = {d['id']: d['name'] for d in api.get('dashboards', params={'fields': 'id,name'}).json().get('dashboards')}
     logger.info(f"Found {len(dashboards)} dashboards")
     for uid, name in dashboards.items():
         logger.info(f" - {name} ({uid})")
-        data = api.get(f'dataSets/{uid}/metadata').json()
-        slug_name = f"2_dataset_{slugify(name)}_{uid}"
+        data = api.get(f'dashboards/{uid}/metadata').json()
+        slug_name = f"9_dashboard_{slugify(name)}_{uid}"
         save_json(data, slug_name)
+
+
+def download_user_config():
+    data = {}
+    user_roles = api.get('userRoles', params={'fields': ':owner'}).json()['userRoles']
+    user_groups = api.get('userGroups', params={'fields': ':owner'}).json()['userGroups']
+    data['userRoles'] = user_roles
+    data['userGroups'] = user_groups
+    # remove users from the group
+    for ug in data['userGroups']:
+        ug['users'] = []
+    save_json(data, '1_user_config')
 
 
 def main():
     logger.info(f"Starting export of configuration from {api.base_url}")
-    export_orgunits()
-    export_data_sets()
-    export_dashboards()
+    download_orgunits()
+    download_data_sets()
+    download_dashboards()
+    download_user_config()
 
 if __name__ == '__main__':
     main()
