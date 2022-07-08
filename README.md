@@ -1,7 +1,7 @@
 # SwissTPH openIMIS DHIS2 module
 
 
-Supported DHIS2 version: 2.35
+Supported DHIS2 version: 2.37
 
 ## Install
 

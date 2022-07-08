@@ -1,15 +1,26 @@
 {
-  "date": "2022-07-08T09:18:45.629",
+  "date": "2022-07-08T14:16:55.313",
   "dashboards": [
     {
       "created": "2022-07-07T13:51:38.717",
       "lastUpdated": "2022-07-08T08:41:30.220",
       "name": "Enrolments",
       "id": "oTiasBlPkaf",
-      "publicAccess": "rw------",
-      "externalAccess": false,
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rw------"
+      },
+      "restrictFilters": false,
+      "createdBy": {
+        "displayName": "Hiren Soni",
+        "name": "Hiren Soni",
+        "id": "q4lQ3GbOpMw",
+        "username": "hiren"
+      },
       "favorites": [],
-      "userGroupAccesses": [],
       "dashboardItems": [
         {
           "lastUpdated": "2022-07-08T08:41:30.220",
@@ -20,6 +31,11 @@
           "contentCount": 1,
           "height": 27,
           "interpretationCount": 0,
+          "sharing": {
+            "external": false,
+            "users": {},
+            "userGroups": {}
+          },
           "width": 59,
           "x": 0,
           "interpretationLikeCount": 0,
@@ -54,6 +70,11 @@
           "contentCount": 1,
           "height": 29,
           "interpretationCount": 0,
+          "sharing": {
+            "external": false,
+            "users": {},
+            "userGroups": {}
+          },
           "width": 59,
           "x": 0,
           "interpretationLikeCount": 0,
@@ -80,8 +101,7 @@
           "userAccesses": []
         }
       ],
-      "translations": [],
-      "userAccesses": []
+      "translations": []
     }
   ],
   "visualizations": [
@@ -91,10 +111,14 @@
       "created": "2022-07-08T08:34:01.360",
       "name": "Premium Collection  by Pay Type - All regions - 2020",
       "showData": true,
+      "fixRowHeaders": false,
       "numberType": "VALUE",
-      "publicAccess": "--------",
+      "legend": {
+        "showKey": false,
+        "style": "FILL",
+        "strategy": "FIXED"
+      },
       "userOrganisationUnitChildren": false,
-      "legendDisplayStyle": "FILL",
       "type": "STACKED_COLUMN",
       "hideEmptyColumns": false,
       "hideEmptyRows": false,
@@ -105,6 +129,13 @@
       "cumulativeValues": false,
       "completedOnly": false,
       "colTotals": false,
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "--------"
+      },
       "showDimensionLabels": false,
       "sortOrder": 0,
       "fontSize": "NORMAL",
@@ -115,13 +146,15 @@
       "hideSubtitle": false,
       "description": "Premium collected in the year 2020 by pay type in all the regions",
       "hideLegend": false,
-      "externalAccess": false,
+      "fixColumnHeaders": false,
       "percentStackedValues": false,
-      "legendDisplayStrategy": "FIXED",
       "colSubTotals": false,
       "noSpaceBetweenColumns": false,
       "showHierarchy": false,
       "rowTotals": false,
+      "seriesKey": {
+        "hidden": false
+      },
       "digitGroupSeparator": "SPACE",
       "hideTitle": false,
       "regression": false,
@@ -131,6 +164,7 @@
       "relativePeriods": {
         "thisYear": false,
         "quartersLastYear": false,
+        "last10Years": false,
         "last30Days": false,
         "last52Weeks": false,
         "thisWeek": false,
@@ -154,6 +188,7 @@
         "thisMonth": false,
         "last5Years": false,
         "last6BiMonths": false,
+        "last10FinancialYears": false,
         "last4BiWeeks": false,
         "lastFinancialYear": false,
         "lastBiWeek": false,
@@ -179,6 +214,12 @@
         "organisationUnit": false,
         "grandParentOrganisationUnit": false
       },
+      "createdBy": {
+        "displayName": "Hiren Soni",
+        "name": "Hiren Soni",
+        "id": "q4lQ3GbOpMw",
+        "username": "hiren"
+      },
       "dataElementGroupSetDimensions": [],
       "translations": [],
       "yearlySeries": [],
@@ -187,13 +228,11 @@
         "dx"
       ],
       "itemOrganisationUnitGroups": [],
-      "userGroupAccesses": [],
       "subscribers": [],
       "columnDimensions": [
         "bOCrZguqyBl"
       ],
       "optionalAxes": [],
-      "userAccesses": [],
       "favorites": [],
       "dataDimensionItems": [
         {
@@ -279,10 +318,14 @@
       "created": "2022-07-07T14:00:25.460",
       "name": "New Enrolments by Gender - Regions - 2020",
       "showData": true,
+      "fixRowHeaders": false,
       "numberType": "VALUE",
-      "publicAccess": "rw------",
+      "legend": {
+        "showKey": false,
+        "style": "FILL",
+        "strategy": "FIXED"
+      },
       "userOrganisationUnitChildren": true,
-      "legendDisplayStyle": "FILL",
       "type": "STACKED_BAR",
       "hideEmptyColumns": false,
       "hideEmptyRows": false,
@@ -293,6 +336,13 @@
       "cumulativeValues": false,
       "completedOnly": false,
       "colTotals": false,
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rw------"
+      },
       "showDimensionLabels": false,
       "sortOrder": 0,
       "fontSize": "NORMAL",
@@ -303,13 +353,15 @@
       "hideSubtitle": false,
       "description": "",
       "hideLegend": false,
-      "externalAccess": false,
+      "fixColumnHeaders": false,
       "percentStackedValues": false,
-      "legendDisplayStrategy": "FIXED",
       "colSubTotals": false,
       "noSpaceBetweenColumns": false,
       "showHierarchy": false,
       "rowTotals": false,
+      "seriesKey": {
+        "hidden": false
+      },
       "digitGroupSeparator": "SPACE",
       "hideTitle": false,
       "regression": false,
@@ -319,6 +371,7 @@
       "relativePeriods": {
         "thisYear": false,
         "quartersLastYear": false,
+        "last10Years": false,
         "last30Days": false,
         "last52Weeks": false,
         "thisWeek": false,
@@ -342,6 +395,7 @@
         "thisMonth": false,
         "last5Years": false,
         "last6BiMonths": false,
+        "last10FinancialYears": false,
         "last4BiWeeks": false,
         "lastFinancialYear": false,
         "lastBiWeek": false,
@@ -367,6 +421,12 @@
         "organisationUnit": false,
         "grandParentOrganisationUnit": false
       },
+      "createdBy": {
+        "displayName": "Hiren Soni",
+        "name": "Hiren Soni",
+        "id": "q4lQ3GbOpMw",
+        "username": "hiren"
+      },
       "dataElementGroupSetDimensions": [],
       "translations": [],
       "yearlySeries": [],
@@ -375,13 +435,11 @@
         "dx"
       ],
       "itemOrganisationUnitGroups": [],
-      "userGroupAccesses": [],
       "subscribers": [],
       "columnDimensions": [
         "f5OhzxrFtKy"
       ],
       "optionalAxes": [],
-      "userAccesses": [],
       "favorites": [],
       "dataDimensionItems": [
         {

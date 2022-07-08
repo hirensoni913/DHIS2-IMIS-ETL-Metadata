@@ -1,30 +1,52 @@
 {
   "userRoles": [
     {
-      "created": "2022-07-07T09:46:52.711",
       "lastUpdated": "2022-07-07T09:59:22.801",
+      "created": "2022-07-07T09:46:52.711",
       "name": "Data reader",
       "id": "WDhIcQzE1K5",
-      "publicAccess": "rw------",
       "description": "for viewing data in the dashboard and analytics apps",
-      "userGroupAccesses": [],
+      "sharing": {
+        "owner": "PJ7pWuO2jo8",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rw------"
+      },
+      "createdBy": {
+        "displayName": "David Huser",
+        "name": "David Huser",
+        "id": "PJ7pWuO2jo8",
+        "username": "davidhuser"
+      },
+      "translations": [],
       "authorities": [
         "M_dhis-web-cache-cleaner",
         "M_dhis-web-pivot",
         "M_dhis-web-data-visualizer",
         "M_dhis-web-dashboard"
-      ],
-      "translations": [],
-      "userAccesses": []
+      ]
     },
     {
-      "created": "2022-07-07T09:51:40.801",
       "lastUpdated": "2022-07-07T09:51:40.801",
+      "created": "2022-07-07T09:51:40.801",
       "name": "Data writer (bots)",
       "id": "G6JOrJVVcnS",
-      "publicAccess": "rw------",
       "description": "for data integration bots only",
-      "userGroupAccesses": [],
+      "sharing": {
+        "owner": "PJ7pWuO2jo8",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rw------"
+      },
+      "createdBy": {
+        "displayName": "David Huser",
+        "name": "David Huser",
+        "id": "PJ7pWuO2jo8",
+        "username": "davidhuser"
+      },
+      "translations": [],
       "authorities": [
         "F_DATAVALUE_DELETE",
         "M_dhis-web-cache-cleaner",
@@ -32,19 +54,22 @@
         "M_dhis-web-dataentry",
         "F_DATAVALUE_ADD",
         "F_EXPORT_DATA"
-      ],
-      "translations": [],
-      "userAccesses": []
+      ]
     },
     {
+      "lastUpdated": "2022-07-06T11:26:51.524",
       "code": "Superuser",
       "created": "2022-07-06T11:26:51.524",
-      "lastUpdated": "2022-07-06T11:26:51.524",
       "name": "Superuser",
       "id": "yrB6vc5Ip3r",
-      "publicAccess": "--------",
       "description": "Superuser",
-      "userGroupAccesses": [],
+      "sharing": {
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "--------"
+      },
+      "translations": [],
       "authorities": [
         "F_TRACKED_ENTITY_INSTANCE_SEARCH_IN_ALL_ORGUNITS",
         "F_TRACKER_IMPORTER_EXPERIMENTAL",
@@ -80,9 +105,7 @@
         "F_PROGRAM_DASHBOARD_CONFIG_ADMIN",
         "F_APPROVE_DATA_LOWER_LEVELS",
         "F_UNCOMPLETE_EVENT"
-      ],
-      "translations": [],
-      "userAccesses": []
+      ]
     }
   ],
   "userGroups": [
@@ -91,13 +114,23 @@
       "lastUpdated": "2022-07-07T09:55:07.944",
       "name": "Data reader",
       "id": "uw37KIPZC5Q",
-      "publicAccess": "rw------",
-      "userGroupAccesses": [],
+      "sharing": {
+        "owner": "PJ7pWuO2jo8",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rw------"
+      },
+      "createdBy": {
+        "displayName": "David Huser",
+        "name": "David Huser",
+        "id": "PJ7pWuO2jo8",
+        "username": "davidhuser"
+      },
       "attributeValues": [],
       "users": [],
       "managedGroups": [],
-      "translations": [],
-      "userAccesses": []
+      "translations": []
     }
   ]
 }

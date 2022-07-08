@@ -1,102 +1,56 @@
 {
-  "date": "2022-07-08T09:18:43.795",
-  "dataElements": [
+  "date": "2022-07-08T14:16:54.360",
+  "categoryCombos": [
     {
-      "lastUpdated": "2022-07-07T09:10:45.470",
-      "id": "cxBAJmLgdTu",
-      "created": "2022-07-06T14:36:21.297",
-      "name": "ENR - New Families",
-      "shortName": "New Families",
-      "aggregationType": "SUM",
-      "domainType": "AGGREGATE",
-      "publicAccess": "rw------",
-      "valueType": "INTEGER_POSITIVE",
-      "zeroIsSignificant": false,
-      "categoryCombo": {
-        "id": "nmHXktiAkpn"
+      "created": "2022-07-07T09:09:42.878",
+      "lastUpdated": "2022-07-07T09:09:42.921",
+      "name": "Gender & Age",
+      "id": "nmHXktiAkpn",
+      "dataDimensionType": "DISAGGREGATION",
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rw------"
+      },
+      "skipTotal": false,
+      "createdBy": {
+        "displayName": "Hiren Soni",
+        "name": "Hiren Soni",
+        "id": "q4lQ3GbOpMw",
+        "username": "hiren"
       },
       "translations": [],
-      "userGroupAccesses": [],
-      "attributeValues": [],
-      "userAccesses": [],
-      "legendSets": [],
-      "aggregationLevels": []
-    },
-    {
-      "lastUpdated": "2022-07-06T14:36:32.735",
-      "id": "TOhUzIBdodh",
-      "created": "2022-07-06T14:26:23.849",
-      "name": "ENR - New Insurees",
-      "shortName": "New Insurees",
-      "aggregationType": "SUM",
-      "domainType": "AGGREGATE",
-      "publicAccess": "rw------",
-      "valueType": "INTEGER_POSITIVE",
-      "zeroIsSignificant": false,
-      "categoryCombo": {
-        "id": "bjDvmb4bfuf"
-      },
-      "translations": [],
-      "userGroupAccesses": [],
-      "attributeValues": [],
-      "userAccesses": [],
-      "legendSets": [],
-      "aggregationLevels": []
-    }
-  ],
-  "dataSets": [
-    {
-      "lastUpdated": "2022-07-08T07:39:19.784",
-      "id": "WMAj0xwRK49",
-      "created": "2022-07-06T14:29:41.844",
-      "name": "Daily Form",
-      "validCompleteOnly": false,
-      "dataElementDecoration": false,
-      "publicAccess": "rwrw----",
-      "notifyCompletingUser": false,
-      "noValueRequiresComment": false,
-      "skipOffline": false,
-      "compulsoryFieldsCompleteOnly": false,
-      "fieldCombinationRequired": false,
-      "renderHorizontally": false,
-      "renderAsTabs": false,
-      "mobile": false,
-      "version": 11,
-      "openPeriodsAfterCoEndDate": 0,
-      "timelyDays": 15,
-      "periodType": "Daily",
-      "openFuturePeriods": 1,
-      "expiryDays": 0,
-      "categoryCombo": {
-        "id": "bjDvmb4bfuf"
-      },
-      "dataSetElements": [
+      "categories": [
         {
-          "dataElement": {
-            "id": "cxBAJmLgdTu"
-          },
-          "dataSet": {
-            "id": "WMAj0xwRK49"
-          }
+          "id": "f5OhzxrFtKy"
         },
         {
-          "dataElement": {
-            "id": "TOhUzIBdodh"
-          },
-          "dataSet": {
-            "id": "WMAj0xwRK49"
-          }
+          "id": "rvkG1gmEz6K"
         }
-      ],
-      "compulsoryDataElementOperands": [],
+      ]
+    },
+    {
+      "code": "default",
+      "created": "2022-07-06T11:26:52.124",
+      "lastUpdated": "2022-07-06T11:26:52.127",
+      "name": "default",
+      "id": "bjDvmb4bfuf",
+      "dataDimensionType": "DISAGGREGATION",
+      "sharing": {
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rw------"
+      },
+      "skipTotal": false,
       "translations": [],
-      "dataInputPeriods": [],
-      "organisationUnits": [],
-      "userGroupAccesses": [],
-      "attributeValues": [],
-      "indicators": [],
-      "userAccesses": [],
-      "legendSets": []
+      "categories": [
+        {
+          "id": "GLevLNI9wkl"
+        }
+      ]
     }
   ],
   "categories": [
@@ -105,13 +59,24 @@
       "lastUpdated": "2022-07-07T09:08:08.175",
       "name": "Age",
       "id": "rvkG1gmEz6K",
+      "shortName": "Age",
       "dataDimensionType": "DISAGGREGATION",
-      "publicAccess": "rw------",
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rw------"
+      },
       "dataDimension": true,
-      "userGroupAccesses": [],
+      "createdBy": {
+        "displayName": "Hiren Soni",
+        "name": "Hiren Soni",
+        "id": "q4lQ3GbOpMw",
+        "username": "hiren"
+      },
       "attributeValues": [],
       "translations": [],
-      "userAccesses": [],
       "categoryOptions": [
         {
           "id": "WcRzUzIlwCX"
@@ -144,13 +109,24 @@
       "lastUpdated": "2022-07-07T09:08:16.777",
       "name": "Gender",
       "id": "f5OhzxrFtKy",
+      "shortName": "Gender",
       "dataDimensionType": "DISAGGREGATION",
-      "publicAccess": "rw------",
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rw------"
+      },
       "dataDimension": true,
-      "userGroupAccesses": [],
+      "createdBy": {
+        "displayName": "Hiren Soni",
+        "name": "Hiren Soni",
+        "id": "q4lQ3GbOpMw",
+        "username": "hiren"
+      },
       "attributeValues": [],
       "translations": [],
-      "userAccesses": [],
       "categoryOptions": [
         {
           "id": "UTyWFvVuwFq"
@@ -163,21 +139,89 @@
     {
       "code": "default",
       "created": "2022-07-06T11:26:52.121",
-      "lastUpdated": "2022-07-07T14:20:29.391",
+      "lastUpdated": "2022-07-08T12:30:43.796",
       "name": "default",
       "id": "GLevLNI9wkl",
+      "shortName": "default",
       "dataDimensionType": "DISAGGREGATION",
-      "publicAccess": "rw------",
+      "sharing": {
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rw------"
+      },
       "dataDimension": false,
-      "userGroupAccesses": [],
       "attributeValues": [],
       "translations": [],
-      "userAccesses": [],
       "categoryOptions": [
         {
           "id": "xYerKDKCefk"
         }
       ]
+    }
+  ],
+  "dataElements": [
+    {
+      "lastUpdated": "2022-07-07T09:10:45.470",
+      "id": "cxBAJmLgdTu",
+      "created": "2022-07-06T14:36:21.297",
+      "name": "ENR - New Families",
+      "shortName": "New Families",
+      "aggregationType": "SUM",
+      "domainType": "AGGREGATE",
+      "valueType": "INTEGER_POSITIVE",
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rw------"
+      },
+      "zeroIsSignificant": false,
+      "categoryCombo": {
+        "id": "nmHXktiAkpn"
+      },
+      "createdBy": {
+        "displayName": "Hiren Soni",
+        "name": "Hiren Soni",
+        "id": "q4lQ3GbOpMw",
+        "username": "hiren"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "legendSets": [],
+      "aggregationLevels": []
+    },
+    {
+      "lastUpdated": "2022-07-06T14:36:32.735",
+      "id": "TOhUzIBdodh",
+      "created": "2022-07-06T14:26:23.849",
+      "name": "ENR - New Insurees",
+      "shortName": "New Insurees",
+      "aggregationType": "SUM",
+      "domainType": "AGGREGATE",
+      "valueType": "INTEGER_POSITIVE",
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rw------"
+      },
+      "zeroIsSignificant": false,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "createdBy": {
+        "displayName": "Hiren Soni",
+        "name": "Hiren Soni",
+        "id": "q4lQ3GbOpMw",
+        "username": "hiren"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "legendSets": [],
+      "aggregationLevels": []
     }
   ],
   "categoryOptions": [
@@ -187,11 +231,21 @@
       "name": "< 1y",
       "id": "WcRzUzIlwCX",
       "shortName": "< 1y",
-      "publicAccess": "rwrw----",
-      "userGroupAccesses": [],
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rwrw----"
+      },
+      "createdBy": {
+        "displayName": "Hiren Soni",
+        "name": "Hiren Soni",
+        "id": "q4lQ3GbOpMw",
+        "username": "hiren"
+      },
       "attributeValues": [],
       "translations": [],
-      "userAccesses": [],
       "organisationUnits": []
     },
     {
@@ -200,11 +254,21 @@
       "name": "11 - 20y",
       "id": "NWNL2dmSuYk",
       "shortName": "11 - 20y",
-      "publicAccess": "rwrw----",
-      "userGroupAccesses": [],
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rwrw----"
+      },
+      "createdBy": {
+        "displayName": "Hiren Soni",
+        "name": "Hiren Soni",
+        "id": "q4lQ3GbOpMw",
+        "username": "hiren"
+      },
       "attributeValues": [],
       "translations": [],
-      "userAccesses": [],
       "organisationUnits": []
     },
     {
@@ -213,11 +277,21 @@
       "name": "> 60y",
       "id": "gGdT7wqrktB",
       "shortName": "> 60y",
-      "publicAccess": "rwrw----",
-      "userGroupAccesses": [],
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rwrw----"
+      },
+      "createdBy": {
+        "displayName": "Hiren Soni",
+        "name": "Hiren Soni",
+        "id": "q4lQ3GbOpMw",
+        "username": "hiren"
+      },
       "attributeValues": [],
       "translations": [],
-      "userAccesses": [],
       "organisationUnits": []
     },
     {
@@ -226,11 +300,21 @@
       "name": "51 - 60y",
       "id": "A9nits1oBpl",
       "shortName": "51 - 60y",
-      "publicAccess": "rwrw----",
-      "userGroupAccesses": [],
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rwrw----"
+      },
+      "createdBy": {
+        "displayName": "Hiren Soni",
+        "name": "Hiren Soni",
+        "id": "q4lQ3GbOpMw",
+        "username": "hiren"
+      },
       "attributeValues": [],
       "translations": [],
-      "userAccesses": [],
       "organisationUnits": []
     },
     {
@@ -239,11 +323,14 @@
       "lastUpdated": "2022-07-06T11:26:52.128",
       "name": "default",
       "id": "xYerKDKCefk",
-      "publicAccess": "rwrw----",
-      "userGroupAccesses": [],
+      "sharing": {
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rwrw----"
+      },
       "attributeValues": [],
       "translations": [],
-      "userAccesses": [],
       "organisationUnits": []
     },
     {
@@ -252,11 +339,21 @@
       "name": "1 - 10y",
       "id": "Uz5EirA59Sz",
       "shortName": "1 - 10y",
-      "publicAccess": "rwrw----",
-      "userGroupAccesses": [],
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rwrw----"
+      },
+      "createdBy": {
+        "displayName": "Hiren Soni",
+        "name": "Hiren Soni",
+        "id": "q4lQ3GbOpMw",
+        "username": "hiren"
+      },
       "attributeValues": [],
       "translations": [],
-      "userAccesses": [],
       "organisationUnits": []
     },
     {
@@ -266,11 +363,21 @@
       "name": "Female",
       "id": "cdOQ1PPRxjJ",
       "shortName": "Female",
-      "publicAccess": "rwrw----",
-      "userGroupAccesses": [],
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rwrw----"
+      },
+      "createdBy": {
+        "displayName": "Hiren Soni",
+        "name": "Hiren Soni",
+        "id": "q4lQ3GbOpMw",
+        "username": "hiren"
+      },
       "attributeValues": [],
       "translations": [],
-      "userAccesses": [],
       "organisationUnits": []
     },
     {
@@ -280,11 +387,21 @@
       "name": "Male",
       "id": "UTyWFvVuwFq",
       "shortName": "Male",
-      "publicAccess": "rwrw----",
-      "userGroupAccesses": [],
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rwrw----"
+      },
+      "createdBy": {
+        "displayName": "Hiren Soni",
+        "name": "Hiren Soni",
+        "id": "q4lQ3GbOpMw",
+        "username": "hiren"
+      },
       "attributeValues": [],
       "translations": [],
-      "userAccesses": [],
       "organisationUnits": []
     },
     {
@@ -293,11 +410,21 @@
       "name": "41 - 50y",
       "id": "K6kOGac1eV2",
       "shortName": "41 - 50y",
-      "publicAccess": "rwrw----",
-      "userGroupAccesses": [],
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rwrw----"
+      },
+      "createdBy": {
+        "displayName": "Hiren Soni",
+        "name": "Hiren Soni",
+        "id": "q4lQ3GbOpMw",
+        "username": "hiren"
+      },
       "attributeValues": [],
       "translations": [],
-      "userAccesses": [],
       "organisationUnits": []
     },
     {
@@ -306,11 +433,21 @@
       "name": "31 - 40y",
       "id": "Zpety2vuDvy",
       "shortName": "31 - 40y",
-      "publicAccess": "rwrw----",
-      "userGroupAccesses": [],
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rwrw----"
+      },
+      "createdBy": {
+        "displayName": "Hiren Soni",
+        "name": "Hiren Soni",
+        "id": "q4lQ3GbOpMw",
+        "username": "hiren"
+      },
       "attributeValues": [],
       "translations": [],
-      "userAccesses": [],
       "organisationUnits": []
     },
     {
@@ -319,52 +456,87 @@
       "name": "21 - 30y",
       "id": "jDqd9xn6dt0",
       "shortName": "21 - 30y",
-      "publicAccess": "rwrw----",
-      "userGroupAccesses": [],
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rwrw----"
+      },
+      "createdBy": {
+        "displayName": "Hiren Soni",
+        "name": "Hiren Soni",
+        "id": "q4lQ3GbOpMw",
+        "username": "hiren"
+      },
       "attributeValues": [],
       "translations": [],
-      "userAccesses": [],
       "organisationUnits": []
     }
   ],
-  "categoryCombos": [
+  "dataSets": [
     {
-      "created": "2022-07-07T09:09:42.878",
-      "lastUpdated": "2022-07-07T09:09:42.921",
-      "name": "Gender & Age",
-      "id": "nmHXktiAkpn",
-      "dataDimensionType": "DISAGGREGATION",
-      "publicAccess": "rw------",
-      "skipTotal": false,
-      "userGroupAccesses": [],
-      "translations": [],
-      "userAccesses": [],
-      "categories": [
+      "lastUpdated": "2022-07-08T07:39:19.784",
+      "id": "WMAj0xwRK49",
+      "created": "2022-07-06T14:29:41.844",
+      "name": "Daily Form",
+      "validCompleteOnly": false,
+      "dataElementDecoration": false,
+      "notifyCompletingUser": false,
+      "noValueRequiresComment": false,
+      "skipOffline": false,
+      "compulsoryFieldsCompleteOnly": false,
+      "fieldCombinationRequired": false,
+      "renderHorizontally": false,
+      "renderAsTabs": false,
+      "mobile": false,
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rwrw----"
+      },
+      "version": 11,
+      "openPeriodsAfterCoEndDate": 0,
+      "timelyDays": 15,
+      "periodType": "Daily",
+      "openFuturePeriods": 1,
+      "expiryDays": 0,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "createdBy": {
+        "displayName": "Hiren Soni",
+        "name": "Hiren Soni",
+        "id": "q4lQ3GbOpMw",
+        "username": "hiren"
+      },
+      "dataSetElements": [
         {
-          "id": "f5OhzxrFtKy"
+          "dataElement": {
+            "id": "cxBAJmLgdTu"
+          },
+          "dataSet": {
+            "id": "WMAj0xwRK49"
+          }
         },
         {
-          "id": "rvkG1gmEz6K"
+          "dataElement": {
+            "id": "TOhUzIBdodh"
+          },
+          "dataSet": {
+            "id": "WMAj0xwRK49"
+          }
         }
-      ]
-    },
-    {
-      "code": "default",
-      "created": "2022-07-06T11:26:52.124",
-      "lastUpdated": "2022-07-06T11:26:52.127",
-      "name": "default",
-      "id": "bjDvmb4bfuf",
-      "dataDimensionType": "DISAGGREGATION",
-      "publicAccess": "rw------",
-      "skipTotal": false,
-      "userGroupAccesses": [],
+      ],
+      "compulsoryDataElementOperands": [],
       "translations": [],
-      "userAccesses": [],
-      "categories": [
-        {
-          "id": "GLevLNI9wkl"
-        }
-      ]
+      "dataInputPeriods": [],
+      "organisationUnits": [],
+      "attributeValues": [],
+      "indicators": [],
+      "legendSets": []
     }
   ],
   "categoryOptionCombos": [
