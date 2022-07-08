@@ -1,5 +1,5 @@
 {
-  "date": "2022-07-08T15:59:11.377",
+  "date": "2022-07-08T17:27:31.569",
   "categoryCombos": [
     {
       "created": "2022-07-08T07:33:14.132",
@@ -2134,24 +2134,6 @@
       ]
     },
     {
-      "lastUpdated": "2022-07-08T07:33:14.211",
-      "code": "2013PSL",
-      "created": "2022-07-08T07:33:14.211",
-      "name": "2013PSL",
-      "id": "xzSV9cZefEH",
-      "ignoreApproval": false,
-      "categoryCombo": {
-        "id": "NH4EtgF55v8"
-      },
-      "translations": [],
-      "attributeValues": [],
-      "categoryOptions": [
-        {
-          "id": "ULDPEuQvpn1"
-        }
-      ]
-    },
-    {
       "lastUpdated": "2022-07-08T07:33:14.225",
       "code": "3044PSL",
       "created": "2022-07-08T07:33:14.225",
@@ -2166,6 +2148,24 @@
       "categoryOptions": [
         {
           "id": "ayns6keeff1"
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-08T07:33:14.211",
+      "code": "2013PSL",
+      "created": "2022-07-08T07:33:14.211",
+      "name": "2013PSL",
+      "id": "xzSV9cZefEH",
+      "ignoreApproval": false,
+      "categoryCombo": {
+        "id": "NH4EtgF55v8"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "categoryOptions": [
+        {
+          "id": "ULDPEuQvpn1"
         }
       ]
     },
@@ -2584,24 +2584,6 @@
       ]
     },
     {
-      "lastUpdated": "2022-07-08T07:33:14.212",
-      "code": "3119PS",
-      "created": "2022-07-08T07:33:14.212",
-      "name": "3119PS",
-      "id": "Vz61lABfyKy",
-      "ignoreApproval": false,
-      "categoryCombo": {
-        "id": "NH4EtgF55v8"
-      },
-      "translations": [],
-      "attributeValues": [],
-      "categoryOptions": [
-        {
-          "id": "TOJZuWYBXko"
-        }
-      ]
-    },
-    {
       "lastUpdated": "2022-07-08T07:33:14.259",
       "code": "0087PS",
       "created": "2022-07-08T07:33:14.259",
@@ -2616,6 +2598,24 @@
       "categoryOptions": [
         {
           "id": "FG22latuhOU"
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-08T07:33:14.212",
+      "code": "3119PS",
+      "created": "2022-07-08T07:33:14.212",
+      "name": "3119PS",
+      "id": "Vz61lABfyKy",
+      "ignoreApproval": false,
+      "categoryCombo": {
+        "id": "NH4EtgF55v8"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "categoryOptions": [
+        {
+          "id": "TOJZuWYBXko"
         }
       ]
     },
@@ -2674,24 +2674,6 @@
       ]
     },
     {
-      "lastUpdated": "2022-07-08T07:33:14.171",
-      "code": "3086PS",
-      "created": "2022-07-08T07:33:14.171",
-      "name": "3086PS",
-      "id": "aAr43qKnWyc",
-      "ignoreApproval": false,
-      "categoryCombo": {
-        "id": "NH4EtgF55v8"
-      },
-      "translations": [],
-      "attributeValues": [],
-      "categoryOptions": [
-        {
-          "id": "bEvjjMX6CLv"
-        }
-      ]
-    },
-    {
       "lastUpdated": "2022-07-08T07:33:14.276",
       "code": "0079PS",
       "created": "2022-07-08T07:33:14.276",
@@ -2706,6 +2688,24 @@
       "categoryOptions": [
         {
           "id": "VdLByXQgH31"
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-08T07:33:14.171",
+      "code": "3086PS",
+      "created": "2022-07-08T07:33:14.171",
+      "name": "3086PS",
+      "id": "aAr43qKnWyc",
+      "ignoreApproval": false,
+      "categoryCombo": {
+        "id": "NH4EtgF55v8"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "categoryOptions": [
+        {
+          "id": "bEvjjMX6CLv"
         }
       ]
     },
@@ -3538,24 +3538,6 @@
       ]
     },
     {
-      "lastUpdated": "2022-07-08T07:33:14.256",
-      "code": "0063PS",
-      "created": "2022-07-08T07:33:14.256",
-      "name": "0063PS",
-      "id": "kSiwbYsXg24",
-      "ignoreApproval": false,
-      "categoryCombo": {
-        "id": "NH4EtgF55v8"
-      },
-      "translations": [],
-      "attributeValues": [],
-      "categoryOptions": [
-        {
-          "id": "sJZEPLuloDQ"
-        }
-      ]
-    },
-    {
       "lastUpdated": "2022-07-08T07:33:14.272",
       "code": "0054PS",
       "created": "2022-07-08T07:33:14.272",
@@ -3574,11 +3556,11 @@
       ]
     },
     {
-      "lastUpdated": "2022-07-08T07:33:14.285",
-      "code": "VIRUSES2",
-      "created": "2022-07-08T07:33:14.285",
-      "name": "VIRUSES2",
-      "id": "sB9xD7TLEOR",
+      "lastUpdated": "2022-07-08T07:33:14.256",
+      "code": "0063PS",
+      "created": "2022-07-08T07:33:14.256",
+      "name": "0063PS",
+      "id": "kSiwbYsXg24",
       "ignoreApproval": false,
       "categoryCombo": {
         "id": "NH4EtgF55v8"
@@ -3587,7 +3569,7 @@
       "attributeValues": [],
       "categoryOptions": [
         {
-          "id": "VpcGmz8OFrs"
+          "id": "sJZEPLuloDQ"
         }
       ]
     },
@@ -3606,6 +3588,24 @@
       "categoryOptions": [
         {
           "id": "VOsxmuHgLH5"
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-08T07:33:14.285",
+      "code": "VIRUSES2",
+      "created": "2022-07-08T07:33:14.285",
+      "name": "VIRUSES2",
+      "id": "sB9xD7TLEOR",
+      "ignoreApproval": false,
+      "categoryCombo": {
+        "id": "NH4EtgF55v8"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "categoryOptions": [
+        {
+          "id": "VpcGmz8OFrs"
         }
       ]
     },

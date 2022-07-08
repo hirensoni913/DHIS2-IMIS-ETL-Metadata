@@ -1,5 +1,5 @@
 {
-  "date": "2022-07-08T15:59:10.536",
+  "date": "2022-07-08T17:27:30.911",
   "categoryCombos": [
     {
       "created": "2022-07-07T09:09:42.878",
@@ -144,31 +144,6 @@
   ],
   "dataElements": [
     {
-      "lastUpdated": "2022-07-06T14:36:32.735",
-      "id": "TOhUzIBdodh",
-      "created": "2022-07-06T14:26:23.849",
-      "name": "ENR - New Insurees",
-      "shortName": "New Insurees",
-      "aggregationType": "SUM",
-      "domainType": "AGGREGATE",
-      "valueType": "INTEGER_POSITIVE",
-      "sharing": {
-        "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
-        "userGroups": {},
-        "public": "rw------"
-      },
-      "zeroIsSignificant": false,
-      "categoryCombo": {
-        "id": "bjDvmb4bfuf"
-      },
-      "translations": [],
-      "attributeValues": [],
-      "legendSets": [],
-      "aggregationLevels": []
-    },
-    {
       "lastUpdated": "2022-07-07T09:10:45.470",
       "id": "cxBAJmLgdTu",
       "created": "2022-07-06T14:36:21.297",
@@ -187,6 +162,31 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "nmHXktiAkpn"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "legendSets": [],
+      "aggregationLevels": []
+    },
+    {
+      "lastUpdated": "2022-07-06T14:36:32.735",
+      "id": "TOhUzIBdodh",
+      "created": "2022-07-06T14:26:23.849",
+      "name": "ENR - New Insurees",
+      "shortName": "New Insurees",
+      "aggregationType": "SUM",
+      "domainType": "AGGREGATE",
+      "valueType": "INTEGER_POSITIVE",
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rw------"
+      },
+      "zeroIsSignificant": false,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
       },
       "translations": [],
       "attributeValues": [],
@@ -428,7 +428,7 @@
       "dataSetElements": [
         {
           "dataElement": {
-            "id": "TOhUzIBdodh"
+            "id": "cxBAJmLgdTu"
           },
           "dataSet": {
             "id": "WMAj0xwRK49"
@@ -436,7 +436,7 @@
         },
         {
           "dataElement": {
-            "id": "cxBAJmLgdTu"
+            "id": "TOhUzIBdodh"
           },
           "dataSet": {
             "id": "WMAj0xwRK49"
@@ -734,24 +734,6 @@
       ]
     },
     {
-      "lastUpdated": "2022-07-06T11:26:52.127",
-      "code": "default",
-      "created": "2022-07-06T11:26:52.126",
-      "name": "default",
-      "id": "HllvX50cXC0",
-      "ignoreApproval": false,
-      "categoryCombo": {
-        "id": "bjDvmb4bfuf"
-      },
-      "translations": [],
-      "attributeValues": [],
-      "categoryOptions": [
-        {
-          "id": "xYerKDKCefk"
-        }
-      ]
-    },
-    {
       "lastUpdated": "2022-07-07T09:09:42.917",
       "created": "2022-07-07T09:09:42.917",
       "name": "Female, 31 - 40y",
@@ -768,6 +750,24 @@
         },
         {
           "id": "Zpety2vuDvy"
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-06T11:26:52.127",
+      "code": "default",
+      "created": "2022-07-06T11:26:52.126",
+      "name": "default",
+      "id": "HllvX50cXC0",
+      "ignoreApproval": false,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "categoryOptions": [
+        {
+          "id": "xYerKDKCefk"
         }
       ]
     },

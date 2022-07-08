@@ -68,6 +68,12 @@ def download_user_config():
         ug['users'] = []
     save_json(data, '1_user_config')
 
+def download_full_metadata():
+    data = api.get('metadata').json()
+    data.pop('sqlViews')
+    data.pop('users')
+    save_json(data, 'complete_metadata')
+
 
 def main():
     logger.info(f"Starting export of configuration from {api.base_url}")
@@ -75,6 +81,7 @@ def main():
     download_data_sets()
     download_dashboards()
     download_user_config()
+    download_full_metadata()
 
 if __name__ == '__main__':
     main()
