@@ -13,18 +13,12 @@
         "userGroups": {},
         "public": "rw------"
       },
-      "createdBy": {
-        "displayName": "David Huser",
-        "name": "David Huser",
-        "id": "PJ7pWuO2jo8",
-        "username": "davidhuser"
-      },
       "translations": [],
       "authorities": [
-        "M_dhis-web-cache-cleaner",
-        "M_dhis-web-pivot",
         "M_dhis-web-data-visualizer",
-        "M_dhis-web-dashboard"
+        "M_dhis-web-cache-cleaner",
+        "M_dhis-web-dashboard",
+        "M_dhis-web-pivot"
       ]
     },
     {
@@ -39,12 +33,6 @@
         "users": {},
         "userGroups": {},
         "public": "rw------"
-      },
-      "createdBy": {
-        "displayName": "David Huser",
-        "name": "David Huser",
-        "id": "PJ7pWuO2jo8",
-        "username": "davidhuser"
       },
       "translations": [],
       "authorities": [
@@ -120,12 +108,6 @@
         "users": {},
         "userGroups": {},
         "public": "rw------"
-      },
-      "createdBy": {
-        "displayName": "David Huser",
-        "name": "David Huser",
-        "id": "PJ7pWuO2jo8",
-        "username": "davidhuser"
       },
       "attributeValues": [],
       "users": [],

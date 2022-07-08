@@ -16,7 +16,8 @@ setup_logger()
 default_remove_keys = [
     'lastUpdatedBy',
     'user',
-    'path'
+    'path',
+    'createdBy'
 ]
 
 def save_json(data, filename, remove_keys=default_remove_keys):

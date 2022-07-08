@@ -1,5 +1,5 @@
 {
-  "date": "2022-07-08T14:16:55.313",
+  "date": "2022-07-08T14:18:50.116",
   "dashboards": [
     {
       "created": "2022-07-07T13:51:38.717",
@@ -14,12 +14,6 @@
         "public": "rw------"
       },
       "restrictFilters": false,
-      "createdBy": {
-        "displayName": "Hiren Soni",
-        "name": "Hiren Soni",
-        "id": "q4lQ3GbOpMw",
-        "username": "hiren"
-      },
       "favorites": [],
       "dashboardItems": [
         {
@@ -213,12 +207,6 @@
         "reportingPeriod": false,
         "organisationUnit": false,
         "grandParentOrganisationUnit": false
-      },
-      "createdBy": {
-        "displayName": "Hiren Soni",
-        "name": "Hiren Soni",
-        "id": "q4lQ3GbOpMw",
-        "username": "hiren"
       },
       "dataElementGroupSetDimensions": [],
       "translations": [],
@@ -420,12 +408,6 @@
         "reportingPeriod": false,
         "organisationUnit": false,
         "grandParentOrganisationUnit": false
-      },
-      "createdBy": {
-        "displayName": "Hiren Soni",
-        "name": "Hiren Soni",
-        "id": "q4lQ3GbOpMw",
-        "username": "hiren"
       },
       "dataElementGroupSetDimensions": [],
       "translations": [],

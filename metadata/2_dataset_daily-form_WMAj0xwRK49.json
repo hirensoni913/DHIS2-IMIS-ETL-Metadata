@@ -1,5 +1,5 @@
 {
-  "date": "2022-07-08T14:16:54.360",
+  "date": "2022-07-08T14:18:49.070",
   "categoryCombos": [
     {
       "created": "2022-07-07T09:09:42.878",
@@ -15,12 +15,6 @@
         "public": "rw------"
       },
       "skipTotal": false,
-      "createdBy": {
-        "displayName": "Hiren Soni",
-        "name": "Hiren Soni",
-        "id": "q4lQ3GbOpMw",
-        "username": "hiren"
-      },
       "translations": [],
       "categories": [
         {
@@ -69,12 +63,6 @@
         "public": "rw------"
       },
       "dataDimension": true,
-      "createdBy": {
-        "displayName": "Hiren Soni",
-        "name": "Hiren Soni",
-        "id": "q4lQ3GbOpMw",
-        "username": "hiren"
-      },
       "attributeValues": [],
       "translations": [],
       "categoryOptions": [
@@ -119,12 +107,6 @@
         "public": "rw------"
       },
       "dataDimension": true,
-      "createdBy": {
-        "displayName": "Hiren Soni",
-        "name": "Hiren Soni",
-        "id": "q4lQ3GbOpMw",
-        "username": "hiren"
-      },
       "attributeValues": [],
       "translations": [],
       "categoryOptions": [
@@ -181,12 +163,6 @@
       "categoryCombo": {
         "id": "nmHXktiAkpn"
       },
-      "createdBy": {
-        "displayName": "Hiren Soni",
-        "name": "Hiren Soni",
-        "id": "q4lQ3GbOpMw",
-        "username": "hiren"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -212,12 +188,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "createdBy": {
-        "displayName": "Hiren Soni",
-        "name": "Hiren Soni",
-        "id": "q4lQ3GbOpMw",
-        "username": "hiren"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -238,12 +208,6 @@
         "userGroups": {},
         "public": "rwrw----"
       },
-      "createdBy": {
-        "displayName": "Hiren Soni",
-        "name": "Hiren Soni",
-        "id": "q4lQ3GbOpMw",
-        "username": "hiren"
-      },
       "attributeValues": [],
       "translations": [],
       "organisationUnits": []
@@ -260,12 +224,6 @@
         "users": {},
         "userGroups": {},
         "public": "rwrw----"
-      },
-      "createdBy": {
-        "displayName": "Hiren Soni",
-        "name": "Hiren Soni",
-        "id": "q4lQ3GbOpMw",
-        "username": "hiren"
       },
       "attributeValues": [],
       "translations": [],
@@ -284,12 +242,6 @@
         "userGroups": {},
         "public": "rwrw----"
       },
-      "createdBy": {
-        "displayName": "Hiren Soni",
-        "name": "Hiren Soni",
-        "id": "q4lQ3GbOpMw",
-        "username": "hiren"
-      },
       "attributeValues": [],
       "translations": [],
       "organisationUnits": []
@@ -306,12 +258,6 @@
         "users": {},
         "userGroups": {},
         "public": "rwrw----"
-      },
-      "createdBy": {
-        "displayName": "Hiren Soni",
-        "name": "Hiren Soni",
-        "id": "q4lQ3GbOpMw",
-        "username": "hiren"
       },
       "attributeValues": [],
       "translations": [],
@@ -346,12 +292,6 @@
         "userGroups": {},
         "public": "rwrw----"
       },
-      "createdBy": {
-        "displayName": "Hiren Soni",
-        "name": "Hiren Soni",
-        "id": "q4lQ3GbOpMw",
-        "username": "hiren"
-      },
       "attributeValues": [],
       "translations": [],
       "organisationUnits": []
@@ -369,12 +309,6 @@
         "users": {},
         "userGroups": {},
         "public": "rwrw----"
-      },
-      "createdBy": {
-        "displayName": "Hiren Soni",
-        "name": "Hiren Soni",
-        "id": "q4lQ3GbOpMw",
-        "username": "hiren"
       },
       "attributeValues": [],
       "translations": [],
@@ -394,12 +328,6 @@
         "userGroups": {},
         "public": "rwrw----"
       },
-      "createdBy": {
-        "displayName": "Hiren Soni",
-        "name": "Hiren Soni",
-        "id": "q4lQ3GbOpMw",
-        "username": "hiren"
-      },
       "attributeValues": [],
       "translations": [],
       "organisationUnits": []
@@ -416,12 +344,6 @@
         "users": {},
         "userGroups": {},
         "public": "rwrw----"
-      },
-      "createdBy": {
-        "displayName": "Hiren Soni",
-        "name": "Hiren Soni",
-        "id": "q4lQ3GbOpMw",
-        "username": "hiren"
       },
       "attributeValues": [],
       "translations": [],
@@ -440,12 +362,6 @@
         "userGroups": {},
         "public": "rwrw----"
       },
-      "createdBy": {
-        "displayName": "Hiren Soni",
-        "name": "Hiren Soni",
-        "id": "q4lQ3GbOpMw",
-        "username": "hiren"
-      },
       "attributeValues": [],
       "translations": [],
       "organisationUnits": []
@@ -462,12 +378,6 @@
         "users": {},
         "userGroups": {},
         "public": "rwrw----"
-      },
-      "createdBy": {
-        "displayName": "Hiren Soni",
-        "name": "Hiren Soni",
-        "id": "q4lQ3GbOpMw",
-        "username": "hiren"
       },
       "attributeValues": [],
       "translations": [],
@@ -505,12 +415,6 @@
       "expiryDays": 0,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "createdBy": {
-        "displayName": "Hiren Soni",
-        "name": "Hiren Soni",
-        "id": "q4lQ3GbOpMw",
-        "username": "hiren"
       },
       "dataSetElements": [
         {
