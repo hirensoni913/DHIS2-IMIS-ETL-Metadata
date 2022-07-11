@@ -1,0 +1,3178 @@
+{
+  "date": "2022-07-11T10:46:08.645",
+  "dashboards": [
+    {
+      "created": "2022-07-07T13:51:38.717",
+      "lastUpdated": "2022-07-11T09:21:22.818",
+      "name": "Enrolments & Premium collection",
+      "id": "oTiasBlPkaf",
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "public": "--------"
+      },
+      "restrictFilters": false,
+      "layout": {
+        "columns": []
+      },
+      "favorites": [],
+      "dashboardItems": [
+        {
+          "lastUpdated": "2022-07-11T09:21:22.818",
+          "id": "shTc1bQaLGa",
+          "created": "2022-07-11T09:21:22.790",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 23,
+          "interpretationCount": 0,
+          "sharing": {
+            "external": false,
+            "users": {},
+            "userGroups": {}
+          },
+          "width": 30,
+          "x": 0,
+          "interpretationLikeCount": 0,
+          "y": 9,
+          "favorite": false,
+          "visualization": {
+            "id": "kligVFmhnxI"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "delete": true,
+            "write": true,
+            "manage": true
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-11T09:21:22.818",
+          "id": "pQZ369aVBnl",
+          "created": "2022-07-11T09:21:22.790",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 23,
+          "interpretationCount": 0,
+          "sharing": {
+            "external": false,
+            "users": {},
+            "userGroups": {}
+          },
+          "width": 30,
+          "x": 30,
+          "interpretationLikeCount": 0,
+          "y": 9,
+          "favorite": false,
+          "visualization": {
+            "id": "E1lDROWKLfu"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "delete": true,
+            "write": true,
+            "manage": true
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-11T09:21:22.818",
+          "id": "iECgyMHo3Fz",
+          "created": "2022-07-11T09:21:22.790",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 29,
+          "interpretationCount": 0,
+          "sharing": {
+            "external": false,
+            "users": {},
+            "userGroups": {}
+          },
+          "width": 30,
+          "x": 0,
+          "interpretationLikeCount": 0,
+          "y": 50,
+          "favorite": false,
+          "visualization": {
+            "id": "xa9Fc148nmF"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "delete": true,
+            "write": true,
+            "manage": true
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-11T09:21:22.819",
+          "id": "FW91786rcDA",
+          "created": "2022-07-11T09:21:22.790",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 29,
+          "interpretationCount": 0,
+          "sharing": {
+            "external": false,
+            "users": {},
+            "userGroups": {}
+          },
+          "width": 30,
+          "x": 30,
+          "interpretationLikeCount": 0,
+          "y": 50,
+          "favorite": false,
+          "visualization": {
+            "id": "K9MyroH1sKP"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "delete": true,
+            "write": true,
+            "manage": true
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-11T09:21:22.819",
+          "id": "HZuXzx96sTG",
+          "created": "2022-07-11T09:21:22.790",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 24,
+          "interpretationCount": 0,
+          "sharing": {
+            "external": false,
+            "users": {},
+            "userGroups": {}
+          },
+          "width": 30,
+          "x": 0,
+          "interpretationLikeCount": 0,
+          "y": 79,
+          "favorite": false,
+          "visualization": {
+            "id": "OndJxYKTX5M"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "delete": true,
+            "write": true,
+            "manage": true
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-11T09:21:22.819",
+          "id": "SkiikccWrWy",
+          "created": "2022-07-11T09:21:22.790",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 24,
+          "interpretationCount": 0,
+          "sharing": {
+            "external": false,
+            "users": {},
+            "userGroups": {}
+          },
+          "width": 30,
+          "x": 30,
+          "interpretationLikeCount": 0,
+          "y": 79,
+          "favorite": false,
+          "visualization": {
+            "id": "UPlFDan5NWO"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "delete": true,
+            "write": true,
+            "manage": true
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-11T09:21:22.819",
+          "id": "yptbzAu5pcy",
+          "created": "2022-07-11T09:21:22.790",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 25,
+          "interpretationCount": 0,
+          "sharing": {
+            "external": false,
+            "users": {},
+            "userGroups": {}
+          },
+          "width": 30,
+          "x": 0,
+          "interpretationLikeCount": 0,
+          "y": 103,
+          "favorite": false,
+          "visualization": {
+            "id": "HdI0kUAcOSp"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "delete": true,
+            "write": true,
+            "manage": true
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-11T09:21:22.819",
+          "id": "U06VoxdztP8",
+          "created": "2022-07-11T09:21:22.790",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 25,
+          "interpretationCount": 0,
+          "sharing": {
+            "external": false,
+            "users": {},
+            "userGroups": {}
+          },
+          "width": 30,
+          "x": 30,
+          "interpretationLikeCount": 0,
+          "y": 103,
+          "favorite": false,
+          "visualization": {
+            "id": "phOIuDACYFm"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "delete": true,
+            "write": true,
+            "manage": true
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-11T09:21:22.819",
+          "id": "ydpCcVkpX2b",
+          "created": "2022-07-11T09:21:22.790",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 18,
+          "interpretationCount": 0,
+          "sharing": {
+            "external": false,
+            "users": {},
+            "userGroups": {}
+          },
+          "width": 30,
+          "x": 30,
+          "interpretationLikeCount": 0,
+          "y": 32,
+          "favorite": false,
+          "visualization": {
+            "id": "CJeWOckUiqS"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "delete": true,
+            "write": true,
+            "manage": true
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-11T09:21:22.819",
+          "id": "L7fkINoG8m2",
+          "created": "2022-07-11T09:21:22.790",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 18,
+          "interpretationCount": 0,
+          "sharing": {
+            "external": false,
+            "users": {},
+            "userGroups": {}
+          },
+          "width": 30,
+          "x": 0,
+          "interpretationLikeCount": 0,
+          "y": 32,
+          "favorite": false,
+          "visualization": {
+            "id": "U9mbutGfIL4"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "delete": true,
+            "write": true,
+            "manage": true
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-11T09:21:22.819",
+          "id": "MA7WCVTuYr9",
+          "created": "2022-07-11T09:21:22.790",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 9,
+          "interpretationCount": 0,
+          "sharing": {
+            "external": false,
+            "users": {},
+            "userGroups": {}
+          },
+          "width": 17,
+          "x": 22,
+          "interpretationLikeCount": 0,
+          "y": 0,
+          "favorite": false,
+          "visualization": {
+            "id": "z6PdoIRudJX"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "delete": true,
+            "write": true,
+            "manage": true
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-11T09:21:22.819",
+          "id": "L63UXuEzRyP",
+          "created": "2022-07-11T09:21:22.790",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 9,
+          "interpretationCount": 0,
+          "sharing": {
+            "external": false,
+            "users": {},
+            "userGroups": {}
+          },
+          "width": 21,
+          "x": 39,
+          "interpretationLikeCount": 0,
+          "y": 0,
+          "favorite": false,
+          "visualization": {
+            "id": "HKIQnMO2dCD"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "delete": true,
+            "write": true,
+            "manage": true
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-11T09:21:22.819",
+          "id": "nCq5ehN8LOm",
+          "created": "2022-07-11T09:21:22.790",
+          "type": "TEXT",
+          "externalAccess": false,
+          "text": "Dashboard for *Enrolments* by Gender and Age and *Premium Collection* by Pay Type.\n\nTip: use the _Add filter_ button to view data for a specifc period, location or product (if available).",
+          "contentCount": 1,
+          "height": 9,
+          "interpretationCount": 0,
+          "sharing": {
+            "external": false,
+            "users": {},
+            "userGroups": {}
+          },
+          "width": 22,
+          "x": 0,
+          "interpretationLikeCount": 0,
+          "y": 0,
+          "favorite": false,
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "delete": true,
+            "write": true,
+            "manage": true
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        }
+      ],
+      "translations": [],
+      "allowedFilters": []
+    }
+  ],
+  "visualizations": [
+    {
+      "lastUpdated": "2022-07-11T07:44:50.385",
+      "id": "kligVFmhnxI",
+      "created": "2022-07-08T08:34:01.360",
+      "name": "Premium Collection by Pay Type - Monthly 2020",
+      "showData": true,
+      "fixRowHeaders": false,
+      "numberType": "VALUE",
+      "legend": {
+        "showKey": false,
+        "style": "FILL",
+        "strategy": "FIXED"
+      },
+      "userOrganisationUnitChildren": false,
+      "type": "STACKED_COLUMN",
+      "hideEmptyColumns": false,
+      "hideEmptyRows": false,
+      "userOrganisationUnit": true,
+      "rowSubTotals": false,
+      "displayDensity": "NORMAL",
+      "regressionType": "NONE",
+      "cumulativeValues": false,
+      "completedOnly": false,
+      "colTotals": false,
+      "sharing": {
+        "owner": "PJ7pWuO2jo8",
+        "external": false,
+        "users": {},
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "public": "--------"
+      },
+      "showDimensionLabels": false,
+      "sortOrder": 0,
+      "fontSize": "NORMAL",
+      "topLimit": 0,
+      "hideEmptyRowItems": "NONE",
+      "aggregationType": "DEFAULT",
+      "userOrganisationUnitGrandChildren": false,
+      "hideSubtitle": false,
+      "description": "Premium collected in the year 2020 by pay type in all the regions",
+      "hideLegend": false,
+      "fixColumnHeaders": false,
+      "percentStackedValues": false,
+      "colSubTotals": false,
+      "noSpaceBetweenColumns": false,
+      "showHierarchy": false,
+      "rowTotals": false,
+      "seriesKey": {
+        "hidden": false
+      },
+      "digitGroupSeparator": "SPACE",
+      "hideTitle": false,
+      "regression": false,
+      "colorSet": "DEFAULT",
+      "skipRounding": false,
+      "fontStyle": {},
+      "relativePeriods": {
+        "thisYear": false,
+        "quartersLastYear": false,
+        "last10Years": false,
+        "last30Days": false,
+        "last52Weeks": false,
+        "thisWeek": false,
+        "last90Days": false,
+        "last60Days": false,
+        "lastMonth": false,
+        "last14Days": false,
+        "biMonthsThisYear": false,
+        "monthsThisYear": false,
+        "last2SixMonths": false,
+        "yesterday": false,
+        "thisQuarter": false,
+        "last12Months": false,
+        "last5FinancialYears": false,
+        "thisSixMonth": false,
+        "lastQuarter": false,
+        "thisFinancialYear": false,
+        "last4Weeks": false,
+        "last3Months": false,
+        "thisDay": false,
+        "thisMonth": false,
+        "last5Years": false,
+        "last6BiMonths": false,
+        "last10FinancialYears": false,
+        "last4BiWeeks": false,
+        "lastFinancialYear": false,
+        "lastBiWeek": false,
+        "weeksThisYear": false,
+        "last6Months": false,
+        "last3Days": false,
+        "quartersThisYear": false,
+        "monthsLastYear": false,
+        "lastWeek": false,
+        "last7Days": false,
+        "last180Days": false,
+        "thisBimonth": false,
+        "lastBimonth": false,
+        "lastSixMonth": false,
+        "thisBiWeek": false,
+        "lastYear": false,
+        "last12Weeks": false,
+        "last4Quarters": false
+      },
+      "reportingParams": {
+        "parentOrganisationUnit": false,
+        "reportingPeriod": false,
+        "organisationUnit": false,
+        "grandParentOrganisationUnit": false
+      },
+      "dataElementGroupSetDimensions": [],
+      "axes": [],
+      "translations": [],
+      "yearlySeries": [],
+      "filterDimensions": [
+        "ou",
+        "dx"
+      ],
+      "itemOrganisationUnitGroups": [],
+      "subscribers": [],
+      "columnDimensions": [
+        "bOCrZguqyBl"
+      ],
+      "optionalAxes": [],
+      "favorites": [],
+      "dataDimensionItems": [
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "dQxo7a1fQNL"
+          }
+        }
+      ],
+      "categoryOptionGroupSetDimensions": [],
+      "organisationUnitGroupSetDimensions": [],
+      "organisationUnitLevels": [],
+      "periods": [
+        {
+          "id": "202001"
+        },
+        {
+          "id": "202002"
+        },
+        {
+          "id": "202003"
+        },
+        {
+          "id": "202004"
+        },
+        {
+          "id": "202005"
+        },
+        {
+          "id": "202006"
+        },
+        {
+          "id": "202007"
+        },
+        {
+          "id": "202008"
+        },
+        {
+          "id": "202009"
+        },
+        {
+          "id": "202010"
+        },
+        {
+          "id": "202011"
+        },
+        {
+          "id": "202012"
+        }
+      ],
+      "organisationUnits": [],
+      "categoryDimensions": [
+        {
+          "category": {
+            "id": "bOCrZguqyBl"
+          },
+          "categoryOptions": [
+            {
+              "id": "trJaHzeHYnM"
+            },
+            {
+              "id": "y0wlxDf8qDR"
+            },
+            {
+              "id": "yP3GrmbXDRC"
+            }
+          ]
+        }
+      ],
+      "rowDimensions": [
+        "pe"
+      ],
+      "series": [
+        {
+          "dimensionItem": "dQxo7a1fQNL",
+          "axis": 0
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-11T09:51:02.848",
+      "id": "UPlFDan5NWO",
+      "created": "2022-07-07T14:00:25.460",
+      "name": "New Enrolments vs Premium Collected - sub-2x OUs - 2020",
+      "showData": true,
+      "fixRowHeaders": false,
+      "numberType": "VALUE",
+      "legend": {
+        "showKey": false,
+        "style": "FILL",
+        "strategy": "FIXED"
+      },
+      "userOrganisationUnitChildren": false,
+      "type": "SCATTER",
+      "hideEmptyColumns": false,
+      "hideEmptyRows": false,
+      "userOrganisationUnit": false,
+      "rowSubTotals": false,
+      "displayDensity": "NORMAL",
+      "regressionType": "NONE",
+      "cumulativeValues": false,
+      "completedOnly": false,
+      "colTotals": false,
+      "sharing": {
+        "owner": "PJ7pWuO2jo8",
+        "external": false,
+        "users": {},
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "public": "--------"
+      },
+      "showDimensionLabels": false,
+      "sortOrder": 0,
+      "subtitle": "Districts (sub-2x user orgunit)",
+      "fontSize": "NORMAL",
+      "topLimit": 0,
+      "hideEmptyRowItems": "NONE",
+      "aggregationType": "DEFAULT",
+      "userOrganisationUnitGrandChildren": true,
+      "hideSubtitle": false,
+      "title": "New Enrolments vs Premium Collected",
+      "hideLegend": false,
+      "fixColumnHeaders": false,
+      "percentStackedValues": false,
+      "colSubTotals": false,
+      "noSpaceBetweenColumns": false,
+      "showHierarchy": false,
+      "rowTotals": false,
+      "seriesKey": {
+        "hidden": false
+      },
+      "outlierAnalysis": {
+        "enabled": true,
+        "outlierMethod": "IQR",
+        "thresholdFactor": 2.5,
+        "extremeLines": {
+          "enabled": false,
+          "value": 1.0
+        }
+      },
+      "digitGroupSeparator": "SPACE",
+      "hideTitle": false,
+      "regression": false,
+      "colorSet": "DEFAULT",
+      "skipRounding": false,
+      "fontStyle": {},
+      "relativePeriods": {
+        "thisYear": false,
+        "quartersLastYear": false,
+        "last10Years": false,
+        "last30Days": false,
+        "last52Weeks": false,
+        "thisWeek": false,
+        "last90Days": false,
+        "last60Days": false,
+        "lastMonth": false,
+        "last14Days": false,
+        "biMonthsThisYear": false,
+        "monthsThisYear": false,
+        "last2SixMonths": false,
+        "yesterday": false,
+        "thisQuarter": false,
+        "last12Months": false,
+        "last5FinancialYears": false,
+        "thisSixMonth": false,
+        "lastQuarter": false,
+        "thisFinancialYear": false,
+        "last4Weeks": false,
+        "last3Months": false,
+        "thisDay": false,
+        "thisMonth": false,
+        "last5Years": false,
+        "last6BiMonths": false,
+        "last10FinancialYears": false,
+        "last4BiWeeks": false,
+        "lastFinancialYear": false,
+        "lastBiWeek": false,
+        "weeksThisYear": false,
+        "last6Months": false,
+        "last3Days": false,
+        "quartersThisYear": false,
+        "monthsLastYear": false,
+        "lastWeek": false,
+        "last7Days": false,
+        "last180Days": false,
+        "thisBimonth": false,
+        "lastBimonth": false,
+        "lastSixMonth": false,
+        "thisBiWeek": false,
+        "lastYear": false,
+        "last12Weeks": false,
+        "last4Quarters": false
+      },
+      "reportingParams": {
+        "parentOrganisationUnit": false,
+        "reportingPeriod": false,
+        "organisationUnit": false,
+        "grandParentOrganisationUnit": false
+      },
+      "dataElementGroupSetDimensions": [],
+      "axes": [
+        {
+          "index": 0,
+          "type": "RANGE",
+          "title": {
+            "textMode": "AUTO"
+          }
+        },
+        {
+          "index": 1,
+          "type": "RANGE",
+          "title": {
+            "textMode": "AUTO"
+          }
+        }
+      ],
+      "translations": [],
+      "yearlySeries": [],
+      "filterDimensions": [
+        "pe"
+      ],
+      "itemOrganisationUnitGroups": [],
+      "subscribers": [],
+      "columnDimensions": [
+        "dx"
+      ],
+      "optionalAxes": [],
+      "favorites": [],
+      "dataDimensionItems": [
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "dQxo7a1fQNL"
+          }
+        },
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "cxBAJmLgdTu"
+          }
+        }
+      ],
+      "categoryOptionGroupSetDimensions": [],
+      "organisationUnitGroupSetDimensions": [],
+      "organisationUnitLevels": [],
+      "periods": [
+        {
+          "id": "2020"
+        }
+      ],
+      "organisationUnits": [],
+      "categoryDimensions": [],
+      "rowDimensions": [
+        "ou"
+      ],
+      "series": [
+        {
+          "dimensionItem": "dQxo7a1fQNL",
+          "axis": 0
+        },
+        {
+          "dimensionItem": "cxBAJmLgdTu",
+          "axis": 0
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-11T08:31:56.168",
+      "id": "U9mbutGfIL4",
+      "created": "2022-07-11T08:28:55.941",
+      "name": "Premium Collected - Cumulative - 2020",
+      "showData": true,
+      "fixRowHeaders": false,
+      "numberType": "VALUE",
+      "legend": {
+        "showKey": false
+      },
+      "userOrganisationUnitChildren": false,
+      "type": "LINE",
+      "hideEmptyColumns": false,
+      "hideEmptyRows": false,
+      "userOrganisationUnit": true,
+      "rowSubTotals": false,
+      "displayDensity": "NORMAL",
+      "regressionType": "LINEAR",
+      "cumulativeValues": true,
+      "completedOnly": false,
+      "colTotals": false,
+      "sharing": {
+        "owner": "PJ7pWuO2jo8",
+        "external": false,
+        "users": {},
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "public": "--------"
+      },
+      "showDimensionLabels": false,
+      "sortOrder": 0,
+      "fontSize": "NORMAL",
+      "topLimit": 0,
+      "hideEmptyRowItems": "NONE",
+      "aggregationType": "DEFAULT",
+      "userOrganisationUnitGrandChildren": false,
+      "hideSubtitle": false,
+      "hideLegend": false,
+      "fixColumnHeaders": false,
+      "percentStackedValues": false,
+      "colSubTotals": false,
+      "noSpaceBetweenColumns": false,
+      "showHierarchy": false,
+      "rowTotals": false,
+      "seriesKey": {
+        "hidden": false
+      },
+      "digitGroupSeparator": "SPACE",
+      "hideTitle": false,
+      "regression": false,
+      "colorSet": "DEFAULT",
+      "skipRounding": false,
+      "fontStyle": {},
+      "relativePeriods": {
+        "thisYear": false,
+        "quartersLastYear": false,
+        "last10Years": false,
+        "last30Days": false,
+        "last52Weeks": false,
+        "thisWeek": false,
+        "last90Days": false,
+        "last60Days": false,
+        "lastMonth": false,
+        "last14Days": false,
+        "biMonthsThisYear": false,
+        "monthsThisYear": false,
+        "last2SixMonths": false,
+        "yesterday": false,
+        "thisQuarter": false,
+        "last12Months": false,
+        "last5FinancialYears": false,
+        "thisSixMonth": false,
+        "lastQuarter": false,
+        "thisFinancialYear": false,
+        "last4Weeks": false,
+        "last3Months": false,
+        "thisDay": false,
+        "thisMonth": false,
+        "last5Years": false,
+        "last6BiMonths": false,
+        "last10FinancialYears": false,
+        "last4BiWeeks": false,
+        "lastFinancialYear": false,
+        "lastBiWeek": false,
+        "weeksThisYear": false,
+        "last6Months": false,
+        "last3Days": false,
+        "quartersThisYear": false,
+        "monthsLastYear": false,
+        "lastWeek": false,
+        "last7Days": false,
+        "last180Days": false,
+        "thisBimonth": false,
+        "lastBimonth": false,
+        "lastSixMonth": false,
+        "thisBiWeek": false,
+        "lastYear": false,
+        "last12Weeks": false,
+        "last4Quarters": false
+      },
+      "reportingParams": {
+        "parentOrganisationUnit": false,
+        "reportingPeriod": false,
+        "organisationUnit": false,
+        "grandParentOrganisationUnit": false
+      },
+      "dataElementGroupSetDimensions": [],
+      "axes": [],
+      "translations": [],
+      "yearlySeries": [],
+      "filterDimensions": [
+        "ou"
+      ],
+      "itemOrganisationUnitGroups": [],
+      "subscribers": [],
+      "columnDimensions": [
+        "dx"
+      ],
+      "optionalAxes": [],
+      "favorites": [],
+      "dataDimensionItems": [
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "dQxo7a1fQNL"
+          }
+        }
+      ],
+      "categoryOptionGroupSetDimensions": [],
+      "organisationUnitGroupSetDimensions": [],
+      "organisationUnitLevels": [],
+      "periods": [
+        {
+          "id": "2020W1"
+        },
+        {
+          "id": "2020W2"
+        },
+        {
+          "id": "2020W3"
+        },
+        {
+          "id": "2020W4"
+        },
+        {
+          "id": "2020W5"
+        },
+        {
+          "id": "2020W6"
+        },
+        {
+          "id": "2020W7"
+        },
+        {
+          "id": "2020W8"
+        },
+        {
+          "id": "2020W9"
+        },
+        {
+          "id": "2020W10"
+        },
+        {
+          "id": "2020W11"
+        },
+        {
+          "id": "2020W12"
+        },
+        {
+          "id": "2020W13"
+        },
+        {
+          "id": "2020W14"
+        },
+        {
+          "id": "2020W15"
+        },
+        {
+          "id": "2020W16"
+        },
+        {
+          "id": "2020W17"
+        },
+        {
+          "id": "2020W18"
+        },
+        {
+          "id": "2020W19"
+        },
+        {
+          "id": "2020W20"
+        },
+        {
+          "id": "2020W21"
+        },
+        {
+          "id": "2020W22"
+        },
+        {
+          "id": "2020W23"
+        },
+        {
+          "id": "2020W24"
+        },
+        {
+          "id": "2020W25"
+        },
+        {
+          "id": "2020W26"
+        },
+        {
+          "id": "2020W27"
+        },
+        {
+          "id": "2020W28"
+        },
+        {
+          "id": "2020W29"
+        },
+        {
+          "id": "2020W30"
+        },
+        {
+          "id": "2020W31"
+        },
+        {
+          "id": "2020W32"
+        },
+        {
+          "id": "2020W33"
+        },
+        {
+          "id": "2020W34"
+        },
+        {
+          "id": "2020W35"
+        },
+        {
+          "id": "2020W36"
+        },
+        {
+          "id": "2020W37"
+        },
+        {
+          "id": "2020W38"
+        },
+        {
+          "id": "2020W39"
+        },
+        {
+          "id": "2020W40"
+        },
+        {
+          "id": "2020W41"
+        },
+        {
+          "id": "2020W42"
+        },
+        {
+          "id": "2020W43"
+        },
+        {
+          "id": "2020W44"
+        },
+        {
+          "id": "2020W45"
+        },
+        {
+          "id": "2020W46"
+        },
+        {
+          "id": "2020W47"
+        },
+        {
+          "id": "2020W48"
+        },
+        {
+          "id": "2020W49"
+        },
+        {
+          "id": "2020W50"
+        },
+        {
+          "id": "2020W51"
+        },
+        {
+          "id": "2020W52"
+        },
+        {
+          "id": "2020W53"
+        }
+      ],
+      "organisationUnits": [],
+      "categoryDimensions": [],
+      "rowDimensions": [
+        "pe"
+      ],
+      "series": [
+        {
+          "dimensionItem": "cxBAJmLgdTu",
+          "axis": 0
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-11T08:17:10.312",
+      "id": "phOIuDACYFm",
+      "created": "2022-07-11T08:16:15.896",
+      "name": "Premium Collection - Data table (Product, Pay Type) - sub-2x OU - 2020",
+      "showData": true,
+      "fixRowHeaders": true,
+      "numberType": "VALUE",
+      "legend": {
+        "showKey": false
+      },
+      "userOrganisationUnitChildren": true,
+      "type": "PIVOT_TABLE",
+      "hideEmptyColumns": true,
+      "hideEmptyRows": true,
+      "userOrganisationUnit": false,
+      "rowSubTotals": false,
+      "displayDensity": "NORMAL",
+      "regressionType": "NONE",
+      "cumulativeValues": false,
+      "completedOnly": false,
+      "colTotals": false,
+      "sharing": {
+        "owner": "PJ7pWuO2jo8",
+        "external": false,
+        "users": {},
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "public": "--------"
+      },
+      "showDimensionLabels": false,
+      "sortOrder": 0,
+      "fontSize": "NORMAL",
+      "topLimit": 0,
+      "hideEmptyRowItems": "NONE",
+      "aggregationType": "DEFAULT",
+      "userOrganisationUnitGrandChildren": false,
+      "hideSubtitle": false,
+      "hideLegend": false,
+      "fixColumnHeaders": true,
+      "percentStackedValues": false,
+      "colSubTotals": false,
+      "noSpaceBetweenColumns": false,
+      "showHierarchy": false,
+      "rowTotals": false,
+      "seriesKey": {
+        "hidden": false
+      },
+      "digitGroupSeparator": "SPACE",
+      "hideTitle": false,
+      "regression": false,
+      "colorSet": "DEFAULT",
+      "skipRounding": false,
+      "fontStyle": {},
+      "relativePeriods": {
+        "thisYear": false,
+        "quartersLastYear": false,
+        "last10Years": false,
+        "last30Days": false,
+        "last52Weeks": false,
+        "thisWeek": false,
+        "last90Days": false,
+        "last60Days": false,
+        "lastMonth": false,
+        "last14Days": false,
+        "biMonthsThisYear": false,
+        "monthsThisYear": false,
+        "last2SixMonths": false,
+        "yesterday": false,
+        "thisQuarter": false,
+        "last12Months": false,
+        "last5FinancialYears": false,
+        "thisSixMonth": false,
+        "lastQuarter": false,
+        "thisFinancialYear": false,
+        "last4Weeks": false,
+        "last3Months": false,
+        "thisDay": false,
+        "thisMonth": false,
+        "last5Years": false,
+        "last6BiMonths": false,
+        "last10FinancialYears": false,
+        "last4BiWeeks": false,
+        "lastFinancialYear": false,
+        "lastBiWeek": false,
+        "weeksThisYear": false,
+        "last6Months": false,
+        "last3Days": false,
+        "quartersThisYear": false,
+        "monthsLastYear": false,
+        "lastWeek": false,
+        "last7Days": false,
+        "last180Days": false,
+        "thisBimonth": false,
+        "lastBimonth": false,
+        "lastSixMonth": false,
+        "thisBiWeek": false,
+        "lastYear": false,
+        "last12Weeks": false,
+        "last4Quarters": false
+      },
+      "reportingParams": {
+        "parentOrganisationUnit": false,
+        "reportingPeriod": false,
+        "organisationUnit": false,
+        "grandParentOrganisationUnit": false
+      },
+      "dataElementGroupSetDimensions": [],
+      "axes": [],
+      "translations": [],
+      "yearlySeries": [],
+      "filterDimensions": [
+        "pe"
+      ],
+      "itemOrganisationUnitGroups": [],
+      "subscribers": [],
+      "columnDimensions": [
+        "ou"
+      ],
+      "optionalAxes": [],
+      "favorites": [],
+      "dataDimensionItems": [
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "dQxo7a1fQNL"
+          }
+        }
+      ],
+      "categoryOptionGroupSetDimensions": [],
+      "organisationUnitGroupSetDimensions": [],
+      "organisationUnitLevels": [],
+      "periods": [
+        {
+          "id": "2020"
+        }
+      ],
+      "organisationUnits": [],
+      "categoryDimensions": [
+        {
+          "category": {
+            "id": "xfKK1EUl84V"
+          },
+          "categoryOptions": []
+        },
+        {
+          "category": {
+            "id": "bOCrZguqyBl"
+          },
+          "categoryOptions": [
+            {
+              "id": "trJaHzeHYnM"
+            },
+            {
+              "id": "y0wlxDf8qDR"
+            },
+            {
+              "id": "yP3GrmbXDRC"
+            }
+          ]
+        }
+      ],
+      "rowDimensions": [
+        "dx",
+        "xfKK1EUl84V",
+        "bOCrZguqyBl"
+      ],
+      "series": []
+    },
+    {
+      "lastUpdated": "2022-07-11T08:59:03.285",
+      "id": "E1lDROWKLfu",
+      "created": "2022-07-11T07:37:37.850",
+      "name": "Premium Collection by Pay Type - Weekly 2020",
+      "showData": true,
+      "fixRowHeaders": false,
+      "numberType": "VALUE",
+      "legend": {
+        "showKey": false
+      },
+      "userOrganisationUnitChildren": false,
+      "type": "LINE",
+      "hideEmptyColumns": false,
+      "hideEmptyRows": false,
+      "userOrganisationUnit": true,
+      "rowSubTotals": false,
+      "displayDensity": "NORMAL",
+      "regressionType": "NONE",
+      "cumulativeValues": false,
+      "completedOnly": false,
+      "colTotals": false,
+      "sharing": {
+        "owner": "PJ7pWuO2jo8",
+        "external": false,
+        "users": {},
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "public": "--------"
+      },
+      "showDimensionLabels": false,
+      "sortOrder": 0,
+      "fontSize": "NORMAL",
+      "topLimit": 0,
+      "hideEmptyRowItems": "NONE",
+      "aggregationType": "DEFAULT",
+      "userOrganisationUnitGrandChildren": false,
+      "hideSubtitle": false,
+      "hideLegend": false,
+      "fixColumnHeaders": false,
+      "percentStackedValues": false,
+      "colSubTotals": false,
+      "noSpaceBetweenColumns": false,
+      "showHierarchy": false,
+      "rowTotals": false,
+      "seriesKey": {
+        "hidden": false
+      },
+      "digitGroupSeparator": "SPACE",
+      "hideTitle": false,
+      "regression": false,
+      "colorSet": "DEFAULT",
+      "skipRounding": false,
+      "fontStyle": {},
+      "relativePeriods": {
+        "thisYear": false,
+        "quartersLastYear": false,
+        "last10Years": false,
+        "last30Days": false,
+        "last52Weeks": false,
+        "thisWeek": false,
+        "last90Days": false,
+        "last60Days": false,
+        "lastMonth": false,
+        "last14Days": false,
+        "biMonthsThisYear": false,
+        "monthsThisYear": false,
+        "last2SixMonths": false,
+        "yesterday": false,
+        "thisQuarter": false,
+        "last12Months": false,
+        "last5FinancialYears": false,
+        "thisSixMonth": false,
+        "lastQuarter": false,
+        "thisFinancialYear": false,
+        "last4Weeks": false,
+        "last3Months": false,
+        "thisDay": false,
+        "thisMonth": false,
+        "last5Years": false,
+        "last6BiMonths": false,
+        "last10FinancialYears": false,
+        "last4BiWeeks": false,
+        "lastFinancialYear": false,
+        "lastBiWeek": false,
+        "weeksThisYear": false,
+        "last6Months": false,
+        "last3Days": false,
+        "quartersThisYear": false,
+        "monthsLastYear": false,
+        "lastWeek": false,
+        "last7Days": false,
+        "last180Days": false,
+        "thisBimonth": false,
+        "lastBimonth": false,
+        "lastSixMonth": false,
+        "thisBiWeek": false,
+        "lastYear": false,
+        "last12Weeks": false,
+        "last4Quarters": false
+      },
+      "reportingParams": {
+        "parentOrganisationUnit": false,
+        "reportingPeriod": false,
+        "organisationUnit": false,
+        "grandParentOrganisationUnit": false
+      },
+      "dataElementGroupSetDimensions": [],
+      "axes": [],
+      "translations": [],
+      "yearlySeries": [],
+      "filterDimensions": [
+        "ou",
+        "dx"
+      ],
+      "itemOrganisationUnitGroups": [],
+      "subscribers": [],
+      "columnDimensions": [
+        "bOCrZguqyBl"
+      ],
+      "optionalAxes": [],
+      "favorites": [],
+      "dataDimensionItems": [
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "dQxo7a1fQNL"
+          }
+        }
+      ],
+      "categoryOptionGroupSetDimensions": [],
+      "organisationUnitGroupSetDimensions": [],
+      "organisationUnitLevels": [],
+      "periods": [
+        {
+          "id": "2020W1"
+        },
+        {
+          "id": "2020W2"
+        },
+        {
+          "id": "2020W3"
+        },
+        {
+          "id": "2020W4"
+        },
+        {
+          "id": "2020W5"
+        },
+        {
+          "id": "2020W6"
+        },
+        {
+          "id": "2020W7"
+        },
+        {
+          "id": "2020W8"
+        },
+        {
+          "id": "2020W9"
+        },
+        {
+          "id": "2020W10"
+        },
+        {
+          "id": "2020W11"
+        },
+        {
+          "id": "2020W12"
+        },
+        {
+          "id": "2020W13"
+        },
+        {
+          "id": "2020W14"
+        },
+        {
+          "id": "2020W15"
+        },
+        {
+          "id": "2020W16"
+        },
+        {
+          "id": "2020W17"
+        },
+        {
+          "id": "2020W18"
+        },
+        {
+          "id": "2020W19"
+        },
+        {
+          "id": "2020W20"
+        },
+        {
+          "id": "2020W21"
+        },
+        {
+          "id": "2020W22"
+        },
+        {
+          "id": "2020W23"
+        },
+        {
+          "id": "2020W24"
+        },
+        {
+          "id": "2020W25"
+        },
+        {
+          "id": "2020W26"
+        },
+        {
+          "id": "2020W27"
+        },
+        {
+          "id": "2020W28"
+        },
+        {
+          "id": "2020W29"
+        },
+        {
+          "id": "2020W30"
+        },
+        {
+          "id": "2020W31"
+        },
+        {
+          "id": "2020W32"
+        },
+        {
+          "id": "2020W33"
+        },
+        {
+          "id": "2020W34"
+        },
+        {
+          "id": "2020W35"
+        },
+        {
+          "id": "2020W36"
+        },
+        {
+          "id": "2020W37"
+        },
+        {
+          "id": "2020W38"
+        },
+        {
+          "id": "2020W39"
+        },
+        {
+          "id": "2020W40"
+        },
+        {
+          "id": "2020W41"
+        },
+        {
+          "id": "2020W42"
+        },
+        {
+          "id": "2020W43"
+        },
+        {
+          "id": "2020W44"
+        },
+        {
+          "id": "2020W45"
+        },
+        {
+          "id": "2020W46"
+        },
+        {
+          "id": "2020W47"
+        },
+        {
+          "id": "2020W48"
+        },
+        {
+          "id": "2020W49"
+        },
+        {
+          "id": "2020W50"
+        },
+        {
+          "id": "2020W51"
+        },
+        {
+          "id": "2020W52"
+        },
+        {
+          "id": "2020W53"
+        }
+      ],
+      "organisationUnits": [],
+      "categoryDimensions": [
+        {
+          "category": {
+            "id": "bOCrZguqyBl"
+          },
+          "categoryOptions": [
+            {
+              "id": "trJaHzeHYnM"
+            },
+            {
+              "id": "y0wlxDf8qDR"
+            },
+            {
+              "id": "yP3GrmbXDRC"
+            }
+          ]
+        }
+      ],
+      "rowDimensions": [
+        "pe"
+      ],
+      "series": [
+        {
+          "dimensionItem": "trJaHzeHYnM",
+          "axis": 0
+        },
+        {
+          "dimensionItem": "y0wlxDf8qDR",
+          "axis": 0
+        },
+        {
+          "dimensionItem": "yP3GrmbXDRC",
+          "axis": 0
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-11T09:05:28.242",
+      "id": "OndJxYKTX5M",
+      "created": "2022-07-11T07:44:02.468",
+      "name": "New Enrolments by Age group - 2020",
+      "showData": true,
+      "fixRowHeaders": false,
+      "numberType": "VALUE",
+      "legend": {
+        "showKey": false
+      },
+      "userOrganisationUnitChildren": false,
+      "type": "STACKED_AREA",
+      "hideEmptyColumns": false,
+      "hideEmptyRows": false,
+      "userOrganisationUnit": true,
+      "rowSubTotals": false,
+      "displayDensity": "NORMAL",
+      "regressionType": "NONE",
+      "cumulativeValues": false,
+      "completedOnly": false,
+      "colTotals": false,
+      "sharing": {
+        "owner": "PJ7pWuO2jo8",
+        "external": false,
+        "users": {},
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "public": "--------"
+      },
+      "showDimensionLabels": false,
+      "sortOrder": 0,
+      "fontSize": "NORMAL",
+      "topLimit": 0,
+      "hideEmptyRowItems": "NONE",
+      "aggregationType": "DEFAULT",
+      "userOrganisationUnitGrandChildren": false,
+      "hideSubtitle": false,
+      "hideLegend": false,
+      "fixColumnHeaders": false,
+      "percentStackedValues": false,
+      "colSubTotals": false,
+      "noSpaceBetweenColumns": true,
+      "showHierarchy": false,
+      "rowTotals": false,
+      "seriesKey": {
+        "hidden": false
+      },
+      "digitGroupSeparator": "SPACE",
+      "hideTitle": false,
+      "regression": false,
+      "colorSet": "BRIGHT",
+      "skipRounding": false,
+      "fontStyle": {},
+      "relativePeriods": {
+        "thisYear": false,
+        "quartersLastYear": false,
+        "last10Years": false,
+        "last30Days": false,
+        "last52Weeks": false,
+        "thisWeek": false,
+        "last90Days": false,
+        "last60Days": false,
+        "lastMonth": false,
+        "last14Days": false,
+        "biMonthsThisYear": false,
+        "monthsThisYear": false,
+        "last2SixMonths": false,
+        "yesterday": false,
+        "thisQuarter": false,
+        "last12Months": false,
+        "last5FinancialYears": false,
+        "thisSixMonth": false,
+        "lastQuarter": false,
+        "thisFinancialYear": false,
+        "last4Weeks": false,
+        "last3Months": false,
+        "thisDay": false,
+        "thisMonth": false,
+        "last5Years": false,
+        "last6BiMonths": false,
+        "last10FinancialYears": false,
+        "last4BiWeeks": false,
+        "lastFinancialYear": false,
+        "lastBiWeek": false,
+        "weeksThisYear": false,
+        "last6Months": false,
+        "last3Days": false,
+        "quartersThisYear": false,
+        "monthsLastYear": false,
+        "lastWeek": false,
+        "last7Days": false,
+        "last180Days": false,
+        "thisBimonth": false,
+        "lastBimonth": false,
+        "lastSixMonth": false,
+        "thisBiWeek": false,
+        "lastYear": false,
+        "last12Weeks": false,
+        "last4Quarters": false
+      },
+      "reportingParams": {
+        "parentOrganisationUnit": false,
+        "reportingPeriod": false,
+        "organisationUnit": false,
+        "grandParentOrganisationUnit": false
+      },
+      "dataElementGroupSetDimensions": [],
+      "axes": [],
+      "translations": [],
+      "yearlySeries": [],
+      "filterDimensions": [
+        "ou",
+        "dx"
+      ],
+      "itemOrganisationUnitGroups": [],
+      "subscribers": [],
+      "columnDimensions": [
+        "rvkG1gmEz6K"
+      ],
+      "optionalAxes": [],
+      "favorites": [],
+      "dataDimensionItems": [
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "cxBAJmLgdTu"
+          }
+        }
+      ],
+      "categoryOptionGroupSetDimensions": [],
+      "organisationUnitGroupSetDimensions": [],
+      "organisationUnitLevels": [],
+      "periods": [
+        {
+          "id": "202001"
+        },
+        {
+          "id": "202002"
+        },
+        {
+          "id": "202003"
+        },
+        {
+          "id": "202004"
+        },
+        {
+          "id": "202005"
+        },
+        {
+          "id": "202006"
+        },
+        {
+          "id": "202007"
+        },
+        {
+          "id": "202008"
+        },
+        {
+          "id": "202009"
+        },
+        {
+          "id": "202010"
+        },
+        {
+          "id": "202011"
+        },
+        {
+          "id": "202012"
+        }
+      ],
+      "organisationUnits": [],
+      "categoryDimensions": [
+        {
+          "category": {
+            "id": "rvkG1gmEz6K"
+          },
+          "categoryOptions": [
+            {
+              "id": "WcRzUzIlwCX"
+            },
+            {
+              "id": "Uz5EirA59Sz"
+            },
+            {
+              "id": "NWNL2dmSuYk"
+            },
+            {
+              "id": "jDqd9xn6dt0"
+            },
+            {
+              "id": "Zpety2vuDvy"
+            },
+            {
+              "id": "K6kOGac1eV2"
+            },
+            {
+              "id": "A9nits1oBpl"
+            },
+            {
+              "id": "gGdT7wqrktB"
+            }
+          ]
+        }
+      ],
+      "rowDimensions": [
+        "pe"
+      ],
+      "series": [
+        {
+          "dimensionItem": "WcRzUzIlwCX",
+          "axis": 0
+        },
+        {
+          "dimensionItem": "Uz5EirA59Sz",
+          "axis": 0
+        },
+        {
+          "dimensionItem": "NWNL2dmSuYk",
+          "axis": 0
+        },
+        {
+          "dimensionItem": "jDqd9xn6dt0",
+          "axis": 0
+        },
+        {
+          "dimensionItem": "Zpety2vuDvy",
+          "axis": 0
+        },
+        {
+          "dimensionItem": "K6kOGac1eV2",
+          "axis": 0
+        },
+        {
+          "dimensionItem": "A9nits1oBpl",
+          "axis": 0
+        },
+        {
+          "dimensionItem": "gGdT7wqrktB",
+          "axis": 0
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-11T09:10:34.780",
+      "id": "z6PdoIRudJX",
+      "created": "2022-07-11T09:07:13.232",
+      "name": "New Enrolments - single value - 2020",
+      "showData": true,
+      "fixRowHeaders": false,
+      "numberType": "VALUE",
+      "legend": {
+        "showKey": false,
+        "strategy": "FIXED"
+      },
+      "userOrganisationUnitChildren": false,
+      "type": "SINGLE_VALUE",
+      "hideEmptyColumns": false,
+      "hideEmptyRows": false,
+      "userOrganisationUnit": true,
+      "rowSubTotals": false,
+      "displayDensity": "NORMAL",
+      "regressionType": "NONE",
+      "cumulativeValues": false,
+      "completedOnly": false,
+      "colTotals": false,
+      "sharing": {
+        "owner": "PJ7pWuO2jo8",
+        "external": false,
+        "users": {},
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "public": "--------"
+      },
+      "showDimensionLabels": false,
+      "sortOrder": 0,
+      "fontSize": "NORMAL",
+      "topLimit": 0,
+      "hideEmptyRowItems": "NONE",
+      "aggregationType": "DEFAULT",
+      "userOrganisationUnitGrandChildren": false,
+      "hideSubtitle": false,
+      "hideLegend": false,
+      "fixColumnHeaders": false,
+      "percentStackedValues": false,
+      "colSubTotals": false,
+      "noSpaceBetweenColumns": false,
+      "showHierarchy": false,
+      "rowTotals": false,
+      "seriesKey": {
+        "hidden": false
+      },
+      "digitGroupSeparator": "SPACE",
+      "hideTitle": false,
+      "regression": false,
+      "colorSet": "DEFAULT",
+      "skipRounding": false,
+      "fontStyle": {},
+      "relativePeriods": {
+        "thisYear": false,
+        "quartersLastYear": false,
+        "last10Years": false,
+        "last30Days": false,
+        "last52Weeks": false,
+        "thisWeek": false,
+        "last90Days": false,
+        "last60Days": false,
+        "lastMonth": false,
+        "last14Days": false,
+        "biMonthsThisYear": false,
+        "monthsThisYear": false,
+        "last2SixMonths": false,
+        "yesterday": false,
+        "thisQuarter": false,
+        "last12Months": false,
+        "last5FinancialYears": false,
+        "thisSixMonth": false,
+        "lastQuarter": false,
+        "thisFinancialYear": false,
+        "last4Weeks": false,
+        "last3Months": false,
+        "thisDay": false,
+        "thisMonth": false,
+        "last5Years": false,
+        "last6BiMonths": false,
+        "last10FinancialYears": false,
+        "last4BiWeeks": false,
+        "lastFinancialYear": false,
+        "lastBiWeek": false,
+        "weeksThisYear": false,
+        "last6Months": false,
+        "last3Days": false,
+        "quartersThisYear": false,
+        "monthsLastYear": false,
+        "lastWeek": false,
+        "last7Days": false,
+        "last180Days": false,
+        "thisBimonth": false,
+        "lastBimonth": false,
+        "lastSixMonth": false,
+        "thisBiWeek": false,
+        "lastYear": false,
+        "last12Weeks": false,
+        "last4Quarters": false
+      },
+      "reportingParams": {
+        "parentOrganisationUnit": false,
+        "reportingPeriod": false,
+        "organisationUnit": false,
+        "grandParentOrganisationUnit": false
+      },
+      "dataElementGroupSetDimensions": [],
+      "axes": [],
+      "translations": [],
+      "yearlySeries": [],
+      "filterDimensions": [
+        "ou",
+        "pe"
+      ],
+      "itemOrganisationUnitGroups": [],
+      "subscribers": [],
+      "columnDimensions": [
+        "dx"
+      ],
+      "optionalAxes": [],
+      "favorites": [],
+      "dataDimensionItems": [
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "cxBAJmLgdTu"
+          }
+        }
+      ],
+      "categoryOptionGroupSetDimensions": [],
+      "organisationUnitGroupSetDimensions": [],
+      "organisationUnitLevels": [],
+      "periods": [
+        {
+          "id": "2020"
+        }
+      ],
+      "organisationUnits": [],
+      "categoryDimensions": [],
+      "rowDimensions": [],
+      "series": [
+        {
+          "dimensionItem": "cxBAJmLgdTu",
+          "axis": 0
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-11T08:29:01.884",
+      "id": "CJeWOckUiqS",
+      "created": "2022-07-11T08:28:55.941",
+      "name": "New Enrolments - Cumulative - 2020",
+      "showData": true,
+      "fixRowHeaders": false,
+      "numberType": "VALUE",
+      "legend": {
+        "showKey": false
+      },
+      "userOrganisationUnitChildren": false,
+      "type": "LINE",
+      "hideEmptyColumns": false,
+      "hideEmptyRows": false,
+      "userOrganisationUnit": true,
+      "rowSubTotals": false,
+      "displayDensity": "NORMAL",
+      "regressionType": "LINEAR",
+      "cumulativeValues": true,
+      "completedOnly": false,
+      "colTotals": false,
+      "sharing": {
+        "owner": "PJ7pWuO2jo8",
+        "external": false,
+        "users": {},
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "public": "--------"
+      },
+      "showDimensionLabels": false,
+      "sortOrder": 0,
+      "fontSize": "NORMAL",
+      "topLimit": 0,
+      "hideEmptyRowItems": "NONE",
+      "aggregationType": "DEFAULT",
+      "userOrganisationUnitGrandChildren": false,
+      "hideSubtitle": false,
+      "hideLegend": false,
+      "fixColumnHeaders": false,
+      "percentStackedValues": false,
+      "colSubTotals": false,
+      "noSpaceBetweenColumns": false,
+      "showHierarchy": false,
+      "rowTotals": false,
+      "seriesKey": {
+        "hidden": false
+      },
+      "digitGroupSeparator": "SPACE",
+      "hideTitle": false,
+      "regression": false,
+      "colorSet": "BRIGHT",
+      "skipRounding": false,
+      "fontStyle": {},
+      "relativePeriods": {
+        "thisYear": false,
+        "quartersLastYear": false,
+        "last10Years": false,
+        "last30Days": false,
+        "last52Weeks": false,
+        "thisWeek": false,
+        "last90Days": false,
+        "last60Days": false,
+        "lastMonth": false,
+        "last14Days": false,
+        "biMonthsThisYear": false,
+        "monthsThisYear": false,
+        "last2SixMonths": false,
+        "yesterday": false,
+        "thisQuarter": false,
+        "last12Months": false,
+        "last5FinancialYears": false,
+        "thisSixMonth": false,
+        "lastQuarter": false,
+        "thisFinancialYear": false,
+        "last4Weeks": false,
+        "last3Months": false,
+        "thisDay": false,
+        "thisMonth": false,
+        "last5Years": false,
+        "last6BiMonths": false,
+        "last10FinancialYears": false,
+        "last4BiWeeks": false,
+        "lastFinancialYear": false,
+        "lastBiWeek": false,
+        "weeksThisYear": false,
+        "last6Months": false,
+        "last3Days": false,
+        "quartersThisYear": false,
+        "monthsLastYear": false,
+        "lastWeek": false,
+        "last7Days": false,
+        "last180Days": false,
+        "thisBimonth": false,
+        "lastBimonth": false,
+        "lastSixMonth": false,
+        "thisBiWeek": false,
+        "lastYear": false,
+        "last12Weeks": false,
+        "last4Quarters": false
+      },
+      "reportingParams": {
+        "parentOrganisationUnit": false,
+        "reportingPeriod": false,
+        "organisationUnit": false,
+        "grandParentOrganisationUnit": false
+      },
+      "dataElementGroupSetDimensions": [],
+      "axes": [],
+      "translations": [],
+      "yearlySeries": [],
+      "filterDimensions": [
+        "ou"
+      ],
+      "itemOrganisationUnitGroups": [],
+      "subscribers": [],
+      "columnDimensions": [
+        "dx"
+      ],
+      "optionalAxes": [],
+      "favorites": [],
+      "dataDimensionItems": [
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "cxBAJmLgdTu"
+          }
+        }
+      ],
+      "categoryOptionGroupSetDimensions": [],
+      "organisationUnitGroupSetDimensions": [],
+      "organisationUnitLevels": [],
+      "periods": [
+        {
+          "id": "2020W1"
+        },
+        {
+          "id": "2020W2"
+        },
+        {
+          "id": "2020W3"
+        },
+        {
+          "id": "2020W4"
+        },
+        {
+          "id": "2020W5"
+        },
+        {
+          "id": "2020W6"
+        },
+        {
+          "id": "2020W7"
+        },
+        {
+          "id": "2020W8"
+        },
+        {
+          "id": "2020W9"
+        },
+        {
+          "id": "2020W10"
+        },
+        {
+          "id": "2020W11"
+        },
+        {
+          "id": "2020W12"
+        },
+        {
+          "id": "2020W13"
+        },
+        {
+          "id": "2020W14"
+        },
+        {
+          "id": "2020W15"
+        },
+        {
+          "id": "2020W16"
+        },
+        {
+          "id": "2020W17"
+        },
+        {
+          "id": "2020W18"
+        },
+        {
+          "id": "2020W19"
+        },
+        {
+          "id": "2020W20"
+        },
+        {
+          "id": "2020W21"
+        },
+        {
+          "id": "2020W22"
+        },
+        {
+          "id": "2020W23"
+        },
+        {
+          "id": "2020W24"
+        },
+        {
+          "id": "2020W25"
+        },
+        {
+          "id": "2020W26"
+        },
+        {
+          "id": "2020W27"
+        },
+        {
+          "id": "2020W28"
+        },
+        {
+          "id": "2020W29"
+        },
+        {
+          "id": "2020W30"
+        },
+        {
+          "id": "2020W31"
+        },
+        {
+          "id": "2020W32"
+        },
+        {
+          "id": "2020W33"
+        },
+        {
+          "id": "2020W34"
+        },
+        {
+          "id": "2020W35"
+        },
+        {
+          "id": "2020W36"
+        },
+        {
+          "id": "2020W37"
+        },
+        {
+          "id": "2020W38"
+        },
+        {
+          "id": "2020W39"
+        },
+        {
+          "id": "2020W40"
+        },
+        {
+          "id": "2020W41"
+        },
+        {
+          "id": "2020W42"
+        },
+        {
+          "id": "2020W43"
+        },
+        {
+          "id": "2020W44"
+        },
+        {
+          "id": "2020W45"
+        },
+        {
+          "id": "2020W46"
+        },
+        {
+          "id": "2020W47"
+        },
+        {
+          "id": "2020W48"
+        },
+        {
+          "id": "2020W49"
+        },
+        {
+          "id": "2020W50"
+        },
+        {
+          "id": "2020W51"
+        },
+        {
+          "id": "2020W52"
+        },
+        {
+          "id": "2020W53"
+        }
+      ],
+      "organisationUnits": [],
+      "categoryDimensions": [],
+      "rowDimensions": [
+        "pe"
+      ],
+      "series": [
+        {
+          "dimensionItem": "cxBAJmLgdTu",
+          "axis": 0
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-11T09:10:46.492",
+      "id": "HKIQnMO2dCD",
+      "created": "2022-07-11T09:08:42.213",
+      "name": "Premium Collection - single value - 2020",
+      "showData": true,
+      "fixRowHeaders": false,
+      "numberType": "VALUE",
+      "legend": {
+        "showKey": false
+      },
+      "userOrganisationUnitChildren": false,
+      "type": "SINGLE_VALUE",
+      "hideEmptyColumns": false,
+      "hideEmptyRows": false,
+      "userOrganisationUnit": true,
+      "rowSubTotals": false,
+      "displayDensity": "NORMAL",
+      "regressionType": "NONE",
+      "cumulativeValues": false,
+      "completedOnly": false,
+      "colTotals": false,
+      "sharing": {
+        "owner": "PJ7pWuO2jo8",
+        "external": false,
+        "users": {},
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "public": "--------"
+      },
+      "showDimensionLabels": false,
+      "sortOrder": 0,
+      "fontSize": "NORMAL",
+      "topLimit": 0,
+      "hideEmptyRowItems": "NONE",
+      "aggregationType": "DEFAULT",
+      "userOrganisationUnitGrandChildren": false,
+      "hideSubtitle": false,
+      "hideLegend": false,
+      "fixColumnHeaders": false,
+      "percentStackedValues": false,
+      "colSubTotals": false,
+      "noSpaceBetweenColumns": false,
+      "showHierarchy": false,
+      "rowTotals": false,
+      "seriesKey": {
+        "hidden": false
+      },
+      "digitGroupSeparator": "SPACE",
+      "hideTitle": false,
+      "regression": false,
+      "colorSet": "DEFAULT",
+      "skipRounding": true,
+      "fontStyle": {},
+      "relativePeriods": {
+        "thisYear": false,
+        "quartersLastYear": false,
+        "last10Years": false,
+        "last30Days": false,
+        "last52Weeks": false,
+        "thisWeek": false,
+        "last90Days": false,
+        "last60Days": false,
+        "lastMonth": false,
+        "last14Days": false,
+        "biMonthsThisYear": false,
+        "monthsThisYear": false,
+        "last2SixMonths": false,
+        "yesterday": false,
+        "thisQuarter": false,
+        "last12Months": false,
+        "last5FinancialYears": false,
+        "thisSixMonth": false,
+        "lastQuarter": false,
+        "thisFinancialYear": false,
+        "last4Weeks": false,
+        "last3Months": false,
+        "thisDay": false,
+        "thisMonth": false,
+        "last5Years": false,
+        "last6BiMonths": false,
+        "last10FinancialYears": false,
+        "last4BiWeeks": false,
+        "lastFinancialYear": false,
+        "lastBiWeek": false,
+        "weeksThisYear": false,
+        "last6Months": false,
+        "last3Days": false,
+        "quartersThisYear": false,
+        "monthsLastYear": false,
+        "lastWeek": false,
+        "last7Days": false,
+        "last180Days": false,
+        "thisBimonth": false,
+        "lastBimonth": false,
+        "lastSixMonth": false,
+        "thisBiWeek": false,
+        "lastYear": false,
+        "last12Weeks": false,
+        "last4Quarters": false
+      },
+      "reportingParams": {
+        "parentOrganisationUnit": false,
+        "reportingPeriod": false,
+        "organisationUnit": false,
+        "grandParentOrganisationUnit": false
+      },
+      "dataElementGroupSetDimensions": [],
+      "axes": [],
+      "translations": [],
+      "yearlySeries": [],
+      "filterDimensions": [
+        "ou",
+        "pe"
+      ],
+      "itemOrganisationUnitGroups": [],
+      "subscribers": [],
+      "columnDimensions": [
+        "dx"
+      ],
+      "optionalAxes": [],
+      "favorites": [],
+      "dataDimensionItems": [
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "dQxo7a1fQNL"
+          }
+        }
+      ],
+      "categoryOptionGroupSetDimensions": [],
+      "organisationUnitGroupSetDimensions": [],
+      "organisationUnitLevels": [],
+      "periods": [
+        {
+          "id": "2020"
+        }
+      ],
+      "organisationUnits": [],
+      "categoryDimensions": [],
+      "rowDimensions": [],
+      "series": [
+        {
+          "dimensionItem": "dQxo7a1fQNL",
+          "axis": 0
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-11T08:22:55.038",
+      "id": "xa9Fc148nmF",
+      "created": "2022-07-08T14:47:50.312",
+      "name": "Premium Collection - Top Products - 2020",
+      "showData": true,
+      "fixRowHeaders": false,
+      "numberType": "VALUE",
+      "legend": {
+        "showKey": false
+      },
+      "userOrganisationUnitChildren": false,
+      "type": "BAR",
+      "hideEmptyColumns": false,
+      "hideEmptyRows": false,
+      "userOrganisationUnit": true,
+      "rowSubTotals": false,
+      "displayDensity": "NORMAL",
+      "regressionType": "NONE",
+      "cumulativeValues": false,
+      "completedOnly": false,
+      "colTotals": false,
+      "sharing": {
+        "owner": "PJ7pWuO2jo8",
+        "external": false,
+        "users": {},
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "public": "--------"
+      },
+      "showDimensionLabels": false,
+      "sortOrder": 1,
+      "fontSize": "NORMAL",
+      "topLimit": 0,
+      "hideEmptyRowItems": "ALL",
+      "aggregationType": "DEFAULT",
+      "userOrganisationUnitGrandChildren": false,
+      "hideSubtitle": false,
+      "hideLegend": false,
+      "fixColumnHeaders": false,
+      "percentStackedValues": false,
+      "colSubTotals": false,
+      "noSpaceBetweenColumns": true,
+      "showHierarchy": false,
+      "rowTotals": false,
+      "seriesKey": {
+        "hidden": false
+      },
+      "digitGroupSeparator": "SPACE",
+      "hideTitle": false,
+      "regression": false,
+      "colorSet": "DEFAULT",
+      "skipRounding": false,
+      "fontStyle": {
+        "seriesAxisLabel": {
+          "fontSize": 13
+        }
+      },
+      "relativePeriods": {
+        "thisYear": false,
+        "quartersLastYear": false,
+        "last10Years": false,
+        "last30Days": false,
+        "last52Weeks": false,
+        "thisWeek": false,
+        "last90Days": false,
+        "last60Days": false,
+        "lastMonth": false,
+        "last14Days": false,
+        "biMonthsThisYear": false,
+        "monthsThisYear": false,
+        "last2SixMonths": false,
+        "yesterday": false,
+        "thisQuarter": false,
+        "last12Months": false,
+        "last5FinancialYears": false,
+        "thisSixMonth": false,
+        "lastQuarter": false,
+        "thisFinancialYear": false,
+        "last4Weeks": false,
+        "last3Months": false,
+        "thisDay": false,
+        "thisMonth": false,
+        "last5Years": false,
+        "last6BiMonths": false,
+        "last10FinancialYears": false,
+        "last4BiWeeks": false,
+        "lastFinancialYear": false,
+        "lastBiWeek": false,
+        "weeksThisYear": false,
+        "last6Months": false,
+        "last3Days": false,
+        "quartersThisYear": false,
+        "monthsLastYear": false,
+        "lastWeek": false,
+        "last7Days": false,
+        "last180Days": false,
+        "thisBimonth": false,
+        "lastBimonth": false,
+        "lastSixMonth": false,
+        "thisBiWeek": false,
+        "lastYear": false,
+        "last12Weeks": false,
+        "last4Quarters": false
+      },
+      "reportingParams": {
+        "parentOrganisationUnit": false,
+        "reportingPeriod": false,
+        "organisationUnit": false,
+        "grandParentOrganisationUnit": false
+      },
+      "dataElementGroupSetDimensions": [],
+      "axes": [
+        {
+          "index": 0,
+          "type": "RANGE",
+          "label": {
+            "fontStyle": {
+              "fontSize": 13
+            }
+          }
+        }
+      ],
+      "translations": [],
+      "yearlySeries": [],
+      "filterDimensions": [
+        "dx",
+        "pe"
+      ],
+      "itemOrganisationUnitGroups": [],
+      "subscribers": [],
+      "columnDimensions": [
+        "ou"
+      ],
+      "optionalAxes": [],
+      "favorites": [],
+      "dataDimensionItems": [
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "dQxo7a1fQNL"
+          }
+        }
+      ],
+      "categoryOptionGroupSetDimensions": [],
+      "organisationUnitGroupSetDimensions": [],
+      "organisationUnitLevels": [],
+      "periods": [
+        {
+          "id": "2020"
+        }
+      ],
+      "organisationUnits": [],
+      "categoryDimensions": [
+        {
+          "category": {
+            "id": "xfKK1EUl84V"
+          },
+          "categoryOptions": []
+        }
+      ],
+      "rowDimensions": [
+        "xfKK1EUl84V"
+      ],
+      "series": [
+        {
+          "dimensionItem": "USER_ORGUNIT",
+          "axis": 0
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-11T09:19:39.411",
+      "id": "K9MyroH1sKP",
+      "created": "2022-07-07T14:00:25.460",
+      "name": "New Enrolments by Gender - Regions - 2020",
+      "showData": true,
+      "fixRowHeaders": false,
+      "numberType": "VALUE",
+      "legend": {
+        "showKey": false,
+        "style": "FILL",
+        "strategy": "FIXED"
+      },
+      "userOrganisationUnitChildren": true,
+      "type": "STACKED_BAR",
+      "hideEmptyColumns": false,
+      "hideEmptyRows": false,
+      "userOrganisationUnit": false,
+      "rowSubTotals": false,
+      "displayDensity": "NORMAL",
+      "regressionType": "NONE",
+      "cumulativeValues": false,
+      "completedOnly": false,
+      "colTotals": false,
+      "sharing": {
+        "owner": "PJ7pWuO2jo8",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rw------"
+      },
+      "showDimensionLabels": false,
+      "sortOrder": 0,
+      "fontSize": "NORMAL",
+      "topLimit": 0,
+      "hideEmptyRowItems": "NONE",
+      "aggregationType": "DEFAULT",
+      "userOrganisationUnitGrandChildren": false,
+      "hideSubtitle": false,
+      "hideLegend": false,
+      "fixColumnHeaders": false,
+      "percentStackedValues": false,
+      "colSubTotals": false,
+      "noSpaceBetweenColumns": false,
+      "showHierarchy": false,
+      "rowTotals": false,
+      "seriesKey": {
+        "hidden": false
+      },
+      "digitGroupSeparator": "SPACE",
+      "hideTitle": false,
+      "regression": false,
+      "colorSet": "BRIGHT",
+      "skipRounding": false,
+      "fontStyle": {},
+      "relativePeriods": {
+        "thisYear": false,
+        "quartersLastYear": false,
+        "last10Years": false,
+        "last30Days": false,
+        "last52Weeks": false,
+        "thisWeek": false,
+        "last90Days": false,
+        "last60Days": false,
+        "lastMonth": false,
+        "last14Days": false,
+        "biMonthsThisYear": false,
+        "monthsThisYear": false,
+        "last2SixMonths": false,
+        "yesterday": false,
+        "thisQuarter": false,
+        "last12Months": false,
+        "last5FinancialYears": false,
+        "thisSixMonth": false,
+        "lastQuarter": false,
+        "thisFinancialYear": false,
+        "last4Weeks": false,
+        "last3Months": false,
+        "thisDay": false,
+        "thisMonth": false,
+        "last5Years": false,
+        "last6BiMonths": false,
+        "last10FinancialYears": false,
+        "last4BiWeeks": false,
+        "lastFinancialYear": false,
+        "lastBiWeek": false,
+        "weeksThisYear": false,
+        "last6Months": false,
+        "last3Days": false,
+        "quartersThisYear": false,
+        "monthsLastYear": false,
+        "lastWeek": false,
+        "last7Days": false,
+        "last180Days": false,
+        "thisBimonth": false,
+        "lastBimonth": false,
+        "lastSixMonth": false,
+        "thisBiWeek": false,
+        "lastYear": false,
+        "last12Weeks": false,
+        "last4Quarters": false
+      },
+      "reportingParams": {
+        "parentOrganisationUnit": false,
+        "reportingPeriod": false,
+        "organisationUnit": false,
+        "grandParentOrganisationUnit": false
+      },
+      "dataElementGroupSetDimensions": [],
+      "axes": [],
+      "translations": [],
+      "yearlySeries": [],
+      "filterDimensions": [
+        "pe",
+        "dx"
+      ],
+      "itemOrganisationUnitGroups": [],
+      "subscribers": [],
+      "columnDimensions": [
+        "f5OhzxrFtKy"
+      ],
+      "optionalAxes": [],
+      "favorites": [],
+      "dataDimensionItems": [
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "cxBAJmLgdTu"
+          }
+        }
+      ],
+      "categoryOptionGroupSetDimensions": [],
+      "organisationUnitGroupSetDimensions": [],
+      "organisationUnitLevels": [],
+      "periods": [
+        {
+          "id": "2020"
+        }
+      ],
+      "organisationUnits": [],
+      "categoryDimensions": [
+        {
+          "category": {
+            "id": "f5OhzxrFtKy"
+          },
+          "categoryOptions": [
+            {
+              "id": "cdOQ1PPRxjJ"
+            },
+            {
+              "id": "UTyWFvVuwFq"
+            }
+          ]
+        }
+      ],
+      "rowDimensions": [
+        "ou"
+      ],
+      "series": []
+    },
+    {
+      "lastUpdated": "2022-07-11T08:52:19.202",
+      "id": "HdI0kUAcOSp",
+      "created": "2022-07-11T08:07:36.346",
+      "name": "New Enrolments - Data table (Age, Gender) - user OU - 2020",
+      "showData": true,
+      "fixRowHeaders": false,
+      "numberType": "VALUE",
+      "legend": {
+        "showKey": false
+      },
+      "userOrganisationUnitChildren": false,
+      "type": "PIVOT_TABLE",
+      "hideEmptyColumns": false,
+      "hideEmptyRows": false,
+      "userOrganisationUnit": true,
+      "rowSubTotals": false,
+      "displayDensity": "NORMAL",
+      "regressionType": "NONE",
+      "cumulativeValues": false,
+      "completedOnly": false,
+      "colTotals": true,
+      "sharing": {
+        "owner": "PJ7pWuO2jo8",
+        "external": false,
+        "users": {},
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "public": "--------"
+      },
+      "showDimensionLabels": false,
+      "sortOrder": 0,
+      "fontSize": "NORMAL",
+      "topLimit": 0,
+      "hideEmptyRowItems": "NONE",
+      "aggregationType": "DEFAULT",
+      "userOrganisationUnitGrandChildren": false,
+      "hideSubtitle": false,
+      "hideLegend": false,
+      "fixColumnHeaders": false,
+      "percentStackedValues": false,
+      "colSubTotals": true,
+      "noSpaceBetweenColumns": false,
+      "showHierarchy": false,
+      "rowTotals": true,
+      "seriesKey": {
+        "hidden": false
+      },
+      "digitGroupSeparator": "SPACE",
+      "hideTitle": false,
+      "regression": false,
+      "colorSet": "DEFAULT",
+      "skipRounding": false,
+      "fontStyle": {},
+      "relativePeriods": {
+        "thisYear": false,
+        "quartersLastYear": false,
+        "last10Years": false,
+        "last30Days": false,
+        "last52Weeks": false,
+        "thisWeek": false,
+        "last90Days": false,
+        "last60Days": false,
+        "lastMonth": false,
+        "last14Days": false,
+        "biMonthsThisYear": false,
+        "monthsThisYear": false,
+        "last2SixMonths": false,
+        "yesterday": false,
+        "thisQuarter": false,
+        "last12Months": false,
+        "last5FinancialYears": false,
+        "thisSixMonth": false,
+        "lastQuarter": false,
+        "thisFinancialYear": false,
+        "last4Weeks": false,
+        "last3Months": false,
+        "thisDay": false,
+        "thisMonth": false,
+        "last5Years": false,
+        "last6BiMonths": false,
+        "last10FinancialYears": false,
+        "last4BiWeeks": false,
+        "lastFinancialYear": false,
+        "lastBiWeek": false,
+        "weeksThisYear": false,
+        "last6Months": false,
+        "last3Days": false,
+        "quartersThisYear": false,
+        "monthsLastYear": false,
+        "lastWeek": false,
+        "last7Days": false,
+        "last180Days": false,
+        "thisBimonth": false,
+        "lastBimonth": false,
+        "lastSixMonth": false,
+        "thisBiWeek": false,
+        "lastYear": false,
+        "last12Weeks": false,
+        "last4Quarters": false
+      },
+      "reportingParams": {
+        "parentOrganisationUnit": false,
+        "reportingPeriod": false,
+        "organisationUnit": false,
+        "grandParentOrganisationUnit": false
+      },
+      "dataElementGroupSetDimensions": [],
+      "axes": [],
+      "translations": [],
+      "yearlySeries": [],
+      "filterDimensions": [
+        "ou"
+      ],
+      "itemOrganisationUnitGroups": [],
+      "subscribers": [],
+      "columnDimensions": [
+        "dx",
+        "rvkG1gmEz6K",
+        "f5OhzxrFtKy"
+      ],
+      "optionalAxes": [],
+      "favorites": [],
+      "dataDimensionItems": [
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "cxBAJmLgdTu"
+          }
+        }
+      ],
+      "categoryOptionGroupSetDimensions": [],
+      "organisationUnitGroupSetDimensions": [],
+      "organisationUnitLevels": [],
+      "periods": [
+        {
+          "id": "202001"
+        },
+        {
+          "id": "202002"
+        },
+        {
+          "id": "202003"
+        },
+        {
+          "id": "202004"
+        },
+        {
+          "id": "202005"
+        },
+        {
+          "id": "202006"
+        },
+        {
+          "id": "202007"
+        },
+        {
+          "id": "202008"
+        },
+        {
+          "id": "202009"
+        },
+        {
+          "id": "202010"
+        },
+        {
+          "id": "202011"
+        },
+        {
+          "id": "202012"
+        }
+      ],
+      "organisationUnits": [],
+      "categoryDimensions": [
+        {
+          "category": {
+            "id": "rvkG1gmEz6K"
+          },
+          "categoryOptions": [
+            {
+              "id": "WcRzUzIlwCX"
+            },
+            {
+              "id": "Uz5EirA59Sz"
+            },
+            {
+              "id": "NWNL2dmSuYk"
+            },
+            {
+              "id": "jDqd9xn6dt0"
+            },
+            {
+              "id": "Zpety2vuDvy"
+            },
+            {
+              "id": "K6kOGac1eV2"
+            },
+            {
+              "id": "A9nits1oBpl"
+            },
+            {
+              "id": "gGdT7wqrktB"
+            }
+          ]
+        },
+        {
+          "category": {
+            "id": "f5OhzxrFtKy"
+          },
+          "categoryOptions": [
+            {
+              "id": "UTyWFvVuwFq"
+            },
+            {
+              "id": "cdOQ1PPRxjJ"
+            }
+          ]
+        }
+      ],
+      "rowDimensions": [
+        "pe"
+      ],
+      "series": []
+    }
+  ]
+}
