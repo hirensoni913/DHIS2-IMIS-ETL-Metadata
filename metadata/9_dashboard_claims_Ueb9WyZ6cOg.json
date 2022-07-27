@@ -1,0 +1,1224 @@
+{
+  "date": "2022-07-27T11:08:15.595",
+  "dashboards": [
+    {
+      "created": "2022-07-19T10:49:03.925",
+      "lastUpdated": "2022-07-19T11:41:40.109",
+      "name": "Claims",
+      "id": "Ueb9WyZ6cOg",
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "public": "r-------"
+      },
+      "restrictFilters": false,
+      "layout": {
+        "columns": []
+      },
+      "itemConfig": {
+        "insertPosition": "END"
+      },
+      "favorites": [],
+      "dashboardItems": [
+        {
+          "lastUpdated": "2022-07-19T11:27:37.055",
+          "id": "eyPT2mu6mOC",
+          "created": "2022-07-19T11:27:37.028",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 27,
+          "interpretationCount": 0,
+          "sharing": {
+            "external": false,
+            "users": {},
+            "userGroups": {}
+          },
+          "width": 41,
+          "x": 0,
+          "interpretationLikeCount": 0,
+          "y": 38,
+          "favorite": false,
+          "visualization": {
+            "id": "umBYYeUZ8BY"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "delete": true,
+            "write": true,
+            "manage": true
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-19T11:27:37.055",
+          "id": "tiKTPpc3dvK",
+          "created": "2022-07-19T11:27:37.028",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 9,
+          "interpretationCount": 0,
+          "sharing": {
+            "external": false,
+            "users": {},
+            "userGroups": {}
+          },
+          "width": 29,
+          "x": 31,
+          "interpretationLikeCount": 0,
+          "y": 0,
+          "favorite": false,
+          "visualization": {
+            "id": "prMYbwLSJ7L"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "delete": true,
+            "write": true,
+            "manage": true
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-19T11:27:37.055",
+          "id": "afhNT8XCjF0",
+          "created": "2022-07-19T11:27:37.028",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 29,
+          "interpretationCount": 0,
+          "sharing": {
+            "external": false,
+            "users": {},
+            "userGroups": {}
+          },
+          "width": 35,
+          "x": 0,
+          "interpretationLikeCount": 0,
+          "y": 9,
+          "favorite": false,
+          "visualization": {
+            "id": "Tpt86Fa3H29"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "delete": true,
+            "write": true,
+            "manage": true
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-19T11:27:37.055",
+          "id": "VU62pZarTw3",
+          "created": "2022-07-19T11:27:37.028",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 29,
+          "interpretationCount": 0,
+          "sharing": {
+            "external": false,
+            "users": {},
+            "userGroups": {}
+          },
+          "width": 25,
+          "x": 35,
+          "interpretationLikeCount": 0,
+          "y": 9,
+          "favorite": false,
+          "visualization": {
+            "id": "rJMIV3Uxpzo"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "delete": true,
+            "write": true,
+            "manage": true
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-19T11:27:37.056",
+          "id": "c3gJD5D6EX6",
+          "created": "2022-07-19T11:27:37.028",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 9,
+          "interpretationCount": 0,
+          "sharing": {
+            "external": false,
+            "users": {},
+            "userGroups": {}
+          },
+          "width": 31,
+          "x": 0,
+          "interpretationLikeCount": 0,
+          "y": 0,
+          "favorite": false,
+          "visualization": {
+            "id": "HEwH6Tez5hf"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "delete": true,
+            "write": true,
+            "manage": true
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-19T11:27:37.056",
+          "id": "qlP1aTFYSHr",
+          "created": "2022-07-19T11:27:37.028",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 27,
+          "interpretationCount": 0,
+          "sharing": {
+            "external": false,
+            "users": {},
+            "userGroups": {}
+          },
+          "width": 18,
+          "x": 41,
+          "interpretationLikeCount": 0,
+          "y": 38,
+          "favorite": false,
+          "visualization": {
+            "id": "QHr6Pl8C674"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "delete": true,
+            "write": true,
+            "manage": true
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        }
+      ],
+      "translations": [],
+      "allowedFilters": []
+    }
+  ],
+  "visualizations": [
+    {
+      "lastUpdated": "2022-07-19T12:04:28.851",
+      "id": "prMYbwLSJ7L",
+      "created": "2022-07-19T11:17:12.635",
+      "name": "Claims Valuated - Single Value - 10 Years",
+      "showData": true,
+      "fixRowHeaders": false,
+      "numberType": "VALUE",
+      "legend": {
+        "showKey": false
+      },
+      "userOrganisationUnitChildren": false,
+      "type": "SINGLE_VALUE",
+      "hideEmptyColumns": false,
+      "hideEmptyRows": false,
+      "userOrganisationUnit": true,
+      "rowSubTotals": false,
+      "displayDensity": "NORMAL",
+      "regressionType": "NONE",
+      "cumulativeValues": false,
+      "completedOnly": false,
+      "colTotals": false,
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "public": "--------"
+      },
+      "showDimensionLabels": false,
+      "sortOrder": 0,
+      "fontSize": "NORMAL",
+      "topLimit": 0,
+      "hideEmptyRowItems": "NONE",
+      "aggregationType": "DEFAULT",
+      "userOrganisationUnitGrandChildren": false,
+      "hideSubtitle": false,
+      "hideLegend": false,
+      "fixColumnHeaders": false,
+      "percentStackedValues": false,
+      "colSubTotals": false,
+      "noSpaceBetweenColumns": false,
+      "showHierarchy": false,
+      "rowTotals": false,
+      "seriesKey": {
+        "hidden": false
+      },
+      "digitGroupSeparator": "COMMA",
+      "hideTitle": false,
+      "regression": false,
+      "colorSet": "DEFAULT",
+      "skipRounding": false,
+      "fontStyle": {},
+      "relativePeriods": {
+        "thisYear": false,
+        "quartersLastYear": false,
+        "last10Years": true,
+        "last30Days": false,
+        "last52Weeks": false,
+        "thisWeek": false,
+        "last90Days": false,
+        "last60Days": false,
+        "lastMonth": false,
+        "last14Days": false,
+        "biMonthsThisYear": false,
+        "monthsThisYear": false,
+        "last2SixMonths": false,
+        "yesterday": false,
+        "thisQuarter": false,
+        "last12Months": false,
+        "last5FinancialYears": false,
+        "thisSixMonth": false,
+        "lastQuarter": false,
+        "thisFinancialYear": false,
+        "last4Weeks": false,
+        "last3Months": false,
+        "thisDay": false,
+        "thisMonth": false,
+        "last5Years": false,
+        "last6BiMonths": false,
+        "last10FinancialYears": false,
+        "last4BiWeeks": false,
+        "lastFinancialYear": false,
+        "lastBiWeek": false,
+        "weeksThisYear": false,
+        "last6Months": false,
+        "last3Days": false,
+        "quartersThisYear": false,
+        "monthsLastYear": false,
+        "lastWeek": false,
+        "last7Days": false,
+        "last180Days": false,
+        "thisBimonth": false,
+        "lastBimonth": false,
+        "lastSixMonth": false,
+        "thisBiWeek": false,
+        "lastYear": false,
+        "last12Weeks": false,
+        "last4Quarters": false
+      },
+      "reportingParams": {
+        "parentOrganisationUnit": false,
+        "reportingPeriod": false,
+        "organisationUnit": false,
+        "grandParentOrganisationUnit": false
+      },
+      "dataElementGroupSetDimensions": [],
+      "axes": [],
+      "translations": [],
+      "yearlySeries": [],
+      "filterDimensions": [
+        "ou",
+        "pe"
+      ],
+      "itemOrganisationUnitGroups": [],
+      "subscribers": [],
+      "columnDimensions": [
+        "dx"
+      ],
+      "optionalAxes": [],
+      "favorites": [],
+      "dataDimensionItems": [
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "XLh2fmkRoIx"
+          }
+        }
+      ],
+      "categoryOptionGroupSetDimensions": [],
+      "organisationUnitGroupSetDimensions": [],
+      "organisationUnitLevels": [],
+      "periods": [],
+      "organisationUnits": [],
+      "categoryDimensions": [],
+      "rowDimensions": [],
+      "series": []
+    },
+    {
+      "lastUpdated": "2022-07-20T14:43:14.895",
+      "id": "rJMIV3Uxpzo",
+      "created": "2022-07-19T10:46:31.776",
+      "name": "Total Claims by HF Level - Last 12 Months",
+      "showData": true,
+      "fixRowHeaders": false,
+      "numberType": "VALUE",
+      "legend": {
+        "showKey": false
+      },
+      "userOrganisationUnitChildren": true,
+      "type": "COLUMN",
+      "hideEmptyColumns": false,
+      "hideEmptyRows": false,
+      "userOrganisationUnit": false,
+      "rowSubTotals": false,
+      "displayDensity": "NORMAL",
+      "regressionType": "NONE",
+      "cumulativeValues": false,
+      "completedOnly": false,
+      "colTotals": false,
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "public": "--------"
+      },
+      "showDimensionLabels": false,
+      "sortOrder": 0,
+      "subtitle": "Last 12 Months",
+      "fontSize": "NORMAL",
+      "topLimit": 0,
+      "hideEmptyRowItems": "NONE",
+      "aggregationType": "DEFAULT",
+      "userOrganisationUnitGrandChildren": false,
+      "hideSubtitle": false,
+      "title": "Total Claims by HF Type",
+      "hideLegend": false,
+      "fixColumnHeaders": false,
+      "percentStackedValues": false,
+      "colSubTotals": false,
+      "noSpaceBetweenColumns": false,
+      "showHierarchy": false,
+      "rowTotals": false,
+      "seriesKey": {
+        "hidden": false
+      },
+      "digitGroupSeparator": "COMMA",
+      "hideTitle": false,
+      "regression": false,
+      "colorSet": "DEFAULT",
+      "skipRounding": false,
+      "fontStyle": {},
+      "relativePeriods": {
+        "thisYear": false,
+        "quartersLastYear": false,
+        "last10Years": false,
+        "last30Days": false,
+        "last52Weeks": false,
+        "thisWeek": false,
+        "last90Days": false,
+        "last60Days": false,
+        "lastMonth": false,
+        "last14Days": false,
+        "biMonthsThisYear": false,
+        "monthsThisYear": false,
+        "last2SixMonths": false,
+        "yesterday": false,
+        "thisQuarter": false,
+        "last12Months": true,
+        "last5FinancialYears": false,
+        "thisSixMonth": false,
+        "lastQuarter": false,
+        "thisFinancialYear": false,
+        "last4Weeks": false,
+        "last3Months": false,
+        "thisDay": false,
+        "thisMonth": false,
+        "last5Years": false,
+        "last6BiMonths": false,
+        "last10FinancialYears": false,
+        "last4BiWeeks": false,
+        "lastFinancialYear": false,
+        "lastBiWeek": false,
+        "weeksThisYear": false,
+        "last6Months": false,
+        "last3Days": false,
+        "quartersThisYear": false,
+        "monthsLastYear": false,
+        "lastWeek": false,
+        "last7Days": false,
+        "last180Days": false,
+        "thisBimonth": false,
+        "lastBimonth": false,
+        "lastSixMonth": false,
+        "thisBiWeek": false,
+        "lastYear": false,
+        "last12Weeks": false,
+        "last4Quarters": false
+      },
+      "reportingParams": {
+        "parentOrganisationUnit": false,
+        "reportingPeriod": false,
+        "organisationUnit": false,
+        "grandParentOrganisationUnit": false
+      },
+      "dataElementGroupSetDimensions": [],
+      "axes": [],
+      "translations": [],
+      "yearlySeries": [],
+      "filterDimensions": [
+        "ou",
+        "dx"
+      ],
+      "itemOrganisationUnitGroups": [],
+      "subscribers": [],
+      "columnDimensions": [
+        "ZwTfdWEnOXw"
+      ],
+      "optionalAxes": [],
+      "favorites": [],
+      "dataDimensionItems": [
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "qu7fou3ix7h"
+          }
+        }
+      ],
+      "categoryOptionGroupSetDimensions": [],
+      "organisationUnitGroupSetDimensions": [
+        {
+          "organisationUnitGroupSet": {
+            "id": "ZwTfdWEnOXw"
+          },
+          "organisationUnitGroups": [
+            {
+              "id": "tTsjlTcjJPZ"
+            },
+            {
+              "id": "jZUl1u4BoGb"
+            },
+            {
+              "id": "ZCkXK2Zx6kj"
+            }
+          ]
+        }
+      ],
+      "organisationUnitLevels": [],
+      "periods": [],
+      "organisationUnits": [],
+      "categoryDimensions": [],
+      "rowDimensions": [
+        "pe"
+      ],
+      "series": []
+    },
+    {
+      "lastUpdated": "2022-07-20T14:44:45.190",
+      "id": "QHr6Pl8C674",
+      "created": "2022-07-19T11:26:48.722",
+      "name": "Claims Valuated by HF Level - Last 12 Months",
+      "showData": true,
+      "fixRowHeaders": false,
+      "numberType": "VALUE",
+      "legend": {
+        "showKey": false
+      },
+      "userOrganisationUnitChildren": false,
+      "type": "PIE",
+      "hideEmptyColumns": false,
+      "hideEmptyRows": false,
+      "userOrganisationUnit": true,
+      "rowSubTotals": false,
+      "displayDensity": "NORMAL",
+      "regressionType": "NONE",
+      "cumulativeValues": false,
+      "completedOnly": false,
+      "colTotals": false,
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "public": "--------"
+      },
+      "showDimensionLabels": false,
+      "sortOrder": 0,
+      "subtitle": "Last 12 Months",
+      "fontSize": "NORMAL",
+      "topLimit": 0,
+      "hideEmptyRowItems": "NONE",
+      "aggregationType": "DEFAULT",
+      "userOrganisationUnitGrandChildren": false,
+      "hideSubtitle": false,
+      "title": "Claims Valuated by HF Levels",
+      "hideLegend": false,
+      "fixColumnHeaders": false,
+      "percentStackedValues": false,
+      "colSubTotals": false,
+      "noSpaceBetweenColumns": false,
+      "showHierarchy": false,
+      "rowTotals": false,
+      "seriesKey": {
+        "hidden": false
+      },
+      "digitGroupSeparator": "COMMA",
+      "hideTitle": false,
+      "regression": false,
+      "colorSet": "DEFAULT",
+      "skipRounding": false,
+      "fontStyle": {},
+      "relativePeriods": {
+        "thisYear": false,
+        "quartersLastYear": false,
+        "last10Years": false,
+        "last30Days": false,
+        "last52Weeks": false,
+        "thisWeek": false,
+        "last90Days": false,
+        "last60Days": false,
+        "lastMonth": false,
+        "last14Days": false,
+        "biMonthsThisYear": false,
+        "monthsThisYear": false,
+        "last2SixMonths": false,
+        "yesterday": false,
+        "thisQuarter": false,
+        "last12Months": true,
+        "last5FinancialYears": false,
+        "thisSixMonth": false,
+        "lastQuarter": false,
+        "thisFinancialYear": false,
+        "last4Weeks": false,
+        "last3Months": false,
+        "thisDay": false,
+        "thisMonth": false,
+        "last5Years": false,
+        "last6BiMonths": false,
+        "last10FinancialYears": false,
+        "last4BiWeeks": false,
+        "lastFinancialYear": false,
+        "lastBiWeek": false,
+        "weeksThisYear": false,
+        "last6Months": false,
+        "last3Days": false,
+        "quartersThisYear": false,
+        "monthsLastYear": false,
+        "lastWeek": false,
+        "last7Days": false,
+        "last180Days": false,
+        "thisBimonth": false,
+        "lastBimonth": false,
+        "lastSixMonth": false,
+        "thisBiWeek": false,
+        "lastYear": false,
+        "last12Weeks": false,
+        "last4Quarters": false
+      },
+      "reportingParams": {
+        "parentOrganisationUnit": false,
+        "reportingPeriod": false,
+        "organisationUnit": false,
+        "grandParentOrganisationUnit": false
+      },
+      "dataElementGroupSetDimensions": [],
+      "axes": [],
+      "translations": [],
+      "yearlySeries": [],
+      "filterDimensions": [
+        "ou",
+        "pe",
+        "dx"
+      ],
+      "itemOrganisationUnitGroups": [],
+      "subscribers": [],
+      "columnDimensions": [
+        "ZwTfdWEnOXw"
+      ],
+      "optionalAxes": [],
+      "favorites": [],
+      "dataDimensionItems": [
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "XLh2fmkRoIx"
+          }
+        }
+      ],
+      "categoryOptionGroupSetDimensions": [],
+      "organisationUnitGroupSetDimensions": [
+        {
+          "organisationUnitGroupSet": {
+            "id": "ZwTfdWEnOXw"
+          },
+          "organisationUnitGroups": [
+            {
+              "id": "tTsjlTcjJPZ"
+            },
+            {
+              "id": "jZUl1u4BoGb"
+            },
+            {
+              "id": "ZCkXK2Zx6kj"
+            }
+          ]
+        }
+      ],
+      "organisationUnitLevels": [],
+      "periods": [],
+      "organisationUnits": [],
+      "categoryDimensions": [],
+      "rowDimensions": [],
+      "series": [
+        {
+          "dimensionItem": "tTsjlTcjJPZ",
+          "axis": 0
+        },
+        {
+          "dimensionItem": "jZUl1u4BoGb",
+          "axis": 0
+        },
+        {
+          "dimensionItem": "ZCkXK2Zx6kj",
+          "axis": 0
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-07-20T14:43:59.280",
+      "id": "umBYYeUZ8BY",
+      "created": "2022-07-19T11:16:00.356",
+      "name": "Claims Valuated by HF Level - Last 12 Months",
+      "showData": true,
+      "fixRowHeaders": false,
+      "numberType": "VALUE",
+      "legend": {
+        "showKey": false
+      },
+      "userOrganisationUnitChildren": true,
+      "type": "PIVOT_TABLE",
+      "hideEmptyColumns": false,
+      "hideEmptyRows": false,
+      "userOrganisationUnit": false,
+      "rowSubTotals": false,
+      "displayDensity": "NORMAL",
+      "regressionType": "NONE",
+      "cumulativeValues": false,
+      "completedOnly": false,
+      "colTotals": true,
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "public": "--------"
+      },
+      "showDimensionLabels": false,
+      "sortOrder": 0,
+      "fontSize": "NORMAL",
+      "topLimit": 0,
+      "hideEmptyRowItems": "NONE",
+      "aggregationType": "DEFAULT",
+      "userOrganisationUnitGrandChildren": false,
+      "hideSubtitle": false,
+      "hideLegend": false,
+      "fixColumnHeaders": false,
+      "percentStackedValues": false,
+      "colSubTotals": false,
+      "noSpaceBetweenColumns": false,
+      "showHierarchy": false,
+      "rowTotals": true,
+      "seriesKey": {
+        "hidden": false
+      },
+      "digitGroupSeparator": "COMMA",
+      "hideTitle": false,
+      "regression": false,
+      "colorSet": "DEFAULT",
+      "skipRounding": false,
+      "fontStyle": {},
+      "relativePeriods": {
+        "thisYear": false,
+        "quartersLastYear": false,
+        "last10Years": false,
+        "last30Days": false,
+        "last52Weeks": false,
+        "thisWeek": false,
+        "last90Days": false,
+        "last60Days": false,
+        "lastMonth": false,
+        "last14Days": false,
+        "biMonthsThisYear": false,
+        "monthsThisYear": false,
+        "last2SixMonths": false,
+        "yesterday": false,
+        "thisQuarter": false,
+        "last12Months": true,
+        "last5FinancialYears": false,
+        "thisSixMonth": false,
+        "lastQuarter": false,
+        "thisFinancialYear": false,
+        "last4Weeks": false,
+        "last3Months": false,
+        "thisDay": false,
+        "thisMonth": false,
+        "last5Years": false,
+        "last6BiMonths": false,
+        "last10FinancialYears": false,
+        "last4BiWeeks": false,
+        "lastFinancialYear": false,
+        "lastBiWeek": false,
+        "weeksThisYear": false,
+        "last6Months": false,
+        "last3Days": false,
+        "quartersThisYear": false,
+        "monthsLastYear": false,
+        "lastWeek": false,
+        "last7Days": false,
+        "last180Days": false,
+        "thisBimonth": false,
+        "lastBimonth": false,
+        "lastSixMonth": false,
+        "thisBiWeek": false,
+        "lastYear": false,
+        "last12Weeks": false,
+        "last4Quarters": false
+      },
+      "reportingParams": {
+        "parentOrganisationUnit": false,
+        "reportingPeriod": false,
+        "organisationUnit": false,
+        "grandParentOrganisationUnit": false
+      },
+      "dataElementGroupSetDimensions": [],
+      "axes": [],
+      "translations": [],
+      "yearlySeries": [],
+      "filterDimensions": [],
+      "itemOrganisationUnitGroups": [],
+      "subscribers": [],
+      "columnDimensions": [
+        "dx",
+        "pe"
+      ],
+      "optionalAxes": [],
+      "favorites": [],
+      "dataDimensionItems": [
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "XLh2fmkRoIx"
+          }
+        }
+      ],
+      "categoryOptionGroupSetDimensions": [],
+      "organisationUnitGroupSetDimensions": [
+        {
+          "organisationUnitGroupSet": {
+            "id": "ZwTfdWEnOXw"
+          },
+          "organisationUnitGroups": [
+            {
+              "id": "tTsjlTcjJPZ"
+            },
+            {
+              "id": "jZUl1u4BoGb"
+            },
+            {
+              "id": "ZCkXK2Zx6kj"
+            }
+          ]
+        }
+      ],
+      "organisationUnitLevels": [],
+      "periods": [],
+      "organisationUnits": [],
+      "categoryDimensions": [],
+      "rowDimensions": [
+        "ou",
+        "ZwTfdWEnOXw"
+      ],
+      "series": []
+    },
+    {
+      "lastUpdated": "2022-07-20T14:41:54.406",
+      "id": "Tpt86Fa3H29",
+      "created": "2022-07-19T10:35:10.962",
+      "name": "Total claims by HF Level - Last 12 Months",
+      "showData": true,
+      "fixRowHeaders": false,
+      "numberType": "VALUE",
+      "legend": {
+        "showKey": false
+      },
+      "userOrganisationUnitChildren": true,
+      "type": "PIVOT_TABLE",
+      "hideEmptyColumns": false,
+      "hideEmptyRows": false,
+      "userOrganisationUnit": false,
+      "rowSubTotals": false,
+      "displayDensity": "NORMAL",
+      "regressionType": "NONE",
+      "cumulativeValues": false,
+      "completedOnly": false,
+      "colTotals": true,
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "public": "--------"
+      },
+      "showDimensionLabels": false,
+      "sortOrder": 0,
+      "fontSize": "NORMAL",
+      "topLimit": 0,
+      "hideEmptyRowItems": "NONE",
+      "aggregationType": "DEFAULT",
+      "userOrganisationUnitGrandChildren": false,
+      "hideSubtitle": false,
+      "hideLegend": false,
+      "fixColumnHeaders": false,
+      "percentStackedValues": false,
+      "colSubTotals": false,
+      "noSpaceBetweenColumns": false,
+      "showHierarchy": false,
+      "rowTotals": true,
+      "seriesKey": {
+        "hidden": false
+      },
+      "digitGroupSeparator": "COMMA",
+      "hideTitle": false,
+      "regression": false,
+      "colorSet": "DEFAULT",
+      "skipRounding": false,
+      "fontStyle": {},
+      "relativePeriods": {
+        "thisYear": false,
+        "quartersLastYear": false,
+        "last10Years": false,
+        "last30Days": false,
+        "last52Weeks": false,
+        "thisWeek": false,
+        "last90Days": false,
+        "last60Days": false,
+        "lastMonth": false,
+        "last14Days": false,
+        "biMonthsThisYear": false,
+        "monthsThisYear": false,
+        "last2SixMonths": false,
+        "yesterday": false,
+        "thisQuarter": false,
+        "last12Months": true,
+        "last5FinancialYears": false,
+        "thisSixMonth": false,
+        "lastQuarter": false,
+        "thisFinancialYear": false,
+        "last4Weeks": false,
+        "last3Months": false,
+        "thisDay": false,
+        "thisMonth": false,
+        "last5Years": false,
+        "last6BiMonths": false,
+        "last10FinancialYears": false,
+        "last4BiWeeks": false,
+        "lastFinancialYear": false,
+        "lastBiWeek": false,
+        "weeksThisYear": false,
+        "last6Months": false,
+        "last3Days": false,
+        "quartersThisYear": false,
+        "monthsLastYear": false,
+        "lastWeek": false,
+        "last7Days": false,
+        "last180Days": false,
+        "thisBimonth": false,
+        "lastBimonth": false,
+        "lastSixMonth": false,
+        "thisBiWeek": false,
+        "lastYear": false,
+        "last12Weeks": false,
+        "last4Quarters": false
+      },
+      "reportingParams": {
+        "parentOrganisationUnit": false,
+        "reportingPeriod": false,
+        "organisationUnit": false,
+        "grandParentOrganisationUnit": false
+      },
+      "dataElementGroupSetDimensions": [],
+      "axes": [],
+      "translations": [],
+      "yearlySeries": [],
+      "filterDimensions": [],
+      "itemOrganisationUnitGroups": [],
+      "subscribers": [],
+      "columnDimensions": [
+        "dx",
+        "pe"
+      ],
+      "optionalAxes": [],
+      "favorites": [],
+      "dataDimensionItems": [
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "qu7fou3ix7h"
+          }
+        }
+      ],
+      "categoryOptionGroupSetDimensions": [],
+      "organisationUnitGroupSetDimensions": [
+        {
+          "organisationUnitGroupSet": {
+            "id": "ZwTfdWEnOXw"
+          },
+          "organisationUnitGroups": [
+            {
+              "id": "tTsjlTcjJPZ"
+            },
+            {
+              "id": "jZUl1u4BoGb"
+            },
+            {
+              "id": "ZCkXK2Zx6kj"
+            }
+          ]
+        }
+      ],
+      "organisationUnitLevels": [],
+      "periods": [],
+      "organisationUnits": [],
+      "categoryDimensions": [],
+      "rowDimensions": [
+        "ou",
+        "ZwTfdWEnOXw"
+      ],
+      "series": []
+    },
+    {
+      "lastUpdated": "2022-07-19T12:09:00.119",
+      "id": "HEwH6Tez5hf",
+      "created": "2022-07-19T10:48:29.277",
+      "name": "Total Claims - Single Value - 10 years",
+      "showData": true,
+      "fixRowHeaders": false,
+      "numberType": "VALUE",
+      "legend": {
+        "showKey": false
+      },
+      "userOrganisationUnitChildren": false,
+      "type": "SINGLE_VALUE",
+      "hideEmptyColumns": false,
+      "hideEmptyRows": false,
+      "userOrganisationUnit": true,
+      "rowSubTotals": false,
+      "displayDensity": "NORMAL",
+      "regressionType": "NONE",
+      "cumulativeValues": false,
+      "completedOnly": false,
+      "colTotals": false,
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "public": "--------"
+      },
+      "showDimensionLabels": false,
+      "sortOrder": 0,
+      "fontSize": "NORMAL",
+      "topLimit": 0,
+      "hideEmptyRowItems": "NONE",
+      "aggregationType": "DEFAULT",
+      "userOrganisationUnitGrandChildren": false,
+      "hideSubtitle": false,
+      "hideLegend": false,
+      "fixColumnHeaders": false,
+      "percentStackedValues": false,
+      "colSubTotals": false,
+      "noSpaceBetweenColumns": false,
+      "showHierarchy": false,
+      "rowTotals": false,
+      "seriesKey": {
+        "hidden": false
+      },
+      "digitGroupSeparator": "COMMA",
+      "hideTitle": false,
+      "regression": false,
+      "colorSet": "DEFAULT",
+      "skipRounding": false,
+      "fontStyle": {},
+      "relativePeriods": {
+        "thisYear": false,
+        "quartersLastYear": false,
+        "last10Years": true,
+        "last30Days": false,
+        "last52Weeks": false,
+        "thisWeek": false,
+        "last90Days": false,
+        "last60Days": false,
+        "lastMonth": false,
+        "last14Days": false,
+        "biMonthsThisYear": false,
+        "monthsThisYear": false,
+        "last2SixMonths": false,
+        "yesterday": false,
+        "thisQuarter": false,
+        "last12Months": false,
+        "last5FinancialYears": false,
+        "thisSixMonth": false,
+        "lastQuarter": false,
+        "thisFinancialYear": false,
+        "last4Weeks": false,
+        "last3Months": false,
+        "thisDay": false,
+        "thisMonth": false,
+        "last5Years": false,
+        "last6BiMonths": false,
+        "last10FinancialYears": false,
+        "last4BiWeeks": false,
+        "lastFinancialYear": false,
+        "lastBiWeek": false,
+        "weeksThisYear": false,
+        "last6Months": false,
+        "last3Days": false,
+        "quartersThisYear": false,
+        "monthsLastYear": false,
+        "lastWeek": false,
+        "last7Days": false,
+        "last180Days": false,
+        "thisBimonth": false,
+        "lastBimonth": false,
+        "lastSixMonth": false,
+        "thisBiWeek": false,
+        "lastYear": false,
+        "last12Weeks": false,
+        "last4Quarters": false
+      },
+      "reportingParams": {
+        "parentOrganisationUnit": false,
+        "reportingPeriod": false,
+        "organisationUnit": false,
+        "grandParentOrganisationUnit": false
+      },
+      "dataElementGroupSetDimensions": [],
+      "axes": [],
+      "translations": [],
+      "yearlySeries": [],
+      "filterDimensions": [
+        "ou",
+        "pe"
+      ],
+      "itemOrganisationUnitGroups": [],
+      "subscribers": [],
+      "columnDimensions": [
+        "dx"
+      ],
+      "optionalAxes": [],
+      "favorites": [],
+      "dataDimensionItems": [
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "qu7fou3ix7h"
+          }
+        }
+      ],
+      "categoryOptionGroupSetDimensions": [],
+      "organisationUnitGroupSetDimensions": [],
+      "organisationUnitLevels": [],
+      "periods": [],
+      "organisationUnits": [],
+      "categoryDimensions": [],
+      "rowDimensions": [],
+      "series": [
+        {
+          "dimensionItem": "qu7fou3ix7h",
+          "axis": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "date": "2022-07-27T11:08:12.936",
+  "categoryCombos": [
+    {
+      "code": "default",
+      "created": "2022-07-06T11:26:52.124",
+      "lastUpdated": "2022-07-06T11:26:52.127",
+      "name": "default",
+      "id": "bjDvmb4bfuf",
+      "dataDimensionType": "DISAGGREGATION",
+      "sharing": {
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rw------"
+      },
+      "skipTotal": false,
+      "translations": [],
+      "categories": [
+        {
+          "id": "GLevLNI9wkl"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "code": "default",
+      "created": "2022-07-06T11:26:52.121",
+      "lastUpdated": "2022-07-08T12:30:43.796",
+      "name": "default",
+      "id": "GLevLNI9wkl",
+      "shortName": "default",
+      "dataDimensionType": "DISAGGREGATION",
+      "sharing": {
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rw------"
+      },
+      "dataDimension": false,
+      "attributeValues": [],
+      "translations": [],
+      "categoryOptions": [
+        {
+          "id": "xYerKDKCefk"
+        }
+      ]
+    }
+  ],
+  "dataElements": [
+    {
+      "lastUpdated": "2022-07-19T12:12:45.185",
+      "id": "qu7fou3ix7h",
+      "created": "2022-07-19T09:52:50.295",
+      "name": "CLM - Total Claims",
+      "shortName": "Total Claims",
+      "aggregationType": "SUM",
+      "domainType": "AGGREGATE",
+      "valueType": "INTEGER_POSITIVE",
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rw------"
+      },
+      "zeroIsSignificant": false,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "legendSets": [],
+      "aggregationLevels": []
+    },
+    {
+      "lastUpdated": "2022-07-19T11:00:19.698",
+      "id": "XLh2fmkRoIx",
+      "created": "2022-07-19T11:00:19.698",
+      "name": "CLM - Claims Valuated",
+      "shortName": "Claims Valuated",
+      "aggregationType": "SUM",
+      "domainType": "AGGREGATE",
+      "valueType": "INTEGER_POSITIVE",
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rw------"
+      },
+      "zeroIsSignificant": false,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "legendSets": [],
+      "aggregationLevels": []
+    }
+  ],
+  "categoryOptions": [
+    {
+      "code": "default",
+      "created": "2022-07-06T11:26:52.117",
+      "lastUpdated": "2022-07-06T11:26:52.128",
+      "name": "default",
+      "id": "xYerKDKCefk",
+      "sharing": {
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rwrw----"
+      },
+      "attributeValues": [],
+      "translations": [],
+      "organisationUnits": []
+    }
+  ],
+  "dataSets": [
+    {
+      "lastUpdated": "2022-07-19T11:02:58.578",
+      "id": "vU2HXequ0dj",
+      "created": "2022-07-19T10:11:11.122",
+      "name": "Daily Claim Form",
+      "validCompleteOnly": false,
+      "dataElementDecoration": false,
+      "notifyCompletingUser": false,
+      "noValueRequiresComment": false,
+      "skipOffline": false,
+      "compulsoryFieldsCompleteOnly": false,
+      "fieldCombinationRequired": false,
+      "renderHorizontally": false,
+      "renderAsTabs": false,
+      "mobile": false,
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "external": false,
+        "users": {},
+        "userGroups": {},
+        "public": "rw------"
+      },
+      "version": 3,
+      "openPeriodsAfterCoEndDate": 0,
+      "timelyDays": 15,
+      "periodType": "Daily",
+      "openFuturePeriods": 1,
+      "expiryDays": 0,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "dataSetElements": [
+        {
+          "dataElement": {
+            "id": "XLh2fmkRoIx"
+          },
+          "dataSet": {
+            "id": "vU2HXequ0dj"
+          }
+        },
+        {
+          "dataElement": {
+            "id": "qu7fou3ix7h"
+          },
+          "dataSet": {
+            "id": "vU2HXequ0dj"
+          }
+        }
+      ],
+      "compulsoryDataElementOperands": [],
+      "translations": [],
+      "dataInputPeriods": [],
+      "organisationUnits": [],
+      "attributeValues": [],
+      "indicators": [],
+      "legendSets": []
+    }
+  ],
+  "categoryOptionCombos": [
+    {
+      "lastUpdated": "2022-07-06T11:26:52.127",
+      "code": "default",
+      "created": "2022-07-06T11:26:52.126",
+      "name": "default",
+      "id": "HllvX50cXC0",
+      "ignoreApproval": false,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "categoryOptions": [
+        {
+          "id": "xYerKDKCefk"
+        }
+      ]
+    }
+  ]
+}

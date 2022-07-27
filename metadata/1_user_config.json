@@ -44,13 +44,14 @@
       ]
     },
     {
-      "lastUpdated": "2022-07-06T11:26:51.524",
+      "lastUpdated": "2022-07-19T11:57:21.315",
       "code": "Superuser",
       "created": "2022-07-06T11:26:51.524",
       "name": "Superuser",
       "id": "yrB6vc5Ip3r",
       "description": "Superuser",
       "sharing": {
+        "owner": "PJ7pWuO2jo8",
         "external": false,
         "users": {},
         "userGroups": {},
@@ -73,6 +74,7 @@
         "F_IMPORT_DATA",
         "F_LOCALE_ADD",
         "F_REPLICATE_USER",
+        "F_USER_DELETE",
         "F_SEND_EMAIL",
         "F_INSERT_CUSTOM_JS_CSS",
         "F_ENROLLMENT_CASCADE_DELETE",
@@ -89,6 +91,7 @@
         "F_APPROVE_DATA",
         "F_ACCEPT_DATA_LOWER_LEVELS",
         "F_EDIT_EXPIRED",
+        "F_USER_ADD",
         "F_PROGRAM_DASHBOARD_CONFIG_ADMIN",
         "F_APPROVE_DATA_LOWER_LEVELS",
         "F_UNCOMPLETE_EVENT"
@@ -98,7 +101,7 @@
   "userGroups": [
     {
       "created": "2022-07-07T09:55:07.929",
-      "lastUpdated": "2022-07-11T08:53:26.539",
+      "lastUpdated": "2022-07-19T11:57:30.742",
       "name": "Data reader group",
       "id": "uw37KIPZC5Q",
       "sharing": {
