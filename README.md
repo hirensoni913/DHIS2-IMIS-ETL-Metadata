@@ -1,4 +1,4 @@
-# SwissTPH openIMIS DHIS2 module
+# DHIS2-IMIS-ETL-Metadata
 
 
 Supported DHIS2 version: 2.37
