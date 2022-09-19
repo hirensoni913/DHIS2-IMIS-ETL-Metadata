@@ -1,0 +1,242 @@
+{
+  "date": "2022-09-19T09:34:04.584",
+  "visualizations": [
+    {
+      "lastUpdated": "2022-09-17T11:20:06.801",
+      "id": "iJgFGdI7iIO",
+      "created": "2022-07-08T08:34:01.360",
+      "name": "Public- Premium Collection by Pay Type",
+      "showData": true,
+      "fixRowHeaders": false,
+      "numberType": "VALUE",
+      "userOrganisationUnitChildren": false,
+      "type": "STACKED_COLUMN",
+      "hideEmptyColumns": false,
+      "hideEmptyRows": false,
+      "userOrganisationUnit": true,
+      "rowSubTotals": false,
+      "displayDensity": "NORMAL",
+      "regressionType": "NONE",
+      "cumulativeValues": false,
+      "completedOnly": false,
+      "colTotals": false,
+      "showDimensionLabels": false,
+      "sortOrder": 0,
+      "fontSize": "NORMAL",
+      "topLimit": 0,
+      "hideEmptyRowItems": "NONE",
+      "aggregationType": "DEFAULT",
+      "userOrganisationUnitGrandChildren": false,
+      "hideSubtitle": false,
+      "description": "Premium collected in the last 12 months by pay type in all the regions",
+      "hideLegend": false,
+      "fixColumnHeaders": false,
+      "percentStackedValues": false,
+      "colSubTotals": false,
+      "noSpaceBetweenColumns": false,
+      "showHierarchy": false,
+      "rowTotals": false,
+      "digitGroupSeparator": "SPACE",
+      "hideTitle": false,
+      "regression": false,
+      "colorSet": "DEFAULT",
+      "skipRounding": false,
+      "legend": {
+        "style": "FILL",
+        "showKey": false,
+        "strategy": "FIXED"
+      },
+      "fontStyle": {},
+      "sharing": {
+        "owner": "PJ7pWuO2jo8",
+        "userGroups": {},
+        "external": false,
+        "public": "--------",
+        "users": {
+          "iq7U062xsLT": {
+            "access": "r-------",
+            "id": "iq7U062xsLT"
+          }
+        }
+      },
+      "relativePeriods": {
+        "thisYear": false,
+        "quartersLastYear": false,
+        "last30Days": false,
+        "last10Years": false,
+        "last52Weeks": false,
+        "last90Days": false,
+        "thisWeek": false,
+        "last60Days": false,
+        "lastMonth": false,
+        "last14Days": false,
+        "biMonthsThisYear": false,
+        "yesterday": false,
+        "monthsThisYear": false,
+        "last2SixMonths": false,
+        "thisQuarter": false,
+        "last12Months": true,
+        "last5FinancialYears": false,
+        "lastQuarter": false,
+        "thisSixMonth": false,
+        "last3Months": false,
+        "thisFinancialYear": false,
+        "last4Weeks": false,
+        "thisDay": false,
+        "thisMonth": false,
+        "last5Years": false,
+        "last6BiMonths": false,
+        "last10FinancialYears": false,
+        "last4BiWeeks": false,
+        "lastFinancialYear": false,
+        "weeksThisYear": false,
+        "lastBiWeek": false,
+        "last6Months": false,
+        "last3Days": false,
+        "quartersThisYear": false,
+        "monthsLastYear": false,
+        "lastWeek": false,
+        "last7Days": false,
+        "last180Days": false,
+        "thisBimonth": false,
+        "lastBimonth": false,
+        "lastSixMonth": false,
+        "thisBiWeek": false,
+        "lastYear": false,
+        "last12Weeks": false,
+        "last4Quarters": false
+      },
+      "seriesKey": {
+        "hidden": false
+      },
+      "reportingParams": {
+        "parentOrganisationUnit": false,
+        "reportingPeriod": false,
+        "organisationUnit": false,
+        "grandParentOrganisationUnit": false
+      },
+      "dataElementGroupSetDimensions": [],
+      "axes": [],
+      "translations": [],
+      "yearlySeries": [],
+      "filterDimensions": [
+        "ou",
+        "dx"
+      ],
+      "itemOrganisationUnitGroups": [],
+      "subscribers": [],
+      "columnDimensions": [
+        "bOCrZguqyBl"
+      ],
+      "attributeValues": [],
+      "optionalAxes": [],
+      "favorites": [],
+      "dataDimensionItems": [
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "dQxo7a1fQNL"
+          }
+        }
+      ],
+      "categoryOptionGroupSetDimensions": [],
+      "organisationUnitGroupSetDimensions": [],
+      "organisationUnitLevels": [],
+      "periods": [],
+      "organisationUnits": [],
+      "categoryDimensions": [
+        {
+          "category": {
+            "id": "bOCrZguqyBl"
+          },
+          "categoryOptions": [
+            {
+              "id": "trJaHzeHYnM"
+            },
+            {
+              "id": "y0wlxDf8qDR"
+            },
+            {
+              "id": "yP3GrmbXDRC"
+            }
+          ]
+        }
+      ],
+      "rowDimensions": [
+        "pe"
+      ],
+      "series": [
+        {
+          "dimensionItem": "dQxo7a1fQNL",
+          "axis": 0
+        }
+      ]
+    }
+  ],
+  "dashboards": [
+    {
+      "created": "2022-09-17T11:19:42.304",
+      "lastUpdated": "2022-09-17T11:19:42.304",
+      "name": "Public",
+      "id": "y3FLC8eDAK9",
+      "restrictFilters": false,
+      "sharing": {
+        "owner": "PJ7pWuO2jo8",
+        "userGroups": {},
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
+      "layout": {
+        "columns": []
+      },
+      "itemConfig": {
+        "insertPosition": "END"
+      },
+      "favorites": [],
+      "dashboardItems": [
+        {
+          "lastUpdated": "2022-09-17T11:19:42.304",
+          "id": "vzhAx2ky5cQ",
+          "created": "2022-09-17T11:19:42.144",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 27,
+          "interpretationCount": 0,
+          "x": 0,
+          "width": 27,
+          "y": 0,
+          "interpretationLikeCount": 0,
+          "favorite": false,
+          "visualization": {
+            "id": "iJgFGdI7iIO"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "write": true,
+            "delete": true,
+            "manage": true
+          },
+          "sharing": {
+            "userGroups": {},
+            "external": false,
+            "users": {}
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        }
+      ],
+      "translations": [],
+      "allowedFilters": []
+    }
+  ]
+}

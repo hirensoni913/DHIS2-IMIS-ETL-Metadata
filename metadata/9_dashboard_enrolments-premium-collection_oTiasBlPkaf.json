@@ -1,781 +1,5 @@
 {
-  "date": "2022-07-27T11:08:15.663",
-  "dashboards": [
-    {
-      "created": "2022-07-07T13:51:38.717",
-      "lastUpdated": "2022-07-19T12:18:40.035",
-      "name": "Enrolments & Premium collection",
-      "id": "oTiasBlPkaf",
-      "sharing": {
-        "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
-        "userGroups": {
-          "uw37KIPZC5Q": {
-            "access": "r-------",
-            "id": "uw37KIPZC5Q"
-          }
-        },
-        "public": "--------"
-      },
-      "restrictFilters": false,
-      "layout": {
-        "columns": []
-      },
-      "itemConfig": {
-        "insertPosition": "START"
-      },
-      "favorites": [
-        "Z1Q0lu3BsnL",
-        "q4lQ3GbOpMw"
-      ],
-      "dashboardItems": [
-        {
-          "lastUpdated": "2022-07-15T15:30:12.271",
-          "id": "lnCsqbVb1nc",
-          "created": "2022-07-15T15:30:12.220",
-          "type": "VISUALIZATION",
-          "externalAccess": false,
-          "contentCount": 1,
-          "height": 28,
-          "interpretationCount": 0,
-          "sharing": {
-            "external": false,
-            "users": {},
-            "userGroups": {}
-          },
-          "width": 30,
-          "x": 30,
-          "interpretationLikeCount": 0,
-          "y": 37,
-          "favorite": false,
-          "visualization": {
-            "id": "nYGtth5nNRG"
-          },
-          "access": {
-            "read": true,
-            "update": true,
-            "externalize": true,
-            "delete": true,
-            "write": true,
-            "manage": true
-          },
-          "favorites": [],
-          "reports": [],
-          "translations": [],
-          "userGroupAccesses": [],
-          "attributeValues": [],
-          "resources": [],
-          "users": [],
-          "userAccesses": []
-        },
-        {
-          "lastUpdated": "2022-07-15T15:30:12.271",
-          "id": "ljBYURLlSBL",
-          "created": "2022-07-15T15:30:12.220",
-          "type": "VISUALIZATION",
-          "externalAccess": false,
-          "contentCount": 1,
-          "height": 23,
-          "interpretationCount": 0,
-          "sharing": {
-            "external": false,
-            "users": {},
-            "userGroups": {}
-          },
-          "width": 30,
-          "x": 0,
-          "interpretationLikeCount": 0,
-          "y": 80,
-          "favorite": false,
-          "visualization": {
-            "id": "wuiWwuWJC5i"
-          },
-          "access": {
-            "read": true,
-            "update": true,
-            "externalize": true,
-            "delete": true,
-            "write": true,
-            "manage": true
-          },
-          "favorites": [],
-          "reports": [],
-          "translations": [],
-          "userGroupAccesses": [],
-          "attributeValues": [],
-          "resources": [],
-          "users": [],
-          "userAccesses": []
-        },
-        {
-          "lastUpdated": "2022-07-15T15:30:12.271",
-          "id": "JUxOcLA2gcw",
-          "created": "2022-07-15T15:30:12.220",
-          "type": "VISUALIZATION",
-          "externalAccess": false,
-          "contentCount": 1,
-          "height": 28,
-          "interpretationCount": 0,
-          "sharing": {
-            "external": false,
-            "users": {},
-            "userGroups": {}
-          },
-          "width": 15,
-          "x": 45,
-          "interpretationLikeCount": 0,
-          "y": 9,
-          "favorite": false,
-          "visualization": {
-            "id": "BNECoYqbO0A"
-          },
-          "access": {
-            "read": true,
-            "update": true,
-            "externalize": true,
-            "delete": true,
-            "write": true,
-            "manage": true
-          },
-          "favorites": [],
-          "reports": [],
-          "translations": [],
-          "userGroupAccesses": [],
-          "attributeValues": [],
-          "resources": [],
-          "users": [],
-          "userAccesses": []
-        },
-        {
-          "lastUpdated": "2022-07-15T15:30:12.271",
-          "id": "MwE3WKZBCpX",
-          "created": "2022-07-15T15:30:12.220",
-          "type": "VISUALIZATION",
-          "externalAccess": false,
-          "contentCount": 1,
-          "height": 9,
-          "interpretationCount": 0,
-          "sharing": {
-            "external": false,
-            "users": {},
-            "userGroups": {}
-          },
-          "width": 16,
-          "x": 29,
-          "interpretationLikeCount": 0,
-          "y": 0,
-          "favorite": false,
-          "visualization": {
-            "id": "eqbtDOmZHSv"
-          },
-          "access": {
-            "read": true,
-            "update": true,
-            "externalize": true,
-            "delete": true,
-            "write": true,
-            "manage": true
-          },
-          "favorites": [],
-          "reports": [],
-          "translations": [],
-          "userGroupAccesses": [],
-          "attributeValues": [],
-          "resources": [],
-          "users": [],
-          "userAccesses": []
-        },
-        {
-          "lastUpdated": "2022-07-15T15:30:12.271",
-          "id": "BgahcVBQLDQ",
-          "created": "2022-07-15T15:30:12.220",
-          "type": "VISUALIZATION",
-          "externalAccess": false,
-          "contentCount": 1,
-          "height": 9,
-          "interpretationCount": 0,
-          "sharing": {
-            "external": false,
-            "users": {},
-            "userGroups": {}
-          },
-          "width": 15,
-          "x": 14,
-          "interpretationLikeCount": 0,
-          "y": 0,
-          "favorite": false,
-          "visualization": {
-            "id": "KKM1uvtAUI5"
-          },
-          "access": {
-            "read": true,
-            "update": true,
-            "externalize": true,
-            "delete": true,
-            "write": true,
-            "manage": true
-          },
-          "favorites": [],
-          "reports": [],
-          "translations": [],
-          "userGroupAccesses": [],
-          "attributeValues": [],
-          "resources": [],
-          "users": [],
-          "userAccesses": []
-        },
-        {
-          "lastUpdated": "2022-07-15T15:30:12.271",
-          "id": "f3luwn3ovJb",
-          "created": "2022-07-15T15:30:12.220",
-          "type": "VISUALIZATION",
-          "externalAccess": false,
-          "contentCount": 1,
-          "height": 23,
-          "interpretationCount": 0,
-          "sharing": {
-            "external": false,
-            "users": {},
-            "userGroups": {}
-          },
-          "width": 30,
-          "x": 0,
-          "interpretationLikeCount": 0,
-          "y": 9,
-          "favorite": false,
-          "visualization": {
-            "id": "Jtep82Gk9L8"
-          },
-          "access": {
-            "read": true,
-            "update": true,
-            "externalize": true,
-            "delete": true,
-            "write": true,
-            "manage": true
-          },
-          "favorites": [],
-          "reports": [],
-          "translations": [],
-          "userGroupAccesses": [],
-          "attributeValues": [],
-          "resources": [],
-          "users": [],
-          "userAccesses": []
-        },
-        {
-          "lastUpdated": "2022-07-15T15:30:12.271",
-          "id": "shTc1bQaLGa",
-          "created": "2022-07-15T15:30:12.220",
-          "type": "VISUALIZATION",
-          "externalAccess": false,
-          "contentCount": 1,
-          "height": 23,
-          "interpretationCount": 0,
-          "sharing": {
-            "external": false,
-            "users": {},
-            "userGroups": {}
-          },
-          "width": 30,
-          "x": 0,
-          "interpretationLikeCount": 0,
-          "y": 32,
-          "favorite": false,
-          "visualization": {
-            "id": "kligVFmhnxI"
-          },
-          "access": {
-            "read": true,
-            "update": true,
-            "externalize": true,
-            "delete": true,
-            "write": true,
-            "manage": true
-          },
-          "favorites": [],
-          "reports": [],
-          "translations": [],
-          "userGroupAccesses": [],
-          "attributeValues": [],
-          "resources": [],
-          "users": [],
-          "userAccesses": []
-        },
-        {
-          "lastUpdated": "2022-07-15T15:30:12.271",
-          "id": "pQZ369aVBnl",
-          "created": "2022-07-15T15:30:12.220",
-          "type": "VISUALIZATION",
-          "externalAccess": false,
-          "contentCount": 1,
-          "height": 23,
-          "interpretationCount": 0,
-          "sharing": {
-            "external": false,
-            "users": {},
-            "userGroups": {}
-          },
-          "width": 30,
-          "x": 30,
-          "interpretationLikeCount": 0,
-          "y": 65,
-          "favorite": false,
-          "visualization": {
-            "id": "E1lDROWKLfu"
-          },
-          "access": {
-            "read": true,
-            "update": true,
-            "externalize": true,
-            "delete": true,
-            "write": true,
-            "manage": true
-          },
-          "favorites": [],
-          "reports": [],
-          "translations": [],
-          "userGroupAccesses": [],
-          "attributeValues": [],
-          "resources": [],
-          "users": [],
-          "userAccesses": []
-        },
-        {
-          "lastUpdated": "2022-07-15T15:30:12.272",
-          "id": "iECgyMHo3Fz",
-          "created": "2022-07-15T15:30:12.220",
-          "type": "VISUALIZATION",
-          "externalAccess": false,
-          "contentCount": 1,
-          "height": 29,
-          "interpretationCount": 0,
-          "sharing": {
-            "external": false,
-            "users": {},
-            "userGroups": {}
-          },
-          "width": 30,
-          "x": 0,
-          "interpretationLikeCount": 0,
-          "y": 121,
-          "favorite": false,
-          "visualization": {
-            "id": "xa9Fc148nmF"
-          },
-          "access": {
-            "read": true,
-            "update": true,
-            "externalize": true,
-            "delete": true,
-            "write": true,
-            "manage": true
-          },
-          "favorites": [],
-          "reports": [],
-          "translations": [],
-          "userGroupAccesses": [],
-          "attributeValues": [],
-          "resources": [],
-          "users": [],
-          "userAccesses": []
-        },
-        {
-          "lastUpdated": "2022-07-15T15:30:12.272",
-          "id": "FW91786rcDA",
-          "created": "2022-07-15T15:30:12.220",
-          "type": "VISUALIZATION",
-          "externalAccess": false,
-          "contentCount": 1,
-          "height": 24,
-          "interpretationCount": 0,
-          "sharing": {
-            "external": false,
-            "users": {},
-            "userGroups": {}
-          },
-          "width": 30,
-          "x": 30,
-          "interpretationLikeCount": 0,
-          "y": 106,
-          "favorite": false,
-          "visualization": {
-            "id": "K9MyroH1sKP"
-          },
-          "access": {
-            "read": true,
-            "update": true,
-            "externalize": true,
-            "delete": true,
-            "write": true,
-            "manage": true
-          },
-          "favorites": [],
-          "reports": [],
-          "translations": [],
-          "userGroupAccesses": [],
-          "attributeValues": [],
-          "resources": [],
-          "users": [],
-          "userAccesses": []
-        },
-        {
-          "lastUpdated": "2022-07-15T15:30:12.272",
-          "id": "HZuXzx96sTG",
-          "created": "2022-07-15T15:30:12.220",
-          "type": "VISUALIZATION",
-          "externalAccess": false,
-          "contentCount": 1,
-          "height": 24,
-          "interpretationCount": 0,
-          "sharing": {
-            "external": false,
-            "users": {},
-            "userGroups": {}
-          },
-          "width": 35,
-          "x": 0,
-          "interpretationLikeCount": 0,
-          "y": 150,
-          "favorite": false,
-          "visualization": {
-            "id": "OndJxYKTX5M"
-          },
-          "access": {
-            "read": true,
-            "update": true,
-            "externalize": true,
-            "delete": true,
-            "write": true,
-            "manage": true
-          },
-          "favorites": [],
-          "reports": [],
-          "translations": [],
-          "userGroupAccesses": [],
-          "attributeValues": [],
-          "resources": [],
-          "users": [],
-          "userAccesses": []
-        },
-        {
-          "lastUpdated": "2022-07-15T15:30:12.272",
-          "id": "SkiikccWrWy",
-          "created": "2022-07-15T15:30:12.220",
-          "type": "VISUALIZATION",
-          "externalAccess": false,
-          "contentCount": 1,
-          "height": 20,
-          "interpretationCount": 0,
-          "sharing": {
-            "external": false,
-            "users": {},
-            "userGroups": {}
-          },
-          "width": 30,
-          "x": 30,
-          "interpretationLikeCount": 0,
-          "y": 130,
-          "favorite": false,
-          "visualization": {
-            "id": "UPlFDan5NWO"
-          },
-          "access": {
-            "read": true,
-            "update": true,
-            "externalize": true,
-            "delete": true,
-            "write": true,
-            "manage": true
-          },
-          "favorites": [],
-          "reports": [],
-          "translations": [],
-          "userGroupAccesses": [],
-          "attributeValues": [],
-          "resources": [],
-          "users": [],
-          "userAccesses": []
-        },
-        {
-          "lastUpdated": "2022-07-15T15:30:12.272",
-          "id": "yptbzAu5pcy",
-          "created": "2022-07-15T15:30:12.221",
-          "type": "VISUALIZATION",
-          "externalAccess": false,
-          "contentCount": 1,
-          "height": 24,
-          "interpretationCount": 0,
-          "sharing": {
-            "external": false,
-            "users": {},
-            "userGroups": {}
-          },
-          "width": 25,
-          "x": 35,
-          "interpretationLikeCount": 0,
-          "y": 150,
-          "favorite": false,
-          "visualization": {
-            "id": "HdI0kUAcOSp"
-          },
-          "access": {
-            "read": true,
-            "update": true,
-            "externalize": true,
-            "delete": true,
-            "write": true,
-            "manage": true
-          },
-          "favorites": [],
-          "reports": [],
-          "translations": [],
-          "userGroupAccesses": [],
-          "attributeValues": [],
-          "resources": [],
-          "users": [],
-          "userAccesses": []
-        },
-        {
-          "lastUpdated": "2022-07-15T15:30:12.272",
-          "id": "ydpCcVkpX2b",
-          "created": "2022-07-15T15:30:12.221",
-          "type": "VISUALIZATION",
-          "externalAccess": false,
-          "contentCount": 1,
-          "height": 18,
-          "interpretationCount": 0,
-          "sharing": {
-            "external": false,
-            "users": {},
-            "userGroups": {}
-          },
-          "width": 30,
-          "x": 30,
-          "interpretationLikeCount": 0,
-          "y": 88,
-          "favorite": false,
-          "visualization": {
-            "id": "CJeWOckUiqS"
-          },
-          "access": {
-            "read": true,
-            "update": true,
-            "externalize": true,
-            "delete": true,
-            "write": true,
-            "manage": true
-          },
-          "favorites": [],
-          "reports": [],
-          "translations": [],
-          "userGroupAccesses": [],
-          "attributeValues": [],
-          "resources": [],
-          "users": [],
-          "userAccesses": []
-        },
-        {
-          "lastUpdated": "2022-07-15T15:30:12.272",
-          "id": "L7fkINoG8m2",
-          "created": "2022-07-15T15:30:12.221",
-          "type": "VISUALIZATION",
-          "externalAccess": false,
-          "contentCount": 1,
-          "height": 18,
-          "interpretationCount": 0,
-          "sharing": {
-            "external": false,
-            "users": {},
-            "userGroups": {}
-          },
-          "width": 30,
-          "x": 0,
-          "interpretationLikeCount": 0,
-          "y": 103,
-          "favorite": false,
-          "visualization": {
-            "id": "U9mbutGfIL4"
-          },
-          "access": {
-            "read": true,
-            "update": true,
-            "externalize": true,
-            "delete": true,
-            "write": true,
-            "manage": true
-          },
-          "favorites": [],
-          "reports": [],
-          "translations": [],
-          "userGroupAccesses": [],
-          "attributeValues": [],
-          "resources": [],
-          "users": [],
-          "userAccesses": []
-        },
-        {
-          "lastUpdated": "2022-07-15T15:30:12.272",
-          "id": "MA7WCVTuYr9",
-          "created": "2022-07-15T15:30:12.221",
-          "type": "VISUALIZATION",
-          "externalAccess": false,
-          "contentCount": 1,
-          "height": 9,
-          "interpretationCount": 0,
-          "sharing": {
-            "external": false,
-            "users": {},
-            "userGroups": {}
-          },
-          "width": 14,
-          "x": 0,
-          "interpretationLikeCount": 0,
-          "y": 0,
-          "favorite": false,
-          "visualization": {
-            "id": "z6PdoIRudJX"
-          },
-          "access": {
-            "read": true,
-            "update": true,
-            "externalize": true,
-            "delete": true,
-            "write": true,
-            "manage": true
-          },
-          "favorites": [],
-          "reports": [],
-          "translations": [],
-          "userGroupAccesses": [],
-          "attributeValues": [],
-          "resources": [],
-          "users": [],
-          "userAccesses": []
-        },
-        {
-          "lastUpdated": "2022-07-15T15:30:12.272",
-          "id": "L63UXuEzRyP",
-          "created": "2022-07-15T15:30:12.221",
-          "type": "VISUALIZATION",
-          "externalAccess": false,
-          "contentCount": 1,
-          "height": 9,
-          "interpretationCount": 0,
-          "sharing": {
-            "external": false,
-            "users": {},
-            "userGroups": {}
-          },
-          "width": 15,
-          "x": 45,
-          "interpretationLikeCount": 0,
-          "y": 0,
-          "favorite": false,
-          "visualization": {
-            "id": "HKIQnMO2dCD"
-          },
-          "access": {
-            "read": true,
-            "update": true,
-            "externalize": true,
-            "delete": true,
-            "write": true,
-            "manage": true
-          },
-          "favorites": [],
-          "reports": [],
-          "translations": [],
-          "userGroupAccesses": [],
-          "attributeValues": [],
-          "resources": [],
-          "users": [],
-          "userAccesses": []
-        },
-        {
-          "lastUpdated": "2022-07-15T15:30:12.272",
-          "id": "TrOTjMHl8TD",
-          "created": "2022-07-15T15:30:12.221",
-          "type": "VISUALIZATION",
-          "externalAccess": false,
-          "contentCount": 1,
-          "height": 25,
-          "interpretationCount": 0,
-          "sharing": {
-            "external": false,
-            "users": {},
-            "userGroups": {}
-          },
-          "width": 30,
-          "x": 0,
-          "interpretationLikeCount": 0,
-          "y": 55,
-          "favorite": false,
-          "visualization": {
-            "id": "nXQY7I1BMpN"
-          },
-          "access": {
-            "read": true,
-            "update": true,
-            "externalize": true,
-            "delete": true,
-            "write": true,
-            "manage": true
-          },
-          "favorites": [],
-          "reports": [],
-          "translations": [],
-          "userGroupAccesses": [],
-          "attributeValues": [],
-          "resources": [],
-          "users": [],
-          "userAccesses": []
-        },
-        {
-          "lastUpdated": "2022-07-15T15:30:12.273",
-          "id": "OLExdEoNDqN",
-          "created": "2022-07-15T15:30:12.221",
-          "type": "VISUALIZATION",
-          "externalAccess": false,
-          "contentCount": 1,
-          "height": 28,
-          "interpretationCount": 0,
-          "sharing": {
-            "external": false,
-            "users": {},
-            "userGroups": {}
-          },
-          "width": 15,
-          "x": 30,
-          "interpretationLikeCount": 0,
-          "y": 9,
-          "favorite": false,
-          "visualization": {
-            "id": "BNl1WwQgI41"
-          },
-          "access": {
-            "read": true,
-            "update": true,
-            "externalize": true,
-            "delete": true,
-            "write": true,
-            "manage": true
-          },
-          "favorites": [],
-          "reports": [],
-          "translations": [],
-          "userGroupAccesses": [],
-          "attributeValues": [],
-          "resources": [],
-          "users": [],
-          "userAccesses": []
-        }
-      ],
-      "translations": [],
-      "allowedFilters": []
-    }
-  ],
+  "date": "2022-09-19T09:34:04.372",
   "visualizations": [
     {
       "lastUpdated": "2022-07-20T14:29:15.858",
@@ -785,11 +9,6 @@
       "showData": true,
       "fixRowHeaders": false,
       "numberType": "VALUE",
-      "legend": {
-        "showKey": false,
-        "style": "FILL",
-        "strategy": "FIXED"
-      },
       "userOrganisationUnitChildren": false,
       "type": "STACKED_COLUMN",
       "hideEmptyColumns": false,
@@ -801,17 +20,6 @@
       "cumulativeValues": false,
       "completedOnly": false,
       "colTotals": false,
-      "sharing": {
-        "external": false,
-        "users": {},
-        "userGroups": {
-          "uw37KIPZC5Q": {
-            "access": "r-------",
-            "id": "uw37KIPZC5Q"
-          }
-        },
-        "public": "--------"
-      },
       "showDimensionLabels": false,
       "sortOrder": 0,
       "fontSize": "NORMAL",
@@ -828,38 +36,51 @@
       "noSpaceBetweenColumns": false,
       "showHierarchy": false,
       "rowTotals": false,
-      "seriesKey": {
-        "hidden": false
-      },
       "digitGroupSeparator": "SPACE",
       "hideTitle": false,
       "regression": false,
       "colorSet": "DEFAULT",
       "skipRounding": false,
+      "legend": {
+        "style": "FILL",
+        "showKey": false,
+        "strategy": "FIXED"
+      },
       "fontStyle": {},
+      "sharing": {
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
       "relativePeriods": {
         "thisYear": false,
         "quartersLastYear": false,
-        "last10Years": false,
         "last30Days": false,
+        "last10Years": false,
         "last52Weeks": false,
-        "thisWeek": false,
         "last90Days": false,
+        "thisWeek": false,
         "last60Days": false,
         "lastMonth": false,
         "last14Days": false,
         "biMonthsThisYear": false,
+        "yesterday": false,
         "monthsThisYear": false,
         "last2SixMonths": false,
-        "yesterday": false,
         "thisQuarter": false,
         "last12Months": true,
         "last5FinancialYears": false,
-        "thisSixMonth": false,
         "lastQuarter": false,
+        "thisSixMonth": false,
+        "last3Months": false,
         "thisFinancialYear": false,
         "last4Weeks": false,
-        "last3Months": false,
         "thisDay": false,
         "thisMonth": false,
         "last5Years": false,
@@ -867,8 +88,8 @@
         "last10FinancialYears": false,
         "last4BiWeeks": false,
         "lastFinancialYear": false,
-        "lastBiWeek": false,
         "weeksThisYear": false,
+        "lastBiWeek": false,
         "last6Months": false,
         "last3Days": false,
         "quartersThisYear": false,
@@ -883,6 +104,9 @@
         "lastYear": false,
         "last12Weeks": false,
         "last4Quarters": false
+      },
+      "seriesKey": {
+        "hidden": false
       },
       "reportingParams": {
         "parentOrganisationUnit": false,
@@ -903,6 +127,7 @@
       "columnDimensions": [
         "bOCrZguqyBl"
       ],
+      "attributeValues": [],
       "optionalAxes": [],
       "favorites": [],
       "dataDimensionItems": [
@@ -954,10 +179,6 @@
       "showData": true,
       "fixRowHeaders": false,
       "numberType": "VALUE",
-      "legend": {
-        "showKey": false,
-        "strategy": "FIXED"
-      },
       "userOrganisationUnitChildren": false,
       "type": "SINGLE_VALUE",
       "hideEmptyColumns": false,
@@ -969,18 +190,6 @@
       "cumulativeValues": false,
       "completedOnly": false,
       "colTotals": false,
-      "sharing": {
-        "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
-        "userGroups": {
-          "uw37KIPZC5Q": {
-            "access": "r-------",
-            "id": "uw37KIPZC5Q"
-          }
-        },
-        "public": "--------"
-      },
       "showDimensionLabels": false,
       "sortOrder": 0,
       "fontSize": "NORMAL",
@@ -996,38 +205,51 @@
       "noSpaceBetweenColumns": false,
       "showHierarchy": false,
       "rowTotals": false,
-      "seriesKey": {
-        "hidden": false
-      },
       "digitGroupSeparator": "COMMA",
       "hideTitle": false,
       "regression": false,
       "colorSet": "DEFAULT",
       "skipRounding": false,
+      "legend": {
+        "showKey": false,
+        "strategy": "FIXED"
+      },
       "fontStyle": {},
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
       "relativePeriods": {
         "thisYear": false,
         "quartersLastYear": false,
-        "last10Years": true,
         "last30Days": false,
+        "last10Years": true,
         "last52Weeks": false,
-        "thisWeek": false,
         "last90Days": false,
+        "thisWeek": false,
         "last60Days": false,
         "lastMonth": false,
         "last14Days": false,
         "biMonthsThisYear": false,
+        "yesterday": false,
         "monthsThisYear": false,
         "last2SixMonths": false,
-        "yesterday": false,
         "thisQuarter": false,
         "last12Months": false,
         "last5FinancialYears": false,
-        "thisSixMonth": false,
         "lastQuarter": false,
+        "thisSixMonth": false,
+        "last3Months": false,
         "thisFinancialYear": false,
         "last4Weeks": false,
-        "last3Months": false,
         "thisDay": false,
         "thisMonth": false,
         "last5Years": false,
@@ -1035,8 +257,8 @@
         "last10FinancialYears": false,
         "last4BiWeeks": false,
         "lastFinancialYear": false,
-        "lastBiWeek": false,
         "weeksThisYear": false,
+        "lastBiWeek": false,
         "last6Months": false,
         "last3Days": false,
         "quartersThisYear": false,
@@ -1051,6 +273,9 @@
         "lastYear": false,
         "last12Weeks": false,
         "last4Quarters": false
+      },
+      "seriesKey": {
+        "hidden": false
       },
       "reportingParams": {
         "parentOrganisationUnit": false,
@@ -1071,6 +296,7 @@
       "columnDimensions": [
         "dx"
       ],
+      "attributeValues": [],
       "optionalAxes": [],
       "favorites": [],
       "dataDimensionItems": [
@@ -1103,9 +329,6 @@
       "showData": true,
       "fixRowHeaders": false,
       "numberType": "VALUE",
-      "legend": {
-        "showKey": false
-      },
       "userOrganisationUnitChildren": false,
       "type": "STACKED_AREA",
       "hideEmptyColumns": false,
@@ -1117,17 +340,6 @@
       "cumulativeValues": false,
       "completedOnly": false,
       "colTotals": false,
-      "sharing": {
-        "external": false,
-        "users": {},
-        "userGroups": {
-          "uw37KIPZC5Q": {
-            "access": "r-------",
-            "id": "uw37KIPZC5Q"
-          }
-        },
-        "public": "--------"
-      },
       "showDimensionLabels": false,
       "sortOrder": 0,
       "fontSize": "NORMAL",
@@ -1143,38 +355,49 @@
       "noSpaceBetweenColumns": true,
       "showHierarchy": false,
       "rowTotals": false,
-      "seriesKey": {
-        "hidden": false
-      },
       "digitGroupSeparator": "SPACE",
       "hideTitle": false,
       "regression": false,
       "colorSet": "BRIGHT",
       "skipRounding": false,
+      "legend": {
+        "showKey": false
+      },
       "fontStyle": {},
+      "sharing": {
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
       "relativePeriods": {
         "thisYear": false,
         "quartersLastYear": false,
-        "last10Years": false,
         "last30Days": false,
+        "last10Years": false,
         "last52Weeks": false,
-        "thisWeek": false,
         "last90Days": false,
+        "thisWeek": false,
         "last60Days": false,
         "lastMonth": false,
         "last14Days": false,
         "biMonthsThisYear": false,
+        "yesterday": false,
         "monthsThisYear": false,
         "last2SixMonths": false,
-        "yesterday": false,
         "thisQuarter": false,
         "last12Months": true,
         "last5FinancialYears": false,
-        "thisSixMonth": false,
         "lastQuarter": false,
+        "thisSixMonth": false,
+        "last3Months": false,
         "thisFinancialYear": false,
         "last4Weeks": false,
-        "last3Months": false,
         "thisDay": false,
         "thisMonth": false,
         "last5Years": false,
@@ -1182,8 +405,8 @@
         "last10FinancialYears": false,
         "last4BiWeeks": false,
         "lastFinancialYear": false,
-        "lastBiWeek": false,
         "weeksThisYear": false,
+        "lastBiWeek": false,
         "last6Months": false,
         "last3Days": false,
         "quartersThisYear": false,
@@ -1198,6 +421,9 @@
         "lastYear": false,
         "last12Weeks": false,
         "last4Quarters": false
+      },
+      "seriesKey": {
+        "hidden": false
       },
       "reportingParams": {
         "parentOrganisationUnit": false,
@@ -1218,6 +444,7 @@
       "columnDimensions": [
         "rvkG1gmEz6K"
       ],
+      "attributeValues": [],
       "optionalAxes": [],
       "favorites": [],
       "dataDimensionItems": [
@@ -1312,9 +539,6 @@
       "showData": true,
       "fixRowHeaders": false,
       "numberType": "VALUE",
-      "legend": {
-        "showKey": false
-      },
       "userOrganisationUnitChildren": false,
       "type": "LINE",
       "hideEmptyColumns": false,
@@ -1326,17 +550,6 @@
       "cumulativeValues": true,
       "completedOnly": false,
       "colTotals": false,
-      "sharing": {
-        "external": false,
-        "users": {},
-        "userGroups": {
-          "uw37KIPZC5Q": {
-            "access": "r-------",
-            "id": "uw37KIPZC5Q"
-          }
-        },
-        "public": "--------"
-      },
       "showDimensionLabels": false,
       "sortOrder": 0,
       "fontSize": "NORMAL",
@@ -1352,38 +565,49 @@
       "noSpaceBetweenColumns": false,
       "showHierarchy": false,
       "rowTotals": false,
-      "seriesKey": {
-        "hidden": false
-      },
       "digitGroupSeparator": "SPACE",
       "hideTitle": false,
       "regression": false,
       "colorSet": "BRIGHT",
       "skipRounding": false,
+      "legend": {
+        "showKey": false
+      },
       "fontStyle": {},
+      "sharing": {
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
       "relativePeriods": {
         "thisYear": false,
         "quartersLastYear": false,
-        "last10Years": false,
         "last30Days": false,
+        "last10Years": false,
         "last52Weeks": true,
-        "thisWeek": false,
         "last90Days": false,
+        "thisWeek": false,
         "last60Days": false,
         "lastMonth": false,
         "last14Days": false,
         "biMonthsThisYear": false,
+        "yesterday": false,
         "monthsThisYear": false,
         "last2SixMonths": false,
-        "yesterday": false,
         "thisQuarter": false,
         "last12Months": false,
         "last5FinancialYears": false,
-        "thisSixMonth": false,
         "lastQuarter": false,
+        "thisSixMonth": false,
+        "last3Months": false,
         "thisFinancialYear": false,
         "last4Weeks": false,
-        "last3Months": false,
         "thisDay": false,
         "thisMonth": false,
         "last5Years": false,
@@ -1391,8 +615,8 @@
         "last10FinancialYears": false,
         "last4BiWeeks": false,
         "lastFinancialYear": false,
-        "lastBiWeek": false,
         "weeksThisYear": false,
+        "lastBiWeek": false,
         "last6Months": false,
         "last3Days": false,
         "quartersThisYear": false,
@@ -1407,6 +631,9 @@
         "lastYear": false,
         "last12Weeks": false,
         "last4Quarters": false
+      },
+      "seriesKey": {
+        "hidden": false
       },
       "reportingParams": {
         "parentOrganisationUnit": false,
@@ -1426,6 +653,7 @@
       "columnDimensions": [
         "dx"
       ],
+      "attributeValues": [],
       "optionalAxes": [],
       "favorites": [],
       "dataDimensionItems": [
@@ -1460,9 +688,6 @@
       "showData": true,
       "fixRowHeaders": false,
       "numberType": "VALUE",
-      "legend": {
-        "showKey": false
-      },
       "userOrganisationUnitChildren": true,
       "type": "PIE",
       "hideEmptyColumns": false,
@@ -1474,13 +699,6 @@
       "cumulativeValues": false,
       "completedOnly": false,
       "colTotals": false,
-      "sharing": {
-        "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
-        "userGroups": {},
-        "public": "--------"
-      },
       "showDimensionLabels": false,
       "sortOrder": 0,
       "fontSize": "NORMAL",
@@ -1497,38 +715,45 @@
       "noSpaceBetweenColumns": false,
       "showHierarchy": false,
       "rowTotals": false,
-      "seriesKey": {
-        "hidden": false
-      },
       "digitGroupSeparator": "SPACE",
       "hideTitle": false,
       "regression": false,
       "colorSet": "DEFAULT",
       "skipRounding": false,
+      "legend": {
+        "showKey": false
+      },
       "fontStyle": {},
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "userGroups": {},
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
       "relativePeriods": {
         "thisYear": false,
         "quartersLastYear": false,
-        "last10Years": false,
         "last30Days": false,
+        "last10Years": false,
         "last52Weeks": false,
-        "thisWeek": false,
         "last90Days": false,
+        "thisWeek": false,
         "last60Days": false,
         "lastMonth": false,
         "last14Days": false,
         "biMonthsThisYear": false,
+        "yesterday": false,
         "monthsThisYear": false,
         "last2SixMonths": false,
-        "yesterday": false,
         "thisQuarter": false,
         "last12Months": true,
         "last5FinancialYears": false,
-        "thisSixMonth": false,
         "lastQuarter": false,
+        "thisSixMonth": false,
+        "last3Months": false,
         "thisFinancialYear": false,
         "last4Weeks": false,
-        "last3Months": false,
         "thisDay": false,
         "thisMonth": false,
         "last5Years": false,
@@ -1536,8 +761,8 @@
         "last10FinancialYears": false,
         "last4BiWeeks": false,
         "lastFinancialYear": false,
-        "lastBiWeek": false,
         "weeksThisYear": false,
+        "lastBiWeek": false,
         "last6Months": false,
         "last3Days": false,
         "quartersThisYear": false,
@@ -1552,6 +777,9 @@
         "lastYear": false,
         "last12Weeks": false,
         "last4Quarters": false
+      },
+      "seriesKey": {
+        "hidden": false
       },
       "reportingParams": {
         "parentOrganisationUnit": false,
@@ -1573,6 +801,7 @@
       "columnDimensions": [
         "xfKK1EUl84V"
       ],
+      "attributeValues": [],
       "optionalAxes": [],
       "favorites": [],
       "dataDimensionItems": [
@@ -1763,9 +992,6 @@
       "showData": true,
       "fixRowHeaders": false,
       "numberType": "VALUE",
-      "legend": {
-        "showKey": false
-      },
       "userOrganisationUnitChildren": false,
       "type": "SINGLE_VALUE",
       "hideEmptyColumns": false,
@@ -1777,13 +1003,6 @@
       "cumulativeValues": false,
       "completedOnly": false,
       "colTotals": false,
-      "sharing": {
-        "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
-        "userGroups": {},
-        "public": "--------"
-      },
       "showDimensionLabels": false,
       "sortOrder": 0,
       "fontSize": "NORMAL",
@@ -1799,38 +1018,45 @@
       "noSpaceBetweenColumns": false,
       "showHierarchy": false,
       "rowTotals": false,
-      "seriesKey": {
-        "hidden": false
-      },
       "digitGroupSeparator": "COMMA",
       "hideTitle": false,
       "regression": false,
       "colorSet": "DEFAULT",
       "skipRounding": false,
+      "legend": {
+        "showKey": false
+      },
       "fontStyle": {},
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "userGroups": {},
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
       "relativePeriods": {
         "thisYear": false,
         "quartersLastYear": false,
-        "last10Years": true,
         "last30Days": false,
+        "last10Years": true,
         "last52Weeks": false,
-        "thisWeek": false,
         "last90Days": false,
+        "thisWeek": false,
         "last60Days": false,
         "lastMonth": false,
         "last14Days": false,
         "biMonthsThisYear": false,
+        "yesterday": false,
         "monthsThisYear": false,
         "last2SixMonths": false,
-        "yesterday": false,
         "thisQuarter": false,
         "last12Months": false,
         "last5FinancialYears": false,
-        "thisSixMonth": false,
         "lastQuarter": false,
+        "thisSixMonth": false,
+        "last3Months": false,
         "thisFinancialYear": false,
         "last4Weeks": false,
-        "last3Months": false,
         "thisDay": false,
         "thisMonth": false,
         "last5Years": false,
@@ -1838,8 +1064,8 @@
         "last10FinancialYears": false,
         "last4BiWeeks": false,
         "lastFinancialYear": false,
-        "lastBiWeek": false,
         "weeksThisYear": false,
+        "lastBiWeek": false,
         "last6Months": false,
         "last3Days": false,
         "quartersThisYear": false,
@@ -1854,6 +1080,9 @@
         "lastYear": false,
         "last12Weeks": false,
         "last4Quarters": false
+      },
+      "seriesKey": {
+        "hidden": false
       },
       "reportingParams": {
         "parentOrganisationUnit": false,
@@ -1874,6 +1103,7 @@
       "columnDimensions": [
         "dx"
       ],
+      "attributeValues": [],
       "optionalAxes": [],
       "favorites": [],
       "dataDimensionItems": [
@@ -1901,9 +1131,6 @@
       "showData": true,
       "fixRowHeaders": false,
       "numberType": "VALUE",
-      "legend": {
-        "showKey": false
-      },
       "userOrganisationUnitChildren": true,
       "type": "PIE",
       "hideEmptyColumns": false,
@@ -1915,13 +1142,6 @@
       "cumulativeValues": false,
       "completedOnly": false,
       "colTotals": false,
-      "sharing": {
-        "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
-        "userGroups": {},
-        "public": "--------"
-      },
       "showDimensionLabels": false,
       "sortOrder": 0,
       "fontSize": "NORMAL",
@@ -1937,38 +1157,45 @@
       "noSpaceBetweenColumns": false,
       "showHierarchy": false,
       "rowTotals": false,
-      "seriesKey": {
-        "hidden": false
-      },
       "digitGroupSeparator": "SPACE",
       "hideTitle": false,
       "regression": false,
       "colorSet": "DEFAULT",
       "skipRounding": false,
+      "legend": {
+        "showKey": false
+      },
       "fontStyle": {},
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "userGroups": {},
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
       "relativePeriods": {
         "thisYear": false,
         "quartersLastYear": false,
-        "last10Years": false,
         "last30Days": false,
+        "last10Years": false,
         "last52Weeks": false,
-        "thisWeek": false,
         "last90Days": false,
+        "thisWeek": false,
         "last60Days": false,
         "lastMonth": false,
         "last14Days": false,
         "biMonthsThisYear": false,
+        "yesterday": false,
         "monthsThisYear": false,
         "last2SixMonths": false,
-        "yesterday": false,
         "thisQuarter": false,
         "last12Months": true,
         "last5FinancialYears": false,
-        "thisSixMonth": false,
         "lastQuarter": false,
+        "thisSixMonth": false,
+        "last3Months": false,
         "thisFinancialYear": false,
         "last4Weeks": false,
-        "last3Months": false,
         "thisDay": false,
         "thisMonth": false,
         "last5Years": false,
@@ -1976,8 +1203,8 @@
         "last10FinancialYears": false,
         "last4BiWeeks": false,
         "lastFinancialYear": false,
-        "lastBiWeek": false,
         "weeksThisYear": false,
+        "lastBiWeek": false,
         "last6Months": false,
         "last3Days": false,
         "quartersThisYear": false,
@@ -1992,6 +1219,9 @@
         "lastYear": false,
         "last12Weeks": false,
         "last4Quarters": false
+      },
+      "seriesKey": {
+        "hidden": false
       },
       "reportingParams": {
         "parentOrganisationUnit": false,
@@ -2012,6 +1242,7 @@
       "columnDimensions": [
         "ou"
       ],
+      "attributeValues": [],
       "optionalAxes": [],
       "favorites": [],
       "dataDimensionItems": [
@@ -2039,9 +1270,6 @@
       "showData": true,
       "fixRowHeaders": false,
       "numberType": "VALUE",
-      "legend": {
-        "showKey": false
-      },
       "userOrganisationUnitChildren": false,
       "type": "LINE",
       "hideEmptyColumns": false,
@@ -2053,17 +1281,6 @@
       "cumulativeValues": false,
       "completedOnly": false,
       "colTotals": false,
-      "sharing": {
-        "external": false,
-        "users": {},
-        "userGroups": {
-          "uw37KIPZC5Q": {
-            "access": "r-------",
-            "id": "uw37KIPZC5Q"
-          }
-        },
-        "public": "--------"
-      },
       "showDimensionLabels": false,
       "sortOrder": 0,
       "fontSize": "NORMAL",
@@ -2079,38 +1296,49 @@
       "noSpaceBetweenColumns": false,
       "showHierarchy": false,
       "rowTotals": false,
-      "seriesKey": {
-        "hidden": false
-      },
       "digitGroupSeparator": "SPACE",
       "hideTitle": false,
       "regression": false,
       "colorSet": "DEFAULT",
       "skipRounding": false,
+      "legend": {
+        "showKey": false
+      },
       "fontStyle": {},
+      "sharing": {
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
       "relativePeriods": {
         "thisYear": false,
         "quartersLastYear": false,
-        "last10Years": false,
         "last30Days": false,
+        "last10Years": false,
         "last52Weeks": true,
-        "thisWeek": false,
         "last90Days": false,
+        "thisWeek": false,
         "last60Days": false,
         "lastMonth": false,
         "last14Days": false,
         "biMonthsThisYear": false,
+        "yesterday": false,
         "monthsThisYear": false,
         "last2SixMonths": false,
-        "yesterday": false,
         "thisQuarter": false,
         "last12Months": false,
         "last5FinancialYears": false,
-        "thisSixMonth": false,
         "lastQuarter": false,
+        "thisSixMonth": false,
+        "last3Months": false,
         "thisFinancialYear": false,
         "last4Weeks": false,
-        "last3Months": false,
         "thisDay": false,
         "thisMonth": false,
         "last5Years": false,
@@ -2118,8 +1346,8 @@
         "last10FinancialYears": false,
         "last4BiWeeks": false,
         "lastFinancialYear": false,
-        "lastBiWeek": false,
         "weeksThisYear": false,
+        "lastBiWeek": false,
         "last6Months": false,
         "last3Days": false,
         "quartersThisYear": false,
@@ -2134,6 +1362,9 @@
         "lastYear": false,
         "last12Weeks": false,
         "last4Quarters": false
+      },
+      "seriesKey": {
+        "hidden": false
       },
       "reportingParams": {
         "parentOrganisationUnit": false,
@@ -2154,6 +1385,7 @@
       "columnDimensions": [
         "bOCrZguqyBl"
       ],
+      "attributeValues": [],
       "optionalAxes": [],
       "favorites": [],
       "dataDimensionItems": [
@@ -2213,9 +1445,6 @@
       "showData": true,
       "fixRowHeaders": false,
       "numberType": "VALUE",
-      "legend": {
-        "showKey": false
-      },
       "userOrganisationUnitChildren": false,
       "type": "PIVOT_TABLE",
       "hideEmptyColumns": false,
@@ -2227,17 +1456,6 @@
       "cumulativeValues": false,
       "completedOnly": false,
       "colTotals": true,
-      "sharing": {
-        "external": false,
-        "users": {},
-        "userGroups": {
-          "uw37KIPZC5Q": {
-            "access": "r-------",
-            "id": "uw37KIPZC5Q"
-          }
-        },
-        "public": "--------"
-      },
       "showDimensionLabels": false,
       "sortOrder": 0,
       "fontSize": "NORMAL",
@@ -2253,38 +1471,49 @@
       "noSpaceBetweenColumns": false,
       "showHierarchy": false,
       "rowTotals": true,
-      "seriesKey": {
-        "hidden": false
-      },
       "digitGroupSeparator": "SPACE",
       "hideTitle": false,
       "regression": false,
       "colorSet": "DEFAULT",
       "skipRounding": false,
+      "legend": {
+        "showKey": false
+      },
       "fontStyle": {},
+      "sharing": {
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
       "relativePeriods": {
         "thisYear": false,
         "quartersLastYear": false,
-        "last10Years": false,
         "last30Days": false,
+        "last10Years": false,
         "last52Weeks": false,
-        "thisWeek": false,
         "last90Days": false,
+        "thisWeek": false,
         "last60Days": false,
         "lastMonth": false,
         "last14Days": false,
         "biMonthsThisYear": false,
+        "yesterday": false,
         "monthsThisYear": false,
         "last2SixMonths": false,
-        "yesterday": false,
         "thisQuarter": false,
         "last12Months": true,
         "last5FinancialYears": false,
-        "thisSixMonth": false,
         "lastQuarter": false,
+        "thisSixMonth": false,
+        "last3Months": false,
         "thisFinancialYear": false,
         "last4Weeks": false,
-        "last3Months": false,
         "thisDay": false,
         "thisMonth": false,
         "last5Years": false,
@@ -2292,8 +1521,8 @@
         "last10FinancialYears": false,
         "last4BiWeeks": false,
         "lastFinancialYear": false,
-        "lastBiWeek": false,
         "weeksThisYear": false,
+        "lastBiWeek": false,
         "last6Months": false,
         "last3Days": false,
         "quartersThisYear": false,
@@ -2308,6 +1537,9 @@
         "lastYear": false,
         "last12Weeks": false,
         "last4Quarters": false
+      },
+      "seriesKey": {
+        "hidden": false
       },
       "reportingParams": {
         "parentOrganisationUnit": false,
@@ -2329,6 +1561,7 @@
         "rvkG1gmEz6K",
         "f5OhzxrFtKy"
       ],
+      "attributeValues": [],
       "optionalAxes": [],
       "favorites": [],
       "dataDimensionItems": [
@@ -2403,9 +1636,6 @@
       "showData": true,
       "fixRowHeaders": false,
       "numberType": "VALUE",
-      "legend": {
-        "showKey": false
-      },
       "userOrganisationUnitChildren": false,
       "type": "SINGLE_VALUE",
       "hideEmptyColumns": false,
@@ -2417,13 +1647,6 @@
       "cumulativeValues": false,
       "completedOnly": false,
       "colTotals": false,
-      "sharing": {
-        "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
-        "userGroups": {},
-        "public": "--------"
-      },
       "showDimensionLabels": false,
       "sortOrder": 0,
       "fontSize": "NORMAL",
@@ -2439,38 +1662,45 @@
       "noSpaceBetweenColumns": false,
       "showHierarchy": false,
       "rowTotals": false,
-      "seriesKey": {
-        "hidden": false
-      },
       "digitGroupSeparator": "COMMA",
       "hideTitle": false,
       "regression": false,
       "colorSet": "DEFAULT",
       "skipRounding": false,
+      "legend": {
+        "showKey": false
+      },
       "fontStyle": {},
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "userGroups": {},
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
       "relativePeriods": {
         "thisYear": false,
         "quartersLastYear": false,
-        "last10Years": true,
         "last30Days": false,
+        "last10Years": true,
         "last52Weeks": false,
-        "thisWeek": false,
         "last90Days": false,
+        "thisWeek": false,
         "last60Days": false,
         "lastMonth": false,
         "last14Days": false,
         "biMonthsThisYear": false,
+        "yesterday": false,
         "monthsThisYear": false,
         "last2SixMonths": false,
-        "yesterday": false,
         "thisQuarter": false,
         "last12Months": false,
         "last5FinancialYears": false,
-        "thisSixMonth": false,
         "lastQuarter": false,
+        "thisSixMonth": false,
+        "last3Months": false,
         "thisFinancialYear": false,
         "last4Weeks": false,
-        "last3Months": false,
         "thisDay": false,
         "thisMonth": false,
         "last5Years": false,
@@ -2478,8 +1708,8 @@
         "last10FinancialYears": false,
         "last4BiWeeks": false,
         "lastFinancialYear": false,
-        "lastBiWeek": false,
         "weeksThisYear": false,
+        "lastBiWeek": false,
         "last6Months": false,
         "last3Days": false,
         "quartersThisYear": false,
@@ -2494,6 +1724,9 @@
         "lastYear": false,
         "last12Weeks": false,
         "last4Quarters": false
+      },
+      "seriesKey": {
+        "hidden": false
       },
       "reportingParams": {
         "parentOrganisationUnit": false,
@@ -2514,6 +1747,7 @@
       "columnDimensions": [
         "dx"
       ],
+      "attributeValues": [],
       "optionalAxes": [],
       "favorites": [],
       "dataDimensionItems": [
@@ -2546,9 +1780,6 @@
       "showData": true,
       "fixRowHeaders": false,
       "numberType": "VALUE",
-      "legend": {
-        "showKey": false
-      },
       "userOrganisationUnitChildren": false,
       "type": "BAR",
       "hideEmptyColumns": false,
@@ -2560,17 +1791,6 @@
       "cumulativeValues": false,
       "completedOnly": false,
       "colTotals": false,
-      "sharing": {
-        "external": false,
-        "users": {},
-        "userGroups": {
-          "uw37KIPZC5Q": {
-            "access": "r-------",
-            "id": "uw37KIPZC5Q"
-          }
-        },
-        "public": "--------"
-      },
       "showDimensionLabels": false,
       "sortOrder": 1,
       "fontSize": "NORMAL",
@@ -2586,42 +1806,53 @@
       "noSpaceBetweenColumns": true,
       "showHierarchy": false,
       "rowTotals": false,
-      "seriesKey": {
-        "hidden": false
-      },
       "digitGroupSeparator": "SPACE",
       "hideTitle": false,
       "regression": false,
       "colorSet": "DEFAULT",
       "skipRounding": false,
+      "legend": {
+        "showKey": false
+      },
       "fontStyle": {
         "seriesAxisLabel": {
           "fontSize": 13
         }
       },
+      "sharing": {
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
       "relativePeriods": {
         "thisYear": false,
         "quartersLastYear": false,
-        "last10Years": false,
         "last30Days": false,
+        "last10Years": false,
         "last52Weeks": false,
-        "thisWeek": false,
         "last90Days": false,
+        "thisWeek": false,
         "last60Days": false,
         "lastMonth": false,
         "last14Days": false,
         "biMonthsThisYear": false,
+        "yesterday": false,
         "monthsThisYear": false,
         "last2SixMonths": false,
-        "yesterday": false,
         "thisQuarter": false,
         "last12Months": true,
         "last5FinancialYears": false,
-        "thisSixMonth": false,
         "lastQuarter": false,
+        "thisSixMonth": false,
+        "last3Months": false,
         "thisFinancialYear": false,
         "last4Weeks": false,
-        "last3Months": false,
         "thisDay": false,
         "thisMonth": false,
         "last5Years": false,
@@ -2629,8 +1860,8 @@
         "last10FinancialYears": false,
         "last4BiWeeks": false,
         "lastFinancialYear": false,
-        "lastBiWeek": false,
         "weeksThisYear": false,
+        "lastBiWeek": false,
         "last6Months": false,
         "last3Days": false,
         "quartersThisYear": false,
@@ -2645,6 +1876,9 @@
         "lastYear": false,
         "last12Weeks": false,
         "last4Quarters": false
+      },
+      "seriesKey": {
+        "hidden": false
       },
       "reportingParams": {
         "parentOrganisationUnit": false,
@@ -2675,6 +1909,7 @@
       "columnDimensions": [
         "ou"
       ],
+      "attributeValues": [],
       "optionalAxes": [],
       "favorites": [],
       "dataDimensionItems": [
@@ -2716,9 +1951,6 @@
       "showData": true,
       "fixRowHeaders": true,
       "numberType": "VALUE",
-      "legend": {
-        "showKey": false
-      },
       "userOrganisationUnitChildren": true,
       "type": "PIVOT_TABLE",
       "hideEmptyColumns": true,
@@ -2730,13 +1962,6 @@
       "cumulativeValues": false,
       "completedOnly": false,
       "colTotals": true,
-      "sharing": {
-        "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
-        "userGroups": {},
-        "public": "--------"
-      },
       "showDimensionLabels": false,
       "sortOrder": 0,
       "fontSize": "NORMAL",
@@ -2753,38 +1978,45 @@
       "noSpaceBetweenColumns": false,
       "showHierarchy": false,
       "rowTotals": true,
-      "seriesKey": {
-        "hidden": false
-      },
       "digitGroupSeparator": "COMMA",
       "hideTitle": false,
       "regression": false,
       "colorSet": "DEFAULT",
       "skipRounding": false,
+      "legend": {
+        "showKey": false
+      },
       "fontStyle": {},
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "userGroups": {},
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
       "relativePeriods": {
         "thisYear": false,
         "quartersLastYear": false,
-        "last10Years": false,
         "last30Days": false,
+        "last10Years": false,
         "last52Weeks": false,
-        "thisWeek": false,
         "last90Days": false,
+        "thisWeek": false,
         "last60Days": false,
         "lastMonth": false,
         "last14Days": false,
         "biMonthsThisYear": false,
+        "yesterday": false,
         "monthsThisYear": false,
         "last2SixMonths": false,
-        "yesterday": false,
         "thisQuarter": false,
         "last12Months": true,
         "last5FinancialYears": false,
-        "thisSixMonth": false,
         "lastQuarter": false,
+        "thisSixMonth": false,
+        "last3Months": false,
         "thisFinancialYear": false,
         "last4Weeks": false,
-        "last3Months": false,
         "thisDay": false,
         "thisMonth": false,
         "last5Years": false,
@@ -2792,8 +2024,8 @@
         "last10FinancialYears": false,
         "last4BiWeeks": false,
         "lastFinancialYear": false,
-        "lastBiWeek": false,
         "weeksThisYear": false,
+        "lastBiWeek": false,
         "last6Months": false,
         "last3Days": false,
         "quartersThisYear": false,
@@ -2808,6 +2040,9 @@
         "lastYear": false,
         "last12Weeks": false,
         "last4Quarters": false
+      },
+      "seriesKey": {
+        "hidden": false
       },
       "reportingParams": {
         "parentOrganisationUnit": false,
@@ -2827,6 +2062,7 @@
         "pe",
         "f5OhzxrFtKy"
       ],
+      "attributeValues": [],
       "optionalAxes": [],
       "favorites": [],
       "dataDimensionItems": [
@@ -3028,9 +2264,6 @@
       "showData": true,
       "fixRowHeaders": false,
       "numberType": "VALUE",
-      "legend": {
-        "showKey": false
-      },
       "userOrganisationUnitChildren": false,
       "type": "LINE",
       "hideEmptyColumns": false,
@@ -3042,17 +2275,6 @@
       "cumulativeValues": true,
       "completedOnly": false,
       "colTotals": false,
-      "sharing": {
-        "external": false,
-        "users": {},
-        "userGroups": {
-          "uw37KIPZC5Q": {
-            "access": "r-------",
-            "id": "uw37KIPZC5Q"
-          }
-        },
-        "public": "--------"
-      },
       "showDimensionLabels": false,
       "sortOrder": 0,
       "fontSize": "NORMAL",
@@ -3068,38 +2290,49 @@
       "noSpaceBetweenColumns": false,
       "showHierarchy": false,
       "rowTotals": false,
-      "seriesKey": {
-        "hidden": false
-      },
       "digitGroupSeparator": "SPACE",
       "hideTitle": false,
       "regression": false,
       "colorSet": "DEFAULT",
       "skipRounding": false,
+      "legend": {
+        "showKey": false
+      },
       "fontStyle": {},
+      "sharing": {
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
       "relativePeriods": {
         "thisYear": false,
         "quartersLastYear": false,
-        "last10Years": false,
         "last30Days": false,
+        "last10Years": false,
         "last52Weeks": true,
-        "thisWeek": false,
         "last90Days": false,
+        "thisWeek": false,
         "last60Days": false,
         "lastMonth": false,
         "last14Days": false,
         "biMonthsThisYear": false,
+        "yesterday": false,
         "monthsThisYear": false,
         "last2SixMonths": false,
-        "yesterday": false,
         "thisQuarter": false,
         "last12Months": false,
         "last5FinancialYears": false,
-        "thisSixMonth": false,
         "lastQuarter": false,
+        "thisSixMonth": false,
+        "last3Months": false,
         "thisFinancialYear": false,
         "last4Weeks": false,
-        "last3Months": false,
         "thisDay": false,
         "thisMonth": false,
         "last5Years": false,
@@ -3107,8 +2340,8 @@
         "last10FinancialYears": false,
         "last4BiWeeks": false,
         "lastFinancialYear": false,
-        "lastBiWeek": false,
         "weeksThisYear": false,
+        "lastBiWeek": false,
         "last6Months": false,
         "last3Days": false,
         "quartersThisYear": false,
@@ -3123,6 +2356,9 @@
         "lastYear": false,
         "last12Weeks": false,
         "last4Quarters": false
+      },
+      "seriesKey": {
+        "hidden": false
       },
       "reportingParams": {
         "parentOrganisationUnit": false,
@@ -3142,6 +2378,7 @@
       "columnDimensions": [
         "dx"
       ],
+      "attributeValues": [],
       "optionalAxes": [],
       "favorites": [],
       "dataDimensionItems": [
@@ -3176,9 +2413,6 @@
       "showData": true,
       "fixRowHeaders": true,
       "numberType": "VALUE",
-      "legend": {
-        "showKey": false
-      },
       "userOrganisationUnitChildren": true,
       "type": "PIVOT_TABLE",
       "hideEmptyColumns": false,
@@ -3190,13 +2424,6 @@
       "cumulativeValues": false,
       "completedOnly": false,
       "colTotals": true,
-      "sharing": {
-        "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
-        "userGroups": {},
-        "public": "--------"
-      },
       "showDimensionLabels": false,
       "sortOrder": 0,
       "fontSize": "NORMAL",
@@ -3214,38 +2441,45 @@
       "noSpaceBetweenColumns": false,
       "showHierarchy": false,
       "rowTotals": true,
-      "seriesKey": {
-        "hidden": false
-      },
       "digitGroupSeparator": "COMMA",
       "hideTitle": false,
       "regression": false,
       "colorSet": "DEFAULT",
       "skipRounding": false,
+      "legend": {
+        "showKey": false
+      },
       "fontStyle": {},
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "userGroups": {},
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
       "relativePeriods": {
         "thisYear": false,
         "quartersLastYear": false,
-        "last10Years": false,
         "last30Days": false,
+        "last10Years": false,
         "last52Weeks": false,
-        "thisWeek": false,
         "last90Days": false,
+        "thisWeek": false,
         "last60Days": false,
         "lastMonth": false,
         "last14Days": false,
         "biMonthsThisYear": false,
+        "yesterday": false,
         "monthsThisYear": false,
         "last2SixMonths": false,
-        "yesterday": false,
         "thisQuarter": false,
         "last12Months": true,
         "last5FinancialYears": false,
-        "thisSixMonth": false,
         "lastQuarter": false,
+        "thisSixMonth": false,
+        "last3Months": false,
         "thisFinancialYear": false,
         "last4Weeks": false,
-        "last3Months": false,
         "thisDay": false,
         "thisMonth": false,
         "last5Years": false,
@@ -3253,8 +2487,8 @@
         "last10FinancialYears": false,
         "last4BiWeeks": false,
         "lastFinancialYear": false,
-        "lastBiWeek": false,
         "weeksThisYear": false,
+        "lastBiWeek": false,
         "last6Months": false,
         "last3Days": false,
         "quartersThisYear": false,
@@ -3269,6 +2503,9 @@
         "lastYear": false,
         "last12Weeks": false,
         "last4Quarters": false
+      },
+      "seriesKey": {
+        "hidden": false
       },
       "reportingParams": {
         "parentOrganisationUnit": false,
@@ -3288,6 +2525,7 @@
         "pe",
         "f5OhzxrFtKy"
       ],
+      "attributeValues": [],
       "optionalAxes": [],
       "favorites": [],
       "dataDimensionItems": [
@@ -3336,9 +2574,6 @@
       "showData": true,
       "fixRowHeaders": false,
       "numberType": "VALUE",
-      "legend": {
-        "showKey": false
-      },
       "userOrganisationUnitChildren": false,
       "type": "SINGLE_VALUE",
       "hideEmptyColumns": false,
@@ -3350,18 +2585,6 @@
       "cumulativeValues": false,
       "completedOnly": false,
       "colTotals": false,
-      "sharing": {
-        "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
-        "userGroups": {
-          "uw37KIPZC5Q": {
-            "access": "r-------",
-            "id": "uw37KIPZC5Q"
-          }
-        },
-        "public": "--------"
-      },
       "showDimensionLabels": false,
       "sortOrder": 0,
       "fontSize": "NORMAL",
@@ -3377,38 +2600,50 @@
       "noSpaceBetweenColumns": false,
       "showHierarchy": false,
       "rowTotals": false,
-      "seriesKey": {
-        "hidden": false
-      },
       "digitGroupSeparator": "COMMA",
       "hideTitle": false,
       "regression": false,
       "colorSet": "DEFAULT",
       "skipRounding": false,
+      "legend": {
+        "showKey": false
+      },
       "fontStyle": {},
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
       "relativePeriods": {
         "thisYear": false,
         "quartersLastYear": false,
-        "last10Years": true,
         "last30Days": false,
+        "last10Years": true,
         "last52Weeks": false,
-        "thisWeek": false,
         "last90Days": false,
+        "thisWeek": false,
         "last60Days": false,
         "lastMonth": false,
         "last14Days": false,
         "biMonthsThisYear": false,
+        "yesterday": false,
         "monthsThisYear": false,
         "last2SixMonths": false,
-        "yesterday": false,
         "thisQuarter": false,
         "last12Months": false,
         "last5FinancialYears": false,
-        "thisSixMonth": false,
         "lastQuarter": false,
+        "thisSixMonth": false,
+        "last3Months": false,
         "thisFinancialYear": false,
         "last4Weeks": false,
-        "last3Months": false,
         "thisDay": false,
         "thisMonth": false,
         "last5Years": false,
@@ -3416,8 +2651,8 @@
         "last10FinancialYears": false,
         "last4BiWeeks": false,
         "lastFinancialYear": false,
-        "lastBiWeek": false,
         "weeksThisYear": false,
+        "lastBiWeek": false,
         "last6Months": false,
         "last3Days": false,
         "quartersThisYear": false,
@@ -3432,6 +2667,9 @@
         "lastYear": false,
         "last12Weeks": false,
         "last4Quarters": false
+      },
+      "seriesKey": {
+        "hidden": false
       },
       "reportingParams": {
         "parentOrganisationUnit": false,
@@ -3452,6 +2690,7 @@
       "columnDimensions": [
         "dx"
       ],
+      "attributeValues": [],
       "optionalAxes": [],
       "favorites": [],
       "dataDimensionItems": [
@@ -3484,9 +2723,6 @@
       "showData": true,
       "fixRowHeaders": true,
       "numberType": "VALUE",
-      "legend": {
-        "showKey": false
-      },
       "userOrganisationUnitChildren": true,
       "type": "PIVOT_TABLE",
       "hideEmptyColumns": true,
@@ -3498,13 +2734,6 @@
       "cumulativeValues": false,
       "completedOnly": false,
       "colTotals": true,
-      "sharing": {
-        "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
-        "userGroups": {},
-        "public": "--------"
-      },
       "showDimensionLabels": false,
       "sortOrder": 0,
       "fontSize": "NORMAL",
@@ -3521,38 +2750,45 @@
       "noSpaceBetweenColumns": false,
       "showHierarchy": false,
       "rowTotals": true,
-      "seriesKey": {
-        "hidden": false
-      },
       "digitGroupSeparator": "COMMA",
       "hideTitle": false,
       "regression": false,
       "colorSet": "DEFAULT",
       "skipRounding": false,
+      "legend": {
+        "showKey": false
+      },
       "fontStyle": {},
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "userGroups": {},
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
       "relativePeriods": {
         "thisYear": false,
         "quartersLastYear": false,
-        "last10Years": false,
         "last30Days": false,
+        "last10Years": false,
         "last52Weeks": false,
-        "thisWeek": false,
         "last90Days": false,
+        "thisWeek": false,
         "last60Days": false,
         "lastMonth": false,
         "last14Days": false,
         "biMonthsThisYear": false,
+        "yesterday": false,
         "monthsThisYear": false,
         "last2SixMonths": false,
-        "yesterday": false,
         "thisQuarter": false,
         "last12Months": true,
         "last5FinancialYears": false,
-        "thisSixMonth": false,
         "lastQuarter": false,
+        "thisSixMonth": false,
+        "last3Months": false,
         "thisFinancialYear": false,
         "last4Weeks": false,
-        "last3Months": false,
         "thisDay": false,
         "thisMonth": false,
         "last5Years": false,
@@ -3560,8 +2796,8 @@
         "last10FinancialYears": false,
         "last4BiWeeks": false,
         "lastFinancialYear": false,
-        "lastBiWeek": false,
         "weeksThisYear": false,
+        "lastBiWeek": false,
         "last6Months": false,
         "last3Days": false,
         "quartersThisYear": false,
@@ -3576,6 +2812,9 @@
         "lastYear": false,
         "last12Weeks": false,
         "last4Quarters": false
+      },
+      "seriesKey": {
+        "hidden": false
       },
       "reportingParams": {
         "parentOrganisationUnit": false,
@@ -3595,6 +2834,7 @@
         "pe",
         "f5OhzxrFtKy"
       ],
+      "attributeValues": [],
       "optionalAxes": [],
       "favorites": [],
       "dataDimensionItems": [
@@ -3801,9 +3041,6 @@
       "showData": true,
       "fixRowHeaders": false,
       "numberType": "VALUE",
-      "legend": {
-        "showKey": false
-      },
       "userOrganisationUnitChildren": true,
       "type": "STACKED_BAR",
       "hideEmptyColumns": false,
@@ -3815,13 +3052,6 @@
       "cumulativeValues": false,
       "completedOnly": false,
       "colTotals": false,
-      "sharing": {
-        "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
-        "userGroups": {},
-        "public": "--------"
-      },
       "showDimensionLabels": false,
       "sortOrder": 0,
       "fontSize": "NORMAL",
@@ -3837,38 +3067,45 @@
       "noSpaceBetweenColumns": false,
       "showHierarchy": false,
       "rowTotals": false,
-      "seriesKey": {
-        "hidden": false
-      },
       "digitGroupSeparator": "SPACE",
       "hideTitle": false,
       "regression": false,
       "colorSet": "BRIGHT",
       "skipRounding": false,
+      "legend": {
+        "showKey": false
+      },
       "fontStyle": {},
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "userGroups": {},
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
       "relativePeriods": {
         "thisYear": false,
         "quartersLastYear": false,
-        "last10Years": false,
         "last30Days": false,
+        "last10Years": false,
         "last52Weeks": false,
-        "thisWeek": false,
         "last90Days": false,
+        "thisWeek": false,
         "last60Days": false,
         "lastMonth": false,
         "last14Days": false,
         "biMonthsThisYear": false,
+        "yesterday": false,
         "monthsThisYear": false,
         "last2SixMonths": false,
-        "yesterday": false,
         "thisQuarter": false,
         "last12Months": true,
         "last5FinancialYears": false,
-        "thisSixMonth": false,
         "lastQuarter": false,
+        "thisSixMonth": false,
+        "last3Months": false,
         "thisFinancialYear": false,
         "last4Weeks": false,
-        "last3Months": false,
         "thisDay": false,
         "thisMonth": false,
         "last5Years": false,
@@ -3876,8 +3113,8 @@
         "last10FinancialYears": false,
         "last4BiWeeks": false,
         "lastFinancialYear": false,
-        "lastBiWeek": false,
         "weeksThisYear": false,
+        "lastBiWeek": false,
         "last6Months": false,
         "last3Days": false,
         "quartersThisYear": false,
@@ -3893,6 +3130,9 @@
         "last12Weeks": false,
         "last4Quarters": false
       },
+      "seriesKey": {
+        "hidden": false
+      },
       "reportingParams": {
         "parentOrganisationUnit": false,
         "reportingPeriod": false,
@@ -3905,8 +3145,8 @@
           "index": 0,
           "type": "RANGE",
           "title": {
-            "text": "Renewals",
-            "textMode": "CUSTOM"
+            "textMode": "CUSTOM",
+            "text": "Renewals"
           }
         }
       ],
@@ -3921,6 +3161,7 @@
       "columnDimensions": [
         "f5OhzxrFtKy"
       ],
+      "attributeValues": [],
       "optionalAxes": [],
       "favorites": [],
       "dataDimensionItems": [
@@ -3973,11 +3214,6 @@
       "showData": true,
       "fixRowHeaders": false,
       "numberType": "VALUE",
-      "legend": {
-        "showKey": false,
-        "style": "FILL",
-        "strategy": "FIXED"
-      },
       "userOrganisationUnitChildren": true,
       "type": "STACKED_BAR",
       "hideEmptyColumns": false,
@@ -3989,12 +3225,6 @@
       "cumulativeValues": false,
       "completedOnly": false,
       "colTotals": false,
-      "sharing": {
-        "external": false,
-        "users": {},
-        "userGroups": {},
-        "public": "rw------"
-      },
       "showDimensionLabels": false,
       "sortOrder": 0,
       "fontSize": "NORMAL",
@@ -4010,38 +3240,46 @@
       "noSpaceBetweenColumns": false,
       "showHierarchy": false,
       "rowTotals": false,
-      "seriesKey": {
-        "hidden": false
-      },
       "digitGroupSeparator": "SPACE",
       "hideTitle": false,
       "regression": false,
       "colorSet": "BRIGHT",
       "skipRounding": false,
+      "legend": {
+        "style": "FILL",
+        "showKey": false,
+        "strategy": "FIXED"
+      },
       "fontStyle": {},
+      "sharing": {
+        "userGroups": {},
+        "external": false,
+        "public": "rw------",
+        "users": {}
+      },
       "relativePeriods": {
         "thisYear": false,
         "quartersLastYear": false,
-        "last10Years": false,
         "last30Days": false,
+        "last10Years": false,
         "last52Weeks": false,
-        "thisWeek": false,
         "last90Days": false,
+        "thisWeek": false,
         "last60Days": false,
         "lastMonth": false,
         "last14Days": false,
         "biMonthsThisYear": false,
+        "yesterday": false,
         "monthsThisYear": false,
         "last2SixMonths": false,
-        "yesterday": false,
         "thisQuarter": false,
         "last12Months": true,
         "last5FinancialYears": false,
-        "thisSixMonth": false,
         "lastQuarter": false,
+        "thisSixMonth": false,
+        "last3Months": false,
         "thisFinancialYear": false,
         "last4Weeks": false,
-        "last3Months": false,
         "thisDay": false,
         "thisMonth": false,
         "last5Years": false,
@@ -4049,8 +3287,8 @@
         "last10FinancialYears": false,
         "last4BiWeeks": false,
         "lastFinancialYear": false,
-        "lastBiWeek": false,
         "weeksThisYear": false,
+        "lastBiWeek": false,
         "last6Months": false,
         "last3Days": false,
         "quartersThisYear": false,
@@ -4065,6 +3303,9 @@
         "lastYear": false,
         "last12Weeks": false,
         "last4Quarters": false
+      },
+      "seriesKey": {
+        "hidden": false
       },
       "reportingParams": {
         "parentOrganisationUnit": false,
@@ -4085,6 +3326,7 @@
       "columnDimensions": [
         "f5OhzxrFtKy"
       ],
+      "attributeValues": [],
       "optionalAxes": [],
       "favorites": [],
       "dataDimensionItems": [
@@ -4128,11 +3370,6 @@
       "showData": true,
       "fixRowHeaders": false,
       "numberType": "VALUE",
-      "legend": {
-        "showKey": false,
-        "style": "FILL",
-        "strategy": "FIXED"
-      },
       "userOrganisationUnitChildren": false,
       "type": "SCATTER",
       "hideEmptyColumns": false,
@@ -4144,17 +3381,6 @@
       "cumulativeValues": false,
       "completedOnly": false,
       "colTotals": false,
-      "sharing": {
-        "external": false,
-        "users": {},
-        "userGroups": {
-          "uw37KIPZC5Q": {
-            "access": "r-------",
-            "id": "uw37KIPZC5Q"
-          }
-        },
-        "public": "--------"
-      },
       "showDimensionLabels": false,
       "sortOrder": 0,
       "subtitle": "Districts (sub-2x user orgunit)",
@@ -4172,47 +3398,51 @@
       "noSpaceBetweenColumns": false,
       "showHierarchy": false,
       "rowTotals": false,
-      "seriesKey": {
-        "hidden": false
-      },
-      "outlierAnalysis": {
-        "enabled": true,
-        "outlierMethod": "IQR",
-        "thresholdFactor": 2.5,
-        "extremeLines": {
-          "enabled": false,
-          "value": 1.0
-        }
-      },
       "digitGroupSeparator": "SPACE",
       "hideTitle": false,
       "regression": false,
       "colorSet": "DEFAULT",
       "skipRounding": false,
+      "legend": {
+        "style": "FILL",
+        "showKey": false,
+        "strategy": "FIXED"
+      },
       "fontStyle": {},
+      "sharing": {
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
       "relativePeriods": {
         "thisYear": false,
         "quartersLastYear": false,
-        "last10Years": false,
         "last30Days": false,
+        "last10Years": false,
         "last52Weeks": false,
-        "thisWeek": false,
         "last90Days": false,
+        "thisWeek": false,
         "last60Days": false,
         "lastMonth": false,
         "last14Days": false,
         "biMonthsThisYear": false,
+        "yesterday": false,
         "monthsThisYear": false,
         "last2SixMonths": false,
-        "yesterday": false,
         "thisQuarter": false,
         "last12Months": true,
         "last5FinancialYears": false,
-        "thisSixMonth": false,
         "lastQuarter": false,
+        "thisSixMonth": false,
+        "last3Months": false,
         "thisFinancialYear": false,
         "last4Weeks": false,
-        "last3Months": false,
         "thisDay": false,
         "thisMonth": false,
         "last5Years": false,
@@ -4220,8 +3450,8 @@
         "last10FinancialYears": false,
         "last4BiWeeks": false,
         "lastFinancialYear": false,
-        "lastBiWeek": false,
         "weeksThisYear": false,
+        "lastBiWeek": false,
         "last6Months": false,
         "last3Days": false,
         "quartersThisYear": false,
@@ -4237,11 +3467,23 @@
         "last12Weeks": false,
         "last4Quarters": false
       },
+      "seriesKey": {
+        "hidden": false
+      },
       "reportingParams": {
         "parentOrganisationUnit": false,
         "reportingPeriod": false,
         "organisationUnit": false,
         "grandParentOrganisationUnit": false
+      },
+      "outlierAnalysis": {
+        "thresholdFactor": 2.5,
+        "enabled": true,
+        "outlierMethod": "IQR",
+        "extremeLines": {
+          "value": 1.0,
+          "enabled": false
+        }
       },
       "dataElementGroupSetDimensions": [],
       "axes": [
@@ -4270,6 +3512,7 @@
       "columnDimensions": [
         "dx"
       ],
+      "attributeValues": [],
       "optionalAxes": [],
       "favorites": [],
       "dataDimensionItems": [
@@ -4305,6 +3548,782 @@
           "axis": 0
         }
       ]
+    }
+  ],
+  "dashboards": [
+    {
+      "created": "2022-07-07T13:51:38.717",
+      "lastUpdated": "2022-09-02T15:19:37.421",
+      "name": "Enrolments & Premium collection",
+      "id": "oTiasBlPkaf",
+      "restrictFilters": false,
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "userGroups": {
+          "uw37KIPZC5Q": {
+            "access": "r-------",
+            "id": "uw37KIPZC5Q"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
+      "layout": {
+        "columns": []
+      },
+      "itemConfig": {
+        "insertPosition": "START"
+      },
+      "favorites": [
+        "Z1Q0lu3BsnL",
+        "q4lQ3GbOpMw"
+      ],
+      "dashboardItems": [
+        {
+          "lastUpdated": "2022-07-15T15:30:12.271",
+          "id": "lnCsqbVb1nc",
+          "created": "2022-07-15T15:30:12.220",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 28,
+          "interpretationCount": 0,
+          "x": 30,
+          "width": 30,
+          "y": 37,
+          "interpretationLikeCount": 0,
+          "favorite": false,
+          "visualization": {
+            "id": "nYGtth5nNRG"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "write": true,
+            "delete": true,
+            "manage": true
+          },
+          "sharing": {
+            "userGroups": {},
+            "external": false,
+            "users": {}
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-15T15:30:12.271",
+          "id": "ljBYURLlSBL",
+          "created": "2022-07-15T15:30:12.220",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 23,
+          "interpretationCount": 0,
+          "x": 0,
+          "width": 30,
+          "y": 80,
+          "interpretationLikeCount": 0,
+          "favorite": false,
+          "visualization": {
+            "id": "wuiWwuWJC5i"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "write": true,
+            "delete": true,
+            "manage": true
+          },
+          "sharing": {
+            "userGroups": {},
+            "external": false,
+            "users": {}
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-15T15:30:12.271",
+          "id": "JUxOcLA2gcw",
+          "created": "2022-07-15T15:30:12.220",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 28,
+          "interpretationCount": 0,
+          "x": 45,
+          "width": 15,
+          "y": 9,
+          "interpretationLikeCount": 0,
+          "favorite": false,
+          "visualization": {
+            "id": "BNECoYqbO0A"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "write": true,
+            "delete": true,
+            "manage": true
+          },
+          "sharing": {
+            "userGroups": {},
+            "external": false,
+            "users": {}
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-15T15:30:12.271",
+          "id": "MwE3WKZBCpX",
+          "created": "2022-07-15T15:30:12.220",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 9,
+          "interpretationCount": 0,
+          "x": 29,
+          "width": 16,
+          "y": 0,
+          "interpretationLikeCount": 0,
+          "favorite": false,
+          "visualization": {
+            "id": "eqbtDOmZHSv"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "write": true,
+            "delete": true,
+            "manage": true
+          },
+          "sharing": {
+            "userGroups": {},
+            "external": false,
+            "users": {}
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-15T15:30:12.271",
+          "id": "BgahcVBQLDQ",
+          "created": "2022-07-15T15:30:12.220",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 9,
+          "interpretationCount": 0,
+          "x": 14,
+          "width": 15,
+          "y": 0,
+          "interpretationLikeCount": 0,
+          "favorite": false,
+          "visualization": {
+            "id": "KKM1uvtAUI5"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "write": true,
+            "delete": true,
+            "manage": true
+          },
+          "sharing": {
+            "userGroups": {},
+            "external": false,
+            "users": {}
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-15T15:30:12.271",
+          "id": "f3luwn3ovJb",
+          "created": "2022-07-15T15:30:12.220",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 23,
+          "interpretationCount": 0,
+          "x": 0,
+          "width": 30,
+          "y": 9,
+          "interpretationLikeCount": 0,
+          "favorite": false,
+          "visualization": {
+            "id": "Jtep82Gk9L8"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "write": true,
+            "delete": true,
+            "manage": true
+          },
+          "sharing": {
+            "userGroups": {},
+            "external": false,
+            "users": {}
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-15T15:30:12.271",
+          "id": "shTc1bQaLGa",
+          "created": "2022-07-15T15:30:12.220",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 23,
+          "interpretationCount": 0,
+          "x": 0,
+          "width": 30,
+          "y": 32,
+          "interpretationLikeCount": 0,
+          "favorite": false,
+          "visualization": {
+            "id": "kligVFmhnxI"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "write": true,
+            "delete": true,
+            "manage": true
+          },
+          "sharing": {
+            "userGroups": {},
+            "external": false,
+            "users": {}
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-15T15:30:12.271",
+          "id": "pQZ369aVBnl",
+          "created": "2022-07-15T15:30:12.220",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 23,
+          "interpretationCount": 0,
+          "x": 30,
+          "width": 30,
+          "y": 65,
+          "interpretationLikeCount": 0,
+          "favorite": false,
+          "visualization": {
+            "id": "E1lDROWKLfu"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "write": true,
+            "delete": true,
+            "manage": true
+          },
+          "sharing": {
+            "userGroups": {},
+            "external": false,
+            "users": {}
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-15T15:30:12.272",
+          "id": "iECgyMHo3Fz",
+          "created": "2022-07-15T15:30:12.220",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 29,
+          "interpretationCount": 0,
+          "x": 0,
+          "width": 30,
+          "y": 121,
+          "interpretationLikeCount": 0,
+          "favorite": false,
+          "visualization": {
+            "id": "xa9Fc148nmF"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "write": true,
+            "delete": true,
+            "manage": true
+          },
+          "sharing": {
+            "userGroups": {},
+            "external": false,
+            "users": {}
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-15T15:30:12.272",
+          "id": "FW91786rcDA",
+          "created": "2022-07-15T15:30:12.220",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 24,
+          "interpretationCount": 0,
+          "x": 30,
+          "width": 30,
+          "y": 106,
+          "interpretationLikeCount": 0,
+          "favorite": false,
+          "visualization": {
+            "id": "K9MyroH1sKP"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "write": true,
+            "delete": true,
+            "manage": true
+          },
+          "sharing": {
+            "userGroups": {},
+            "external": false,
+            "users": {}
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-15T15:30:12.272",
+          "id": "HZuXzx96sTG",
+          "created": "2022-07-15T15:30:12.220",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 24,
+          "interpretationCount": 0,
+          "x": 0,
+          "width": 35,
+          "y": 150,
+          "interpretationLikeCount": 0,
+          "favorite": false,
+          "visualization": {
+            "id": "OndJxYKTX5M"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "write": true,
+            "delete": true,
+            "manage": true
+          },
+          "sharing": {
+            "userGroups": {},
+            "external": false,
+            "users": {}
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-15T15:30:12.272",
+          "id": "SkiikccWrWy",
+          "created": "2022-07-15T15:30:12.220",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 20,
+          "interpretationCount": 0,
+          "x": 30,
+          "width": 30,
+          "y": 130,
+          "interpretationLikeCount": 0,
+          "favorite": false,
+          "visualization": {
+            "id": "UPlFDan5NWO"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "write": true,
+            "delete": true,
+            "manage": true
+          },
+          "sharing": {
+            "userGroups": {},
+            "external": false,
+            "users": {}
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-15T15:30:12.272",
+          "id": "yptbzAu5pcy",
+          "created": "2022-07-15T15:30:12.221",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 24,
+          "interpretationCount": 0,
+          "x": 35,
+          "width": 25,
+          "y": 150,
+          "interpretationLikeCount": 0,
+          "favorite": false,
+          "visualization": {
+            "id": "HdI0kUAcOSp"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "write": true,
+            "delete": true,
+            "manage": true
+          },
+          "sharing": {
+            "userGroups": {},
+            "external": false,
+            "users": {}
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-15T15:30:12.272",
+          "id": "ydpCcVkpX2b",
+          "created": "2022-07-15T15:30:12.221",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 18,
+          "interpretationCount": 0,
+          "x": 30,
+          "width": 30,
+          "y": 88,
+          "interpretationLikeCount": 0,
+          "favorite": false,
+          "visualization": {
+            "id": "CJeWOckUiqS"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "write": true,
+            "delete": true,
+            "manage": true
+          },
+          "sharing": {
+            "userGroups": {},
+            "external": false,
+            "users": {}
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-15T15:30:12.272",
+          "id": "L7fkINoG8m2",
+          "created": "2022-07-15T15:30:12.221",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 18,
+          "interpretationCount": 0,
+          "x": 0,
+          "width": 30,
+          "y": 103,
+          "interpretationLikeCount": 0,
+          "favorite": false,
+          "visualization": {
+            "id": "U9mbutGfIL4"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "write": true,
+            "delete": true,
+            "manage": true
+          },
+          "sharing": {
+            "userGroups": {},
+            "external": false,
+            "users": {}
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-15T15:30:12.272",
+          "id": "MA7WCVTuYr9",
+          "created": "2022-07-15T15:30:12.221",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 9,
+          "interpretationCount": 0,
+          "x": 0,
+          "width": 14,
+          "y": 0,
+          "interpretationLikeCount": 0,
+          "favorite": false,
+          "visualization": {
+            "id": "z6PdoIRudJX"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "write": true,
+            "delete": true,
+            "manage": true
+          },
+          "sharing": {
+            "userGroups": {},
+            "external": false,
+            "users": {}
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-15T15:30:12.272",
+          "id": "L63UXuEzRyP",
+          "created": "2022-07-15T15:30:12.221",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 9,
+          "interpretationCount": 0,
+          "x": 45,
+          "width": 15,
+          "y": 0,
+          "interpretationLikeCount": 0,
+          "favorite": false,
+          "visualization": {
+            "id": "HKIQnMO2dCD"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "write": true,
+            "delete": true,
+            "manage": true
+          },
+          "sharing": {
+            "userGroups": {},
+            "external": false,
+            "users": {}
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-15T15:30:12.272",
+          "id": "TrOTjMHl8TD",
+          "created": "2022-07-15T15:30:12.221",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 25,
+          "interpretationCount": 0,
+          "x": 0,
+          "width": 30,
+          "y": 55,
+          "interpretationLikeCount": 0,
+          "favorite": false,
+          "visualization": {
+            "id": "nXQY7I1BMpN"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "write": true,
+            "delete": true,
+            "manage": true
+          },
+          "sharing": {
+            "userGroups": {},
+            "external": false,
+            "users": {}
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2022-07-15T15:30:12.273",
+          "id": "OLExdEoNDqN",
+          "created": "2022-07-15T15:30:12.221",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 28,
+          "interpretationCount": 0,
+          "x": 30,
+          "width": 15,
+          "y": 9,
+          "interpretationLikeCount": 0,
+          "favorite": false,
+          "visualization": {
+            "id": "BNl1WwQgI41"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "write": true,
+            "delete": true,
+            "manage": true
+          },
+          "sharing": {
+            "userGroups": {},
+            "external": false,
+            "users": {}
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        }
+      ],
+      "translations": [],
+      "allowedFilters": []
     }
   ]
 }

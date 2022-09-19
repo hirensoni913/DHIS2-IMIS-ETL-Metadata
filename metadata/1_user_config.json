@@ -8,17 +8,17 @@
       "description": "for viewing data in the dashboard and analytics apps",
       "sharing": {
         "owner": "PJ7pWuO2jo8",
-        "external": false,
-        "users": {},
         "userGroups": {},
-        "public": "rw------"
+        "external": false,
+        "public": "rw------",
+        "users": {}
       },
       "translations": [],
       "authorities": [
-        "M_dhis-web-cache-cleaner",
-        "M_dhis-web-pivot",
         "M_dhis-web-data-visualizer",
-        "M_dhis-web-dashboard"
+        "M_dhis-web-cache-cleaner",
+        "M_dhis-web-dashboard",
+        "M_dhis-web-pivot"
       ]
     },
     {
@@ -29,10 +29,10 @@
       "description": "for data integration bots only",
       "sharing": {
         "owner": "PJ7pWuO2jo8",
-        "external": false,
-        "users": {},
         "userGroups": {},
-        "public": "rw------"
+        "external": false,
+        "public": "rw------",
+        "users": {}
       },
       "translations": [],
       "authorities": [
@@ -52,10 +52,10 @@
       "description": "Superuser",
       "sharing": {
         "owner": "PJ7pWuO2jo8",
-        "external": false,
-        "users": {},
         "userGroups": {},
-        "public": "--------"
+        "external": false,
+        "public": "--------",
+        "users": {}
       },
       "translations": [],
       "authorities": [
@@ -72,6 +72,7 @@
         "F_SKIP_DATA_IMPORT_AUDIT",
         "F_RUN_VALIDATION",
         "F_IMPORT_DATA",
+        "F_PERFORM_ANALYTICS_EXPLAIN",
         "F_LOCALE_ADD",
         "F_REPLICATE_USER",
         "F_USER_DELETE",
@@ -106,10 +107,10 @@
       "id": "uw37KIPZC5Q",
       "sharing": {
         "owner": "PJ7pWuO2jo8",
-        "external": false,
-        "users": {},
         "userGroups": {},
-        "public": "rw------"
+        "external": false,
+        "public": "rw------",
+        "users": {}
       },
       "attributeValues": [],
       "users": [],
@@ -123,10 +124,10 @@
       "id": "Q0IbgSfTcVG",
       "sharing": {
         "owner": "PJ7pWuO2jo8",
-        "external": false,
-        "users": {},
         "userGroups": {},
-        "public": "rw------"
+        "external": false,
+        "public": "rw------",
+        "users": {}
       },
       "attributeValues": [],
       "users": [],

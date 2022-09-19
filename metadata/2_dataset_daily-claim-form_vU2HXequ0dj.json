@@ -1,44 +1,21 @@
 {
-  "date": "2022-07-27T11:08:12.936",
-  "categoryCombos": [
-    {
-      "code": "default",
-      "created": "2022-07-06T11:26:52.124",
-      "lastUpdated": "2022-07-06T11:26:52.127",
-      "name": "default",
-      "id": "bjDvmb4bfuf",
-      "dataDimensionType": "DISAGGREGATION",
-      "sharing": {
-        "external": false,
-        "users": {},
-        "userGroups": {},
-        "public": "rw------"
-      },
-      "skipTotal": false,
-      "translations": [],
-      "categories": [
-        {
-          "id": "GLevLNI9wkl"
-        }
-      ]
-    }
-  ],
+  "date": "2022-09-19T09:34:02.440",
   "categories": [
     {
       "code": "default",
       "created": "2022-07-06T11:26:52.121",
-      "lastUpdated": "2022-07-08T12:30:43.796",
+      "lastUpdated": "2022-09-14T15:51:37.078",
       "name": "default",
       "id": "GLevLNI9wkl",
       "shortName": "default",
       "dataDimensionType": "DISAGGREGATION",
-      "sharing": {
-        "external": false,
-        "users": {},
-        "userGroups": {},
-        "public": "rw------"
-      },
       "dataDimension": false,
+      "sharing": {
+        "userGroups": {},
+        "external": false,
+        "public": "rw------",
+        "users": {}
+      },
       "attributeValues": [],
       "translations": [],
       "categoryOptions": [
@@ -58,16 +35,16 @@
       "aggregationType": "SUM",
       "domainType": "AGGREGATE",
       "valueType": "INTEGER_POSITIVE",
-      "sharing": {
-        "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
-        "userGroups": {},
-        "public": "rw------"
-      },
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
+      },
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "userGroups": {},
+        "external": false,
+        "public": "rw------",
+        "users": {}
       },
       "translations": [],
       "attributeValues": [],
@@ -83,21 +60,44 @@
       "aggregationType": "SUM",
       "domainType": "AGGREGATE",
       "valueType": "INTEGER_POSITIVE",
-      "sharing": {
-        "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
-        "userGroups": {},
-        "public": "rw------"
-      },
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
+      },
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "userGroups": {},
+        "external": false,
+        "public": "rw------",
+        "users": {}
       },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
       "aggregationLevels": []
+    }
+  ],
+  "categoryCombos": [
+    {
+      "code": "default",
+      "created": "2022-07-06T11:26:52.124",
+      "lastUpdated": "2022-07-06T11:26:52.127",
+      "name": "default",
+      "id": "bjDvmb4bfuf",
+      "dataDimensionType": "DISAGGREGATION",
+      "skipTotal": false,
+      "sharing": {
+        "userGroups": {},
+        "external": false,
+        "public": "rw------",
+        "users": {}
+      },
+      "translations": [],
+      "categories": [
+        {
+          "id": "GLevLNI9wkl"
+        }
+      ]
     }
   ],
   "categoryOptions": [
@@ -108,10 +108,10 @@
       "name": "default",
       "id": "xYerKDKCefk",
       "sharing": {
-        "external": false,
-        "users": {},
         "userGroups": {},
-        "public": "rwrw----"
+        "external": false,
+        "public": "rwrw----",
+        "users": {}
       },
       "attributeValues": [],
       "translations": [],
@@ -134,13 +134,6 @@
       "renderHorizontally": false,
       "renderAsTabs": false,
       "mobile": false,
-      "sharing": {
-        "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
-        "userGroups": {},
-        "public": "rw------"
-      },
       "version": 3,
       "openPeriodsAfterCoEndDate": 0,
       "timelyDays": 15,
@@ -150,15 +143,14 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "userGroups": {},
+        "external": false,
+        "public": "rw------",
+        "users": {}
+      },
       "dataSetElements": [
-        {
-          "dataElement": {
-            "id": "XLh2fmkRoIx"
-          },
-          "dataSet": {
-            "id": "vU2HXequ0dj"
-          }
-        },
         {
           "dataElement": {
             "id": "qu7fou3ix7h"
@@ -166,11 +158,19 @@
           "dataSet": {
             "id": "vU2HXequ0dj"
           }
+        },
+        {
+          "dataElement": {
+            "id": "XLh2fmkRoIx"
+          },
+          "dataSet": {
+            "id": "vU2HXequ0dj"
+          }
         }
       ],
       "compulsoryDataElementOperands": [],
-      "translations": [],
       "dataInputPeriods": [],
+      "translations": [],
       "organisationUnits": [],
       "attributeValues": [],
       "indicators": [],
@@ -182,9 +182,9 @@
       "lastUpdated": "2022-07-06T11:26:52.127",
       "code": "default",
       "created": "2022-07-06T11:26:52.126",
-      "name": "default",
       "id": "HllvX50cXC0",
       "ignoreApproval": false,
+      "name": "default",
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },

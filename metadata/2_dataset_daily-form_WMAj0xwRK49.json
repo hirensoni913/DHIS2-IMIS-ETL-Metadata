@@ -1,52 +1,5 @@
 {
-  "date": "2022-07-27T11:08:13.614",
-  "categoryCombos": [
-    {
-      "created": "2022-07-07T09:09:42.878",
-      "lastUpdated": "2022-07-07T09:09:42.921",
-      "name": "Gender & Age",
-      "id": "nmHXktiAkpn",
-      "dataDimensionType": "DISAGGREGATION",
-      "sharing": {
-        "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
-        "userGroups": {},
-        "public": "rw------"
-      },
-      "skipTotal": false,
-      "translations": [],
-      "categories": [
-        {
-          "id": "f5OhzxrFtKy"
-        },
-        {
-          "id": "rvkG1gmEz6K"
-        }
-      ]
-    },
-    {
-      "code": "default",
-      "created": "2022-07-06T11:26:52.124",
-      "lastUpdated": "2022-07-06T11:26:52.127",
-      "name": "default",
-      "id": "bjDvmb4bfuf",
-      "dataDimensionType": "DISAGGREGATION",
-      "sharing": {
-        "external": false,
-        "users": {},
-        "userGroups": {},
-        "public": "rw------"
-      },
-      "skipTotal": false,
-      "translations": [],
-      "categories": [
-        {
-          "id": "GLevLNI9wkl"
-        }
-      ]
-    }
-  ],
+  "date": "2022-09-19T09:34:02.657",
   "categories": [
     {
       "created": "2022-07-07T09:08:08.175",
@@ -55,14 +8,14 @@
       "id": "rvkG1gmEz6K",
       "shortName": "Age",
       "dataDimensionType": "DISAGGREGATION",
+      "dataDimension": true,
       "sharing": {
         "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
         "userGroups": {},
-        "public": "rw------"
+        "external": false,
+        "public": "rw------",
+        "users": {}
       },
-      "dataDimension": true,
       "attributeValues": [],
       "translations": [],
       "categoryOptions": [
@@ -99,14 +52,14 @@
       "id": "f5OhzxrFtKy",
       "shortName": "Gender",
       "dataDimensionType": "DISAGGREGATION",
+      "dataDimension": true,
       "sharing": {
         "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
         "userGroups": {},
-        "public": "rw------"
+        "external": false,
+        "public": "rw------",
+        "users": {}
       },
-      "dataDimension": true,
       "attributeValues": [],
       "translations": [],
       "categoryOptions": [
@@ -121,18 +74,18 @@
     {
       "code": "default",
       "created": "2022-07-06T11:26:52.121",
-      "lastUpdated": "2022-07-08T12:30:43.796",
+      "lastUpdated": "2022-09-14T15:51:37.078",
       "name": "default",
       "id": "GLevLNI9wkl",
       "shortName": "default",
       "dataDimensionType": "DISAGGREGATION",
-      "sharing": {
-        "external": false,
-        "users": {},
-        "userGroups": {},
-        "public": "rw------"
-      },
       "dataDimension": false,
+      "sharing": {
+        "userGroups": {},
+        "external": false,
+        "public": "rw------",
+        "users": {}
+      },
       "attributeValues": [],
       "translations": [],
       "categoryOptions": [
@@ -144,31 +97,6 @@
   ],
   "dataElements": [
     {
-      "lastUpdated": "2022-07-15T08:48:26.364",
-      "id": "TOhUzIBdodh",
-      "created": "2022-07-06T14:26:23.849",
-      "name": "ENR - New Insurees",
-      "shortName": "New Insurees",
-      "aggregationType": "SUM",
-      "domainType": "AGGREGATE",
-      "valueType": "INTEGER_POSITIVE",
-      "sharing": {
-        "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
-        "userGroups": {},
-        "public": "rw------"
-      },
-      "zeroIsSignificant": false,
-      "categoryCombo": {
-        "id": "nmHXktiAkpn"
-      },
-      "translations": [],
-      "attributeValues": [],
-      "legendSets": [],
-      "aggregationLevels": []
-    },
-    {
       "lastUpdated": "2022-07-07T09:10:45.470",
       "id": "cxBAJmLgdTu",
       "created": "2022-07-06T14:36:21.297",
@@ -177,21 +105,93 @@
       "aggregationType": "SUM",
       "domainType": "AGGREGATE",
       "valueType": "INTEGER_POSITIVE",
-      "sharing": {
-        "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
-        "userGroups": {},
-        "public": "rw------"
-      },
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "nmHXktiAkpn"
+      },
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "userGroups": {},
+        "external": false,
+        "public": "rw------",
+        "users": {}
       },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
       "aggregationLevels": []
+    },
+    {
+      "lastUpdated": "2022-07-15T08:48:26.364",
+      "id": "TOhUzIBdodh",
+      "created": "2022-07-06T14:26:23.849",
+      "name": "ENR - New Insurees",
+      "shortName": "New Insurees",
+      "aggregationType": "SUM",
+      "domainType": "AGGREGATE",
+      "valueType": "INTEGER_POSITIVE",
+      "zeroIsSignificant": false,
+      "categoryCombo": {
+        "id": "nmHXktiAkpn"
+      },
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "userGroups": {},
+        "external": false,
+        "public": "rw------",
+        "users": {}
+      },
+      "translations": [],
+      "attributeValues": [],
+      "legendSets": [],
+      "aggregationLevels": []
+    }
+  ],
+  "categoryCombos": [
+    {
+      "created": "2022-07-07T09:09:42.878",
+      "lastUpdated": "2022-07-07T09:09:42.921",
+      "name": "Gender & Age",
+      "id": "nmHXktiAkpn",
+      "dataDimensionType": "DISAGGREGATION",
+      "skipTotal": false,
+      "sharing": {
+        "owner": "q4lQ3GbOpMw",
+        "userGroups": {},
+        "external": false,
+        "public": "rw------",
+        "users": {}
+      },
+      "translations": [],
+      "categories": [
+        {
+          "id": "f5OhzxrFtKy"
+        },
+        {
+          "id": "rvkG1gmEz6K"
+        }
+      ]
+    },
+    {
+      "code": "default",
+      "created": "2022-07-06T11:26:52.124",
+      "lastUpdated": "2022-07-06T11:26:52.127",
+      "name": "default",
+      "id": "bjDvmb4bfuf",
+      "dataDimensionType": "DISAGGREGATION",
+      "skipTotal": false,
+      "sharing": {
+        "userGroups": {},
+        "external": false,
+        "public": "rw------",
+        "users": {}
+      },
+      "translations": [],
+      "categories": [
+        {
+          "id": "GLevLNI9wkl"
+        }
+      ]
     }
   ],
   "categoryOptions": [
@@ -203,10 +203,10 @@
       "shortName": "< 1y",
       "sharing": {
         "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
         "userGroups": {},
-        "public": "rwrw----"
+        "external": false,
+        "public": "rwrw----",
+        "users": {}
       },
       "attributeValues": [],
       "translations": [],
@@ -220,10 +220,10 @@
       "shortName": "11 - 20y",
       "sharing": {
         "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
         "userGroups": {},
-        "public": "rwrw----"
+        "external": false,
+        "public": "rwrw----",
+        "users": {}
       },
       "attributeValues": [],
       "translations": [],
@@ -237,10 +237,10 @@
       "shortName": "> 60y",
       "sharing": {
         "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
         "userGroups": {},
-        "public": "rwrw----"
+        "external": false,
+        "public": "rwrw----",
+        "users": {}
       },
       "attributeValues": [],
       "translations": [],
@@ -254,10 +254,10 @@
       "shortName": "51 - 60y",
       "sharing": {
         "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
         "userGroups": {},
-        "public": "rwrw----"
+        "external": false,
+        "public": "rwrw----",
+        "users": {}
       },
       "attributeValues": [],
       "translations": [],
@@ -270,10 +270,10 @@
       "name": "default",
       "id": "xYerKDKCefk",
       "sharing": {
-        "external": false,
-        "users": {},
         "userGroups": {},
-        "public": "rwrw----"
+        "external": false,
+        "public": "rwrw----",
+        "users": {}
       },
       "attributeValues": [],
       "translations": [],
@@ -287,10 +287,10 @@
       "shortName": "1 - 10y",
       "sharing": {
         "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
         "userGroups": {},
-        "public": "rwrw----"
+        "external": false,
+        "public": "rwrw----",
+        "users": {}
       },
       "attributeValues": [],
       "translations": [],
@@ -305,10 +305,10 @@
       "shortName": "Female",
       "sharing": {
         "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
         "userGroups": {},
-        "public": "rwrw----"
+        "external": false,
+        "public": "rwrw----",
+        "users": {}
       },
       "attributeValues": [],
       "translations": [],
@@ -323,10 +323,10 @@
       "shortName": "Male",
       "sharing": {
         "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
         "userGroups": {},
-        "public": "rwrw----"
+        "external": false,
+        "public": "rwrw----",
+        "users": {}
       },
       "attributeValues": [],
       "translations": [],
@@ -340,10 +340,10 @@
       "shortName": "41 - 50y",
       "sharing": {
         "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
         "userGroups": {},
-        "public": "rwrw----"
+        "external": false,
+        "public": "rwrw----",
+        "users": {}
       },
       "attributeValues": [],
       "translations": [],
@@ -357,10 +357,10 @@
       "shortName": "31 - 40y",
       "sharing": {
         "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
         "userGroups": {},
-        "public": "rwrw----"
+        "external": false,
+        "public": "rwrw----",
+        "users": {}
       },
       "attributeValues": [],
       "translations": [],
@@ -374,10 +374,10 @@
       "shortName": "21 - 30y",
       "sharing": {
         "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
         "userGroups": {},
-        "public": "rwrw----"
+        "external": false,
+        "public": "rwrw----",
+        "users": {}
       },
       "attributeValues": [],
       "translations": [],
@@ -400,10 +400,17 @@
       "renderHorizontally": false,
       "renderAsTabs": false,
       "mobile": false,
+      "version": 11,
+      "openPeriodsAfterCoEndDate": 0,
+      "timelyDays": 15,
+      "periodType": "Daily",
+      "openFuturePeriods": 1,
+      "expiryDays": 0,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
       "sharing": {
         "owner": "q4lQ3GbOpMw",
-        "external": false,
-        "users": {},
         "userGroups": {
           "Q0IbgSfTcVG": {
             "access": "r-rw----",
@@ -414,26 +421,11 @@
             "id": "uw37KIPZC5Q"
           }
         },
-        "public": "r-------"
-      },
-      "version": 11,
-      "openPeriodsAfterCoEndDate": 0,
-      "timelyDays": 15,
-      "periodType": "Daily",
-      "openFuturePeriods": 1,
-      "expiryDays": 0,
-      "categoryCombo": {
-        "id": "bjDvmb4bfuf"
+        "external": false,
+        "public": "r-------",
+        "users": {}
       },
       "dataSetElements": [
-        {
-          "dataElement": {
-            "id": "TOhUzIBdodh"
-          },
-          "dataSet": {
-            "id": "WMAj0xwRK49"
-          }
-        },
         {
           "dataElement": {
             "id": "cxBAJmLgdTu"
@@ -441,11 +433,19 @@
           "dataSet": {
             "id": "WMAj0xwRK49"
           }
+        },
+        {
+          "dataElement": {
+            "id": "TOhUzIBdodh"
+          },
+          "dataSet": {
+            "id": "WMAj0xwRK49"
+          }
         }
       ],
       "compulsoryDataElementOperands": [],
-      "translations": [],
       "dataInputPeriods": [],
+      "translations": [],
       "organisationUnits": [],
       "attributeValues": [],
       "indicators": [],
@@ -456,9 +456,9 @@
     {
       "lastUpdated": "2022-07-07T09:09:42.910",
       "created": "2022-07-07T09:09:42.910",
-      "name": "Male, 51 - 60y",
       "id": "VcVrGL5Arrj",
       "ignoreApproval": false,
+      "name": "Male, 51 - 60y",
       "categoryCombo": {
         "id": "nmHXktiAkpn"
       },
@@ -476,9 +476,9 @@
     {
       "lastUpdated": "2022-07-07T09:09:42.903",
       "created": "2022-07-07T09:09:42.903",
-      "name": "Male, < 1y",
       "id": "JImXfiX3417",
       "ignoreApproval": false,
+      "name": "Male, < 1y",
       "categoryCombo": {
         "id": "nmHXktiAkpn"
       },
@@ -496,9 +496,9 @@
     {
       "lastUpdated": "2022-07-07T09:09:42.920",
       "created": "2022-07-07T09:09:42.920",
-      "name": "Female, > 60y",
       "id": "hc4D9jQQ5aH",
       "ignoreApproval": false,
+      "name": "Female, > 60y",
       "categoryCombo": {
         "id": "nmHXktiAkpn"
       },
@@ -516,9 +516,9 @@
     {
       "lastUpdated": "2022-07-07T09:09:42.904",
       "created": "2022-07-07T09:09:42.904",
-      "name": "Male, 1 - 10y",
       "id": "XWivMQbogJM",
       "ignoreApproval": false,
+      "name": "Male, 1 - 10y",
       "categoryCombo": {
         "id": "nmHXktiAkpn"
       },
@@ -536,9 +536,9 @@
     {
       "lastUpdated": "2022-07-07T09:09:42.906",
       "created": "2022-07-07T09:09:42.906",
-      "name": "Male, 11 - 20y",
       "id": "RjO2pJqSNyF",
       "ignoreApproval": false,
+      "name": "Male, 11 - 20y",
       "categoryCombo": {
         "id": "nmHXktiAkpn"
       },
@@ -556,9 +556,9 @@
     {
       "lastUpdated": "2022-07-07T09:09:42.916",
       "created": "2022-07-07T09:09:42.916",
-      "name": "Female, 21 - 30y",
       "id": "DfTj9lOfO4E",
       "ignoreApproval": false,
+      "name": "Female, 21 - 30y",
       "categoryCombo": {
         "id": "nmHXktiAkpn"
       },
@@ -576,9 +576,9 @@
     {
       "lastUpdated": "2022-07-07T09:09:42.918",
       "created": "2022-07-07T09:09:42.918",
-      "name": "Female, 41 - 50y",
       "id": "z2vDhK4R9w2",
       "ignoreApproval": false,
+      "name": "Female, 41 - 50y",
       "categoryCombo": {
         "id": "nmHXktiAkpn"
       },
@@ -596,9 +596,9 @@
     {
       "lastUpdated": "2022-07-07T09:09:42.908",
       "created": "2022-07-07T09:09:42.908",
-      "name": "Male, 31 - 40y",
       "id": "WMHoo50RtWn",
       "ignoreApproval": false,
+      "name": "Male, 31 - 40y",
       "categoryCombo": {
         "id": "nmHXktiAkpn"
       },
@@ -616,9 +616,9 @@
     {
       "lastUpdated": "2022-07-07T09:09:42.919",
       "created": "2022-07-07T09:09:42.919",
-      "name": "Female, 51 - 60y",
       "id": "i6WGfRsv0eH",
       "ignoreApproval": false,
+      "name": "Female, 51 - 60y",
       "categoryCombo": {
         "id": "nmHXktiAkpn"
       },
@@ -636,9 +636,9 @@
     {
       "lastUpdated": "2022-07-07T09:09:42.911",
       "created": "2022-07-07T09:09:42.911",
-      "name": "Male, > 60y",
       "id": "QURu6L1C4yj",
       "ignoreApproval": false,
+      "name": "Male, > 60y",
       "categoryCombo": {
         "id": "nmHXktiAkpn"
       },
@@ -656,9 +656,9 @@
     {
       "lastUpdated": "2022-07-07T09:09:42.913",
       "created": "2022-07-07T09:09:42.913",
-      "name": "Female, < 1y",
       "id": "N25TKL5Nviz",
       "ignoreApproval": false,
+      "name": "Female, < 1y",
       "categoryCombo": {
         "id": "nmHXktiAkpn"
       },
@@ -676,9 +676,9 @@
     {
       "lastUpdated": "2022-07-07T09:09:42.915",
       "created": "2022-07-07T09:09:42.915",
-      "name": "Female, 11 - 20y",
       "id": "xGYZVLi3TcN",
       "ignoreApproval": false,
+      "name": "Female, 11 - 20y",
       "categoryCombo": {
         "id": "nmHXktiAkpn"
       },
@@ -696,9 +696,9 @@
     {
       "lastUpdated": "2022-07-07T09:09:42.909",
       "created": "2022-07-07T09:09:42.909",
-      "name": "Male, 41 - 50y",
       "id": "ITuSXcDACWo",
       "ignoreApproval": false,
+      "name": "Male, 41 - 50y",
       "categoryCombo": {
         "id": "nmHXktiAkpn"
       },
@@ -716,9 +716,9 @@
     {
       "lastUpdated": "2022-07-07T09:09:42.907",
       "created": "2022-07-07T09:09:42.907",
-      "name": "Male, 21 - 30y",
       "id": "MD5erPl1Xr1",
       "ignoreApproval": false,
+      "name": "Male, 21 - 30y",
       "categoryCombo": {
         "id": "nmHXktiAkpn"
       },
@@ -736,9 +736,9 @@
     {
       "lastUpdated": "2022-07-07T09:09:42.917",
       "created": "2022-07-07T09:09:42.917",
-      "name": "Female, 31 - 40y",
       "id": "C4l1efjuZ7z",
       "ignoreApproval": false,
+      "name": "Female, 31 - 40y",
       "categoryCombo": {
         "id": "nmHXktiAkpn"
       },
@@ -757,9 +757,9 @@
       "lastUpdated": "2022-07-06T11:26:52.127",
       "code": "default",
       "created": "2022-07-06T11:26:52.126",
-      "name": "default",
       "id": "HllvX50cXC0",
       "ignoreApproval": false,
+      "name": "default",
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
@@ -774,9 +774,9 @@
     {
       "lastUpdated": "2022-07-07T09:09:42.914",
       "created": "2022-07-07T09:09:42.914",
-      "name": "Female, 1 - 10y",
       "id": "RN3dfJ6lomx",
       "ignoreApproval": false,
+      "name": "Female, 1 - 10y",
       "categoryCombo": {
         "id": "nmHXktiAkpn"
       },
