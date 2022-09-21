@@ -1,7 +1,7 @@
 # DHIS2-IMIS-ETL-Metadata
 
 
-Supported DHIS2 version: 2.37
+Supported DHIS2 version: 2.38
 
 ## Install
 
